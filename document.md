@@ -13,8 +13,8 @@ Mithilfe dieses Dokuments können Sie Ihre bestehende IT-Infrastruktur auf Lück
 
 Bei darüberhinausgehenenden Fragen kann Ihnen der CCT e.v. gerne einen persönlichen Berater vermitteln. Kontaktieren Sie dafür unverbindlich einen unserer Projektmanager.
 
-Erik Folgreich
-<a href="mailto:email@addresse.de">email@addresse.de</a>
+Erik Folgreich <br />
+<a href="mailto:email@addresse.de">email@addresse.de</a> <br />
 _03306/67673737_
 
 
