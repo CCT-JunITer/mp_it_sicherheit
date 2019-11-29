@@ -80,10 +80,10 @@ Hat der Cloud-Anbieter keine etablierte Marktposition oder besteht eine Gefahr e
 		2. Frühere Performance
 		* Es sollten keine früheren Zwischenfälle existieren, wo Daten veröffentlicht, gestohlen wurden oder sogar Schadsoftware auf der Cloud installiert wurde
 			* Schauen Sie sich hierzu am besten Rezessionen oder Artikel über den Cloud-Anbieter an
-		4. Auf das Single Sign On (SSO) Prinzip achten
+		3. Auf das Single Sign On (SSO) Prinzip achten
 		* *SSO Prinzip erklärt*: Hierbei muss sich der Cloud-Anwender einmal authentifizieren lassen und kann dann Zugang auf eine Vielzahl an Services erhalten ohne sich jedes mal an- und abmelden zu müssen 
 		* Falls der Cloud-Anbieter das SSO Prinzip nicht hat, achten Sie auf starke Passwörter [siehe Kapitel Authentifizierung]
-		5. Achten Sie auf Zertifizierungen
+		4. Achten Sie auf Zertifizierungen
 		* Beispielsweise: SSAE16, ISO 27001, SOC2, PCI, HIPAA
 * Sind die Leistungsinhalte des Cloud-Anbieters nicht detailliert beschrieben? ODER
 Weist der Cloud-Anbieter keine solide wirtschaftliche Basis auf?
