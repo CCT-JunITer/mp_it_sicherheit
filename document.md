@@ -32,11 +32,13 @@ Die folgende Agenda dient zur Orientierung in diesem Dokument.
 
 ### <a name="cloud-section"></a> Cloud
 **Einleitung**
+
 Die Cloud bildet einen wichtigen Grundpfeiler in der digitalen Transformation und ist auch eine essentielle Grundlage für die Verbindung der digitalen mit der physikalischen Welt (Internet of Things). Die Cloud Anbieter werden, aufgrund der Nachfrage, immer schneller und kostengünstiger und hier ist der Vorteil für Organisationen eine Cloud zu nutzen.
 Aktuelle Cloud Anbieter, wie Google, Amazon, SAP oder IBM bieten breit gefächerte Geschäftslösungen an, wie Online Backups, Web Anwendungen oder IT-Management-Systeme. Die Folge hierfür ist, dass immer mehr kritische und sensitive Informationen gesammelt werden und diese sich dementsprechend in der Cloud befinden.
 Doch genau hier können viele Missverständnisse oder Fehler auf der Seite des Konsumenten, wenn es um die Datensicherheit geht, auftreten. Dieses fehlende Verständnis zur Cloud-Sicherheit kann dazu führen, dass Datenverlust, Datenmanipulation oder sogar kritischer Identitätsdiebstahl entsteht.
 
-**Technischer/Rechtlicher/Datenschutz Background:**
+**Technischer/Rechtlicher/Datenschutz Background**
+
 Cloud-basierte Dienstleistungen sind datenschutzrechtlich sehr kritisch, denn häufig werden hier personenbezogene Daten transferiert.
 Beim Cloud-Computing bleibt der Cloud Anwender verantwortlich nach dem Bundesdatenschutzgesetz (§ 3 Abs. 7 BDSG). Das heißt konkret, dass der Cloud-Anwender sicherstellen muss, dass die Daten stets diebstahlsicher sind und regelmäßige Backups gemacht werden.
 Außerdem ist es wichtig, dass der Cloud-Anwender mit dem Cloud-Anbieter einen Vertrag zur Auftragsdatenverarbeitung nach § 11 BDSG schließt. Das bedeutet, dass Nutzer von Cloud-Diensten stets sicherstellen muss, ob der Anbieter die Datenschutzbestimmungen einhält. Falls der Cloud-Anbieter Subunternehmen mit der Verarbeitung der Daten beauftragt, müssen diese im Vertrag aufgeführt werden. Hinsichtlich der Beauftragung der Subunternehmen muss sich der Anwender ein Widerspruchsrecht einräumen lassen. Er muss die Möglichkeit haben, sich in diesen Fällen vom Vertrag zu lösen. Falls kein Widerspruchsrecht existiert und Subunternehmen beteiligt sind, könnte die Gefahr auf den Verlust der Datenkontrolle existieren. Außerdem sollte in diesem Vertrag auch die Möglichkeit eines Anbieterwechsels und Datenportabilität beschrieben werden, sowie den Eigentum an den Daten und das nach der Vertragsbeendigung eine sofortige Löschung der Daten stattfinden muss.
@@ -46,6 +48,7 @@ Da Vor-Ort Kontrollen meistens nicht möglich sind, weil viele Cloud-Anbieter si
 [Zertifikate](https://www.cloudcomputing-insider.de/wie-man-einen-zuverlaessigen-cloud-anbieter-erkennt-a-638966/)
 
 **Risikoanalyse**
+
 * Wird Ihre Cloud möglicherweise im Ausland gehostet?
 	* Achten Sie auf Zertifikate (Trusted Cloud Zertifikat) und lesen Sie sich unbedingt die Datenschutzbedingungen durch
 * Werden regelmäßige lokale Backups der ausgelagerten Daten angelegt?
