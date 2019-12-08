@@ -1,4 +1,4 @@
-# <a name="authentication-section"></a> Authentifizierung
+# Authentifizierung
 **Einleitung**
 
 Bei der Wahl der Passwörter tun sich viele Internetnutzer schwer. Wen wundert es da, dass schlechte Passwörter, wie „1234“ oder „qwerty“ sehr häufig gewählt werden?
