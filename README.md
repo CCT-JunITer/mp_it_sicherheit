@@ -11,7 +11,7 @@ Mithilfe dieses Dokuments können Sie Ihre bestehende IT-Infrastruktur auf Lück
 
 **Aus rechtlichen Gründen übernehmen wir keine Verantwortung für Integrität und Vollständigkeit dieses Dokuments. Wir empfehlen im Zweifelsfall immer einen Experten zurate zu ziehen.**
 
-Bei darüber hinausgehenenden Fragen kann Ihnen der CCT e.v. gerne einen persönlichen Berater vermitteln. Kontaktieren Sie dafür unverbindlich einen unserer Projektmanager.
+Bei darüber hinausgehenden Fragen kann Ihnen der CCT e.v. gerne einen persönlichen Berater vermitteln. Kontaktieren Sie dafür unverbindlich einen unserer Projektmanager.
 
 Dies sind die Kontakten von den Projektmanagern: <br />
 <a href="mailto:pm@cct-ev.de">pm@cct-ev.de</a> <br />
