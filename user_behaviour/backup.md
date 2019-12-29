@@ -1,7 +1,7 @@
 # Backup
 **Einleitung**
 
-Mit einem Back-up beziehungsweise einer Datensicherung können Sie Ihre Daten schützen sowohl vor Hardwaredefekten, Softwarefehlern als auch Krypto-Trojanern. Wer in regelmäßigen Abständen ein Back-up der verschiedenen Geräte anlegt kann dadurch viel Stress und Ärger im Ernstfall vermeiden, wenn das Smartphone oder der Computer beispielsweise verloren oder defekt ist. Stellen Sie sich vor, Sie haben einen Festplattendefekt und all die unbezahlbaren Daten sind auf einmal nicht mehr zu retten. Deshalb machen Sie sich die Mühe, bevor es zu spät ist.
+Mit einem Backup beziehungsweise einer Datensicherung können Sie Ihre Daten schützen sowohl vor Hardwaredefekten, Softwarefehlern als auch Krypto-Trojanern. Wer in regelmäßigen Abständen ein Backup der verschiedenen Geräte anlegt kann dadurch viel Stress und Ärger im Ernstfall vermeiden, wenn das Smartphone oder der Computer beispielsweise verloren oder defekt ist. Stellen Sie sich vor, Sie haben einen Festplattendefekt und all die unbezahlbaren Daten sind auf einmal nicht mehr zu retten. Deshalb machen Sie sich die Mühe, bevor es zu spät ist.
 
 **Technischer/Rechtlicher/Datenschutz Background**
 
