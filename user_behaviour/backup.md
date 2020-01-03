@@ -9,11 +9,13 @@
 * Steht eine große Änderung Ihres Systems an?
   * Erstellen Sie ein Systemabbild auf einer externen Festplatte. Lesen Sie vorher die Anleitung zu [Systemabbild erstellen](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup_instructions.md).
 * Lagern Sie die Sicherung im Selben Gebäude wie das Gerät, von dem sie die Sicherung gemacht haben?
-  * Um im Falle einer Havarie nicht Original und kopie gleichermaßen zu verlieren, sollten sie diese getrennt lagern. Sollte der Lagerort für dritte Zugänglich sein, müssen Sie die Festplatte verschlüsseln, um DSGVO-konform zu bleiben. Wie das geht erfahren Sie hier: https://www.heise.de/tipps-tricks/Externe-Festplatte-sicher-verschluesseln-unter-Windows-so-geht-s-3926948.html
-  * Alternativ speichern Sie Ihre Backups bei einem seriösen Cloud-anbieter. Lesen Sie dafür unser [Kapitel Cloud](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/cloud_chapter.md).
+  * Um im Falle einer Havarie nicht Original und kopie gleichermaßen zu verlieren, sollten sie diese getrennt lagern. 
 * Speichern Sie zeitkritische Daten, die für den Geschäftsbetrieb wichtig sind ODER greifen mehrere Personen auf die selben Daten zu?
   * Erwägen Sie sich einen NAS mit RAID-1 aufzusetzen. Dadurch werden Ihre Daten auf eine zweiten Festplatte spiegelt. Lesen Sie dazu: https://www.pcwelt.de/ratgeber/Was-ist-ein-RAID-System-NAS-Server-445517.html.
   * **Vorsicht:** Ein Nas mit RAID ersetzt kein Backup. Da die zweite Festplatte alles spiegelt, kann ein Softwarefehler zum Versagen beider Festplatten führen.
+* Sind Sie sich unsicher, ob der Aufbewahrungort ihrer Backups vor fremdem Zugriff geschützt ist UND finden Sie keine sichere Alternative?
+  * Verschlüsseln Sie den Datenträger um ihn vor fremdem Zugriff zu schützen. Wie das geht erfahren Sie hier: https://www.heise.de/tipps-tricks/Externe-Festplatte-sicher-verschluesseln-unter-Windows-so-geht-s-3926948.html
+  * ODER: speichern Sie Ihre Backups bei einem seriösen Cloud-anbieter, um die Daten auch vor Verlsut zu schützen. Lesen Sie dafür unser [Kapitel Cloud](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/cloud_chapter.md).
   
 **Technischer/Rechtlicher/Datenschutz Background**<br/>
 Mit einem Backup beziehungsweise einer Datensicherung können Sie Ihre Daten sowohl vor Hardwaredefekten, als auch vor Softwarefehlern schützen. Durch das regelmäßige Angelegen von Backups, lässt sich im Ernstfall - dem Verlust oder der Beschädigung des Computerns oder Smartphones - viel Zeit und Stress ersparen. Bei einem Festplattendefekt sind alle darauf befindlichen Daten unzugänglich und lassen sich nur unter Umständen und mit hohen Kosten von Fachleuten wieder herstellen. In den meisten Fällen ist der Verlust von Daten, ob durch Virenbefall oder Anwenderfehler, mit hohen Kosten verbunden. Indem Sie Ihre Daten an mehreren unterschiedlichen Orten lagern, sind diese selbst bei einer Havarie wie Feuer sicher. Ein Backup bietet Ihnen die einfachste Möglichkeit auch bei Störfällen effizient mit Ihren Daten weiterzuarbeiten.
