@@ -15,7 +15,7 @@
   * Kehren Sie zu dem Systemabbild zurück, dass Sie vor dem Update erstellt haben. Alle Daten, die sich seit dem Systemabbild verändert haben oder neu dazugekommen sind, sind verloren, falls Sie diese nicht zusätzlich abspeichern. Lesen Sie dazu [Anleitung Systemabbild wiederherstellen](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup_instructions.md).
   * Sie sollten nun in Erfahrung bringen, ob das fehlende Update die Sicherheit Ihres Systems gefährdet. Sie finden die Update-Eigenschaften meist auf der Internetseite des Herstellers heraus oder Sie kontaktieren Ihn direkt.
   * Informieren Sie sich ggf. ob es Alternativprogramme gibt, die sie nutzen können und die in ihrer aktuellen Version mit Ihrem System kompartibel sind.
-  * FÜhren Sie eine Liste von programmen, bei deren Update es zu Problemen kam. Dann können spätere Updates schnell auf die bekannten Fehler getestet werden.
+  * Führen Sie eine Liste von Programmen, bei deren Update es zu Problemen beim Update kam. Dann können spätere Updates schnell auf die bekannten Fehler getestet werden.
 
 **Technischer/Rechtlicher/Datenschutz Background**
 Die immer schnellere IT-Entwicklung stellt viele Organisationen vor die Aufgabe, Ihre Software zeitnah zu aktualisieren. In der Praxis zeigt es sich, dass Sicherheitslücken oder Betriebsstörungen häufig auf fehlerhafte oder nicht erfolgte Patches zurückzuführen sind. Ein vernachlässigtes Patch-Management kann also dazu führen, dass Ihre Daten gestohlen werden oder Sie hohe Kosten für die Reparatur Ihrer IT-Systeme zahlen müssen.
