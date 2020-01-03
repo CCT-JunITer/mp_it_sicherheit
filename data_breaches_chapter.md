@@ -20,7 +20,9 @@
 	* Achten Sie darauf, dass der Kunde diese Werbung zugestimmt hat. 
 	* E-Mail-Werbung ohne explizite Einwilligung ist nur zulässig, wenn Produkte erworben wurden, die dem ursprünglich vom Kunden gekauften ähnlich sind und vor der Speicherung der Mail-Adresse der Kunde auf die beabsichtigte Werbung hingewiesen wurde.
 * Bewahren Sie physische Dokumente mit personenbezogenen Daten sicher auf:
-	* Sensible Dokumente **müssen**, egal wo und wann, in verschlossenen Schränken aufbewahrt werden und der Zugang ist auf eine begrenzte Anzahl von Mitarbeitern zu beschränken.
+	* Sensible Dokumente **müssen**, egal wo und wann, in verschlossenen Schränken aufbewahrt werden und der Zugang ist auf eine
+	begrenzte Anzahl von Mitarbeitern zu beschränken.
+	* Einwilligungen, die in Papierform vorliegen, müssen griffbereit gelagert werden (hier kann es möglicherweise zu Nachweisen kommen!).
 * Wenn Sie Dokumente mit sensiblen Daten entsorgen möchten:
 	* Informieren Sie sich über mögliche [Aufbewahrungsfristen](https://www.dsgvo.tools/aufbewahrungsfristen/).
 	* Nutzen Sie einen Schredder die Informationen zu vernichten.
@@ -37,10 +39,6 @@
 	* Die meisten E-Mail Provider besitzen bereits eine etablierte und gängige Verschlüsselung. Informieren Sie sich dementsprechend darüber, wie Sie diese aktivieren können und nutzen Sie diese auch.
 	* Löschen Sie die E-Mail aus Ihrem Postausgang und Papierkorb, sobald sie versendet wurde.
 	* *Wir empfehlen aber:* Versenden Sie **keine** personenbezogenen Daten per E-Mail, sondern nutzen Sie hier, wenn möglich, eine Cloud-Lösung für den Austausch von personenbezogenen Informationen ([Mehr dazu im Kapitel Cloud](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/cloud_chapter.md)).	
-	
-* Haben Sie eine Einwilligung unterschreiben lassen ODER
-wollen Sie eine Einwilligung sicher stellen?
-	* Einwilligungen, die in Papierform gemacht werden müssen besonders aufgehoben werden (hier kann es möglicherweise zu Nachweisen kommen!).
 * Eine Einwilligungserklärung muss immer nachweisbar aufgezeichnet werden. Dies kann geschehen:
 	* mündlich = Tondokument
 	* schriftlich = Papier
