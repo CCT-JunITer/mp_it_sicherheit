@@ -24,9 +24,9 @@ Da Vor-Ort Kontrollen meistens nicht möglich sind, weil viele Cloud-Anbieter si
 
 * Wird Ihre Cloud möglicherweise im Ausland gehostet?
 	* Achten Sie auf Zertifikate (Trusted Cloud Zertifikat) und lesen Sie sich unbedingt die Datenschutzbedingungen durch.
-* Werden regelmäßige lokale Backups der ausgelagerten Daten angelegt?
+* Werden **nicht** regelmäßig lokale Backups der ausgelagerten Daten angelegt?
 	* Legen Sie regelmäßige lokale Backups im Unternehmen an und verstauen Sie diese so sicher wie möglich.
-* Existieren in der Cloud Rollenzuweisungen, wo nur bestimmte Mitarbeiter Zugriff auf bestimmte Dateien/Daten haben ODER
+* Existieren in der Cloud **keine** Rollenzuweisungen, wodurch nur bestimmte Mitarbeiter Zugriff auf bestimmte Dateien/Daten haben ODER
 verlassen Mitarbeiter Ihr Unternehmen?
 	* Legen Sie Rollenzuweisungen für alle Cloud-Nutzer an und achten Sie darauf, dass diese Rollenzuweisungen manipulationssicher sind.
 	* Achten Sie darauf, dass Mitarbeiter nur auf die freigegebenen Dateien Zugriff haben.
