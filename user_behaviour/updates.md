@@ -1,5 +1,5 @@
 # Updates
-**Praxistipps**
+**Praxistipps:**
 
 * Überprüfen Sie, ob Ihr Windows 10 Betriebssystem auf dem aktuellen Stand ist:
   * Gehen Sie zu den PC-Einstellung und von da aus zu Update und Sicherheit. Unter dem Reiter Updates finden Sie alle nötigen Informationen.
