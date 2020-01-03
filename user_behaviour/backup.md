@@ -1,20 +1,19 @@
 # Backup
 
 **Risikoanalyse**
-* Haben Sie noch kein Backup Ihrer Daten?
-  * Finden Sie heraus wieviel Gigabyte an Nutzdaten Sie sichern möchten.
-  * Besorgen Sie sich mindestens eine besser zwei externe Festplatten oder alternativ, falls Sie die Kontrolle Ihrer Daten abzugeben bereit sind, Cloudspeicher. Es sollte genug Speicherplatz für Ihre jetzigen und Ihre zukünftigen Daten sowie für einige Systemabbilder sein.
-  * Machen Sie eine Sicherung Ihrer Daten mithilfe des Dateiversionsverlaufs auf dem Speichermedium. Selbst nur ein Backup kann den Unterschied machen von komplettem zu geringem Datenverlust.
 * Haben sie noch keine Backup-Strategie?
   * Überlegen Sie sich wie häufig Sie Ihre Daten sichern wollen. Wir empfehlen mindestens einmal im Monat. Machen Sie sich am besten eine Notiz im Kalender.
+  * Überlegen Sie sich, wieviele Gigabyte an Nutzdaten Sie sichern möchten und ob sie eine Festplatte oder Cloudlösung bevorzugen
+* Haben Sie noch kein Backup Ihrer Daten?
+  * Machen Sie eine Sicherung Ihrer Daten mithilfe des Dateiversionsverlaufs auf einem Speichermedium.
 * Steht eine große Änderung Ihres Systems an?
   * Erstellen Sie ein Systemabbild auf einer externen Festplatte. Lesen Sie vorher die Anleitung zu [Systemabbild erstellen](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup_instructions.md).
-* Haben Sie Ihre Daten alle an einem physikalischen Ort?
-  * Besorgen Sie sich noch eine zusätzliche Festplatte und speichern Ihre Daten darauf. Lagern Sie diese woanders, zum Beispiel bei einem Freund. Dann sollten Sie die Festplatte aber vorher verschlüsseln, um DSGVO-konform zu bleiben. Wie das geht erfahren Sie hier: https://www.heise.de/tipps-tricks/Externe-Festplatte-sicher-verschluesseln-unter-Windows-so-geht-s-3926948.html
+* Lagern Sie die Sicherung im Selben Gebäude wie das Gerät, von dem sie die Sicherung gemacht haben?
+  * Um im Falle einer Havarie nicht Original und kopie gleichermaßen zu verlieren, sollten sie diese getrennt lagern. Sollte der Lagerort für dritte Zugänglich sein, müssen Sie die Festplatte verschlüsseln, um DSGVO-konform zu bleiben. Wie das geht erfahren Sie hier: https://www.heise.de/tipps-tricks/Externe-Festplatte-sicher-verschluesseln-unter-Windows-so-geht-s-3926948.html
   * Alternativ speichern Sie Ihre Backups bei einem seriösen Cloud-anbieter. Lesen Sie dafür unser [Kapitel Cloud](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/cloud_chapter.md).
 * Speichern Sie zeitkritische Daten, die für den Geschäftsbetrieb wichtig sind ODER greifen mehrere Personen auf die selben Daten zu?
-  * Überlegen Sie sich einen NAS mit RAID-1 aufzusetzen. Sie setzen sich damit einen Server auf, der alle Ihre Daten auf einer zweiten Festplatte spiegelt. Lesen Sie dazu: https://www.pcwelt.de/ratgeber/Was-ist-ein-RAID-System-NAS-Server-445517.html.
-  * **Vorsicht:** Ein Nas mit RAID ersetzt kein Backup. Weil die zweite Festplatte alles spiegelt, kann ein Softwarefehler zum Versagen beider Festplatten führen.
+  * Erwägen Sie sich einen NAS mit RAID-1 aufzusetzen. Dadurch werden Ihre Daten auf eine zweiten Festplatte spiegelt. Lesen Sie dazu: https://www.pcwelt.de/ratgeber/Was-ist-ein-RAID-System-NAS-Server-445517.html.
+  * **Vorsicht:** Ein Nas mit RAID ersetzt kein Backup. Da die zweite Festplatte alles spiegelt, kann ein Softwarefehler zum Versagen beider Festplatten führen.
   
 **Technischer/Rechtlicher/Datenschutz Background**<br/>
 Mit einem Backup beziehungsweise einer Datensicherung können Sie Ihre Daten sowohl vor Hardwaredefekten, als auch vor Softwarefehlern schützen. Durch das regelmäßige Angelegen von Backups, lässt sich im Ernstfall - dem Verlust oder der Beschädigung des Computerns oder Smartphones - viel Zeit und Stress ersparen. Bei einem Festplattendefekt sind alle darauf befindlichen Daten unzugänglich und lassen sich nur unter Umständen und mit hohen Kosten von Fachleuten wieder herstellen. In den meisten Fällen ist der Verlust von Daten, ob durch Virenbefall oder Anwenderfehler, mit hohen Kosten verbunden. Indem Sie Ihre Daten an mehreren unterschiedlichen Orten lagern, sind diese selbst bei einer Havarie wie Feuer sicher. Ein Backup bietet Ihnen die einfachste Möglichkeit auch bei Störfällen effizient mit Ihren Daten weiterzuarbeiten.
