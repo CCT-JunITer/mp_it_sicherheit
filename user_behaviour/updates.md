@@ -11,7 +11,7 @@
   * Viele Programme müssen nur einmal geöffnet werden und bieten von dort einen einfachen Installationsprozess an.
   * Alternativ finden Sie häfig das Update auf der Webseite des Herstellers.
   * Machen Sie sich einen wiederkehrenden Termin im Kalender, an dem Sie kontrollieren, ob Programme aktualisiert werden können.
-*Wenn Ihr System nicht funktioniert, oder  eine Funktion die sie brauchen nach einem Update fehlt:
+* Wenn Ihr System nach einem Update nicht funktioniert, oder  eine Funktion fehlt die sie brauchen:
   * Kehren Sie zu dem Systemabbild zurück, dass Sie vor dem Update erstellt haben. Alle Daten, die sich seit dem Systemabbild verändert haben oder neu dazugekommen sind, sind verloren, falls Sie diese nicht zusätzlich abspeichern. Lesen Sie dazu [Anleitung Systemabbild wiederherstellen](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup_instructions.md).
   * Sie sollten nun in Erfahrung bringen, ob das fehlende Update die Sicherheit Ihres Systems gefährdet. Sie finden die Update-Eigenschaften meist auf der Internetseite des Herstellers heraus oder Sie kontaktieren Ihn direkt.
   * Informieren Sie sich ggf. ob es Alternativprogramme gibt, die sie nutzen können und die in ihrer aktuellen Version mit Ihrem System kompartibel sind.
