@@ -27,7 +27,7 @@ Durch die DSGVO sind umfangreiche Verbraucherrechte, wie Einsichtnahme oder Lös
 Personenbezogene Daten sind dabei alle Daten, die sich einer identifizierten oder identifizierbaren natürliche Person zuordnen lassen. Identifizierbar ist eine Person beispielsweise durch ihren Namen oder Anschrift, aber auch durch Standort-Daten oder schon eine IP-Adresse. Die DSGVO schreibt vor, wie mit eben diesen Daten umgegangen werden muss und in welchem Rahmen die Daten verwendet werden dürfen.
 
 **Um personenbezogene Daten verarbeiten zu dürfe müssen folgende Grundsätze erfüllt werden:**
-* Rechtmäßigkeit (Die Verarbeitung basiert auf einer rechtlichen Grundlage oder Einwilligung)
+* Rechtmäßigkeit 
 * Zweckbindung/Datenminimierung/Speicherbegrenzung (nur die nötigsten Daten würfen gespeichert werden)
 * Transparenz/Richtigkeit (Offenlegung der Verarbeitung und Daten gegenüber den Betroffenen)
 * Rechenschaftspflicht (Dokumentation der Verarbeitungsprozesse)
@@ -35,7 +35,7 @@ Personenbezogene Daten sind dabei alle Daten, die sich einer identifizierten ode
 * Meldepflicht (Melden von Datenpannen)
 <br/><br/>
 
-**Rechtmäßigkeit:**<br/>
+**Rechtmäßigkeit:** (Die Verarbeitung basiert auf einer rechtlichen Grundlage oder Einwilligung) <br/>
 
 Zuerst einmal muss jede Verarbeitung personenbezogener Daten für die Erfüllung eines Vertrages (z. B. der Mitgliedschaft in einem Verein) als notwendig begründbar sein. Andernfalls ist eine explizite Einwilligung der betroffenen Personen erforderlich, die aber jederzeit wiederrufen werden kann. <br/>
 In einem Vertragsverhältnis als notwendig begründen lassen sich beispielsweise Tätigkeiten zur Mitgliederverwaltung oder Kontaktaufnahme, nicht aber die Veröffentlichung von Namen im Internet, oder das Zusenden eines Newsletters.<br/>
