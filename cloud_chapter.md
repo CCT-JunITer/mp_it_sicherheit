@@ -24,14 +24,14 @@ Da Vor-Ort Kontrollen meistens nicht möglich sind, weil viele Cloud-Anbieter si
 
 * Wird Ihre Cloud möglicherweise im Ausland gehostet?
 	* Achten Sie auf Zertifikate (Trusted Cloud Zertifikat) und lesen Sie sich unbedingt die Datenschutzbedingungen durch.
-* Werden regelmäßige lokale Backups der ausgelagerten Daten angelegt?
-	* Legen Sie regelmäßige lokale Backups im Unternehmen an und verstauen Sie diese so sicher wie möglich.
+* Haben Sie die Möglichkeit, regelmäßige lokale Backups der ausgelagerten Daten anzulegen?
+	* Legen Sie lokale Backups an und verstauen Sie diese so sicher wie möglich.
 * Existieren in der Cloud Rollenzuweisungen, wo nur bestimmte Mitarbeiter Zugriff auf bestimmte Dateien/Daten haben ODER
 verlassen Mitarbeiter Ihr Unternehmen?
 	* Legen Sie Rollenzuweisungen für alle Cloud-Nutzer an und achten Sie darauf, dass diese Rollenzuweisungen manipulationssicher sind.
 	* Achten Sie darauf, dass Mitarbeiter nur auf die freigegebenen Dateien Zugriff haben.
 	* Entfernen Sie die ehemaligen Mitarbeiter von der Cloud, die das Unternehmen verlassen haben.
-* Ist Ihre Cloud nicht mit Kosten verbunden?
+* Ist Ihre Cloud kostenfrei?
 	* Hinterfragen Sie diese Angebote kritisch und wechseln Sie ggf. zu einem kostenpflichtigen Cloud-Anbieter.
 * Werden sehr sensible Daten (wie z. B. Rechnungen) in die Cloud hochgeladen?
 	* Stellen Sie die Verschlüsselung der sensiblen Daten vor dem Hochladen in die Cloud sicher.
@@ -58,8 +58,7 @@ Hat der Cloud-Anbieter keine etablierte Marktposition oder besteht eine Gefahr e
 		* Falls der Cloud-Anbieter das SSO Prinzip nicht hat, achten Sie auf starke Passwörter [siehe Kapitel Authentifizierung](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/authentication_chapter.md).
 		4. Achten Sie auf Zertifizierungen
 		* Beispielsweise: SSAE16, ISO 27001, SOC2, PCI, HIPAA.
-* Sind die Leistungsinhalte des Cloud-Anbieters nicht detailliert beschrieben ODER
-weist der Cloud-Anbieter keine solide wirtschaftliche Basis auf?
+* Sind die Leistungsinhalte des Cloud-Anbieters nicht detailliert beschrieben ODER weist der Cloud-Anbieter keine solide wirtschaftliche Basis auf?
 	* Denken Sie über einen Wechsel des Anbieters nach, um die Chance auf Datenverlust zu verringern.
 
 *Unsere Empfehlungen für Cloud-Anbieter:* Google Cloud, Dropbox, Microsoft Azure, AWS, IBM Cloud.
