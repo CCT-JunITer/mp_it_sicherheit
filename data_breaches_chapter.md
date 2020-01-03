@@ -19,7 +19,7 @@
 * Wenn Sie E-Mail Marketing betreiben oder Werbung per E-Mail an Ihre Kunden verschicken:
 	* Achten Sie darauf, dass der Kunde diese Werbung zugestimmt hat. 
 	* E-Mail-Werbung ohne explizite Einwilligung ist nur zulässig, wenn Produkte erworben wurden, die dem ursprünglich vom Kunden gekauften ähnlich sind und vor der Speicherung der Mail-Adresse der Kunde auf die beabsichtigte Werbung hingewiesen wurde.
-* Wenn Sie physische Dokumente mit personenbezogenen Daten sicher aufbewahren:
+* Wenn Sie physische Dokumente mit personenbezogenen Daten aufbewahren:
 	* Sensible Dokumente **müssen**, egal wo und wann, in verschlossenen Schränken aufbewahrt werden und der Zugang ist auf eine
 	begrenzte Anzahl von Mitarbeitern zu beschränken.
 	* Einwilligungen, die in Papierform vorliegen, müssen griffbereit gelagert werden (hier kann es möglicherweise zu Nachweisen kommen!).
