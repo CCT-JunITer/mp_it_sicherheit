@@ -23,7 +23,7 @@ _+49 160 7864577_
 Dieses Dokument führt sie durch die wichtigsten Themen aus den Bereichen Datenschutz und IT-Sicherheit, und gibt ihnen dabei Wissen und Werkszeuge an die Hand, mit deren Hilfe sie sich vor Pannen und Angriffen schützen können.
 
 
-## Agenda
+### Agenda
 
 Die folgende Agenda dient zur Orientierung in diesem Dokument.
 
@@ -36,3 +36,17 @@ Die folgende Agenda dient zur Orientierung in diesem Dokument.
 7. [Nutzerverhalten](#user-section)
     1. [Backup](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup.md)
     2. [Updates](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/updates.md)
+    
+### Aufbau eines Kapitels:
+
+#### Checkliste:
+Zu Beginn jedes Kapitels finden Sie eine Checkliste mit Fragen. Diese sind so formuliert, dass, wenn sie mit „ja“ beantwortet werden u.u Handlungsbedarf besteht, und die darunter stehende Frage/ Maßnahme relevant wird.
+Fragen die sie mit „Nein“ beantworten können, sind für Sie nicht weiter relevant und sie können dieses wegstreichen (X).
+Antwort auf eine Frage:
+Nein (Thema bereits abgedeckt) ->   X
+Ja (hier besteht Handlungsbedarf) -> √
+Die Vorgeschlagenen Maßnahmen (die Sie am Ende mit √ markiert haben) verweisen z.t. auf Leitfäden am Ende des Dokuments oder externe Webseiten.
+#### Background:
+Die Umsetzung der vorgeschlagenen Maßnahmen bedeutet häufig zusätzlichen Aufwand und Aufmerksamkeit bei der Verrichtung der Arbeit. Schon aus Gründen der Nutzerakzeptanz ist es daher sinnvoll, den Hintergrund der durchzuführenden Maßnahmen zu verstehen.
+Im Teil „Technischer/Rechtlicher/Datenschutz Background“ wird daher genauer erklärt, wieso sich der zusätzliche Aufwand rechtfertigt, es werden Begriffe erklärt und zusätzliche Informationen vermittelt.
+
