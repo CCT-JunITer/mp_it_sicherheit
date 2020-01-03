@@ -1,12 +1,4 @@
 # Praxistipps: Datenschutzpannen vermeiden
-**Technischer/Rechtlicher/Datenschutz Background**<br/>
-Seit dem Inkrafttreten der DSGVO werden Datenschutzpannen vermehrt gemeldet. Wie das Staatsministerium Baden-Württemberg erklärt, habe sich die Zahl solcher Meldungen seit Mai 2018 verzehnfacht.<br/>
-Eine sehr häufig gemeldete Datenschutzverletzung ist der Fehlversand einer E-Mail. Hier wurde der Empfänger falsch angegeben und hat dementsprechend personenbezogene Daten erhalten, die ihm nicht gehören. Die Bußgeldstrafe kann hier bis in einer Höhe von 200.000 Euro gehen. Sie sollten immer besonders aufmerksam auf den Empfänger der E-Mail achten, um solche naiven Datenschutzverletzungen zu verhindern.<br/>
-Falls Sie E-Mail Verkehr in „cc" betreiben, kann dies erhebliche Konsequenzen haben. Häufig werden im Büroalltag E-Mails schlicht an einem großen Empfängerkreis mittels „cc“ (Carbon Copy = Kopie) weitergeleitet. Der Empfänger erfährt dadurch den Inhalt und die Emailbeteiligten der vorhergehende Nachricht. Hier können personenbezogene E-Mail Adressen weitergeleitet werden ohne irgendeine Einwilligung von den Beteiligten. E-Mail Adressen können personenbezogene Daten darstellen, sobald diese E-Mail Adresse einer Person eindeutig zugeordnet werden kann. Wir empfehlen hier mit „bcc“ (blind carbon copy) zu arbeiten. Sie können dadurch vermeiden, dass die anderen Empfänger sehen, wer beispielsweise den Newsletter bezieht.<br/>
-Des Weiteren empfehlen wir stets, nach dem Senden einer personenbezogenen E-Mail stets diese E-Mail aus dem Postfach zu löschen. Diese Sicherheitsmaßnahme verhindert, dass durch beispielsweise Phishingangriffe (eine Beschaffung personenbezogener Daten mit gefälschten E-Mails oder Websites), keine personenbezogenen Daten in falsche Hände geraten.<br/>
-Eine weitere Datenschutzverletzung ist der Verlust eines Datenträgers. Hier werden sensible Daten verloren und dies kann zu einer sehr hohen Bußgeldstrafe führen. Wir empfehlen, keine eigenen Datenträger für sensible Daten zu benutzen, sondern stets eine sichere Cloud-Lösung ([siehe Cloud Kapitel](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/cloud_chapter.md)).<br/>
-Außerdem dürfen Sie keine personenbezogenen Daten weitergeben, ohne die Einwilligung dieser Person. Hierzu brauchen Sie eine Nachweispflicht, die Sie aufnehmen müssen (schriftlich, auditiv oder elektronisch). Erklären Sie der Person, dass Sie diese Daten verarbeiten dürfen, und seien Sie der Personen stets ehrlich und offen. Schriftliche Einwilligungen sowie jegliche schriftliche personenbezogene Daten, müssen stets verschlossen in einem Schrank aufbewahrt werden. <br/>
-
 **Praxistipps**
 * Wenn ein Partner personenbezogene Daten über einem Kunden verlangt:
 	* Sie dürfen personenbezogene Daten nur **nach** Einwilligung der Person, für diesen spezifischen Zweck, weitergeben.
@@ -46,9 +38,18 @@ Außerdem dürfen Sie keine personenbezogenen Daten weitergeben, ohne die Einwil
 	* Löschen Sie die E-Mail aus Ihrem Postausgang und Papierkorb, sobald sie versendet wurde.
 	* *Wir empfehlen aber:* Versenden Sie **keine** personenbezogenen Daten per E-Mail, sondern nutzen Sie hier, wenn möglich, eine Cloud-Lösung für den Austausch von personenbezogenen Informationen ([Mehr dazu im Kapitel Cloud](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/cloud_chapter.md)).	
 	
-####
 * Haben Sie eine Einwilligung unterschreiben lassen ODER
 wollen Sie eine Einwilligung sicher stellen?
 	* Einwilligungen, die in Papierform gemacht werden müssen besonders aufgehoben werden (hier kann es möglicherweise zu Nachweisen kommen!).
-* Wissen Sie nicht, wie Sie eine Nachweispflicht aufzeichnen können?
-	* Eine Nachweispflicht muss immer aufgezeichnet werden (mündlich = Tondokument, schriftlich = Papier, elektronisch = Logfile oder Bestätigungsnachweis).
+* Eine Einwilligungserklärung muss immer nachweisbar aufgezeichnet werden. Dies kann geschehen:
+	* mündlich = Tondokument
+	* schriftlich = Papier
+	* elektronisch = Logfile oder Bestätigungsnachweis).
+
+**Technischer/Rechtlicher/Datenschutz Background**<br/>
+Seit dem Inkrafttreten der DSGVO werden Datenschutzpannen vermehrt gemeldet. Wie das Staatsministerium Baden-Württemberg erklärt, habe sich die Zahl solcher Meldungen seit Mai 2018 verzehnfacht.<br/>
+Eine sehr häufig gemeldete Datenschutzverletzung ist der Fehlversand einer E-Mail. Hier wurde der Empfänger falsch angegeben und hat dementsprechend personenbezogene Daten erhalten, die ihm nicht gehören. Die Bußgeldstrafe kann hier bis in einer Höhe von 200.000 Euro gehen. Sie sollten immer besonders aufmerksam auf den Empfänger der E-Mail achten, um solche naiven Datenschutzverletzungen zu verhindern.<br/>
+Falls Sie E-Mail Verkehr in „cc" betreiben, kann dies erhebliche Konsequenzen haben. Häufig werden im Büroalltag E-Mails schlicht an einem großen Empfängerkreis mittels „cc“ (Carbon Copy = Kopie) weitergeleitet. Der Empfänger erfährt dadurch den Inhalt und die Emailbeteiligten der vorhergehende Nachricht. Hier können personenbezogene E-Mail Adressen weitergeleitet werden ohne irgendeine Einwilligung von den Beteiligten. E-Mail Adressen können personenbezogene Daten darstellen, sobald diese E-Mail Adresse einer Person eindeutig zugeordnet werden kann. Wir empfehlen hier mit „bcc“ (blind carbon copy) zu arbeiten. Sie können dadurch vermeiden, dass die anderen Empfänger sehen, wer beispielsweise den Newsletter bezieht.<br/>
+Des Weiteren empfehlen wir stets, nach dem Senden einer personenbezogenen E-Mail stets diese E-Mail aus dem Postfach zu löschen. Diese Sicherheitsmaßnahme verhindert, dass durch beispielsweise Phishingangriffe (eine Beschaffung personenbezogener Daten mit gefälschten E-Mails oder Websites), keine personenbezogenen Daten in falsche Hände geraten.<br/>
+Eine weitere Datenschutzverletzung ist der Verlust eines Datenträgers. Hier werden sensible Daten verloren und dies kann zu einer sehr hohen Bußgeldstrafe führen. Wir empfehlen, keine eigenen Datenträger für sensible Daten zu benutzen, sondern stets eine sichere Cloud-Lösung ([siehe Cloud Kapitel](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/cloud_chapter.md)).<br/>
+Außerdem dürfen Sie keine personenbezogenen Daten weitergeben, ohne die Einwilligung dieser Person. Hierzu brauchen Sie eine Nachweispflicht, die Sie aufnehmen müssen (schriftlich, auditiv oder elektronisch). Erklären Sie der Person, dass Sie diese Daten verarbeiten dürfen, und seien Sie der Personen stets ehrlich und offen. Schriftliche Einwilligungen sowie jegliche schriftliche personenbezogene Daten, müssen stets verschlossen in einem Schrank aufbewahrt werden. <br/>
