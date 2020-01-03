@@ -29,10 +29,10 @@ Personenbezogene Daten sind dabei alle Daten, die sich einer identifizierten ode
 **Um personenbezogene Daten verarbeiten zu dürfe müssen folgende Grundsätze erfüllt werden:**
 * Rechtmäßigkeit (Die Verarbeitung basiert auf einer rechtlichen Grundlage oder Einwilligung)
 * Zweckbindung/Datenminimierung/Speicherbegrenzung (nur die nötigsten Daten würfen gespeichert werden)
-* Transparenz/Richtigkeit
-* Rechenschaftspflicht
-* Kontrolle
-* Meldepflicht
+* Transparenz/Richtigkeit (Offenlegung der Verarbeitung und Daten gegenüber den Betroffenen)
+* Rechenschaftspflicht (Dokumentation der Verarbeitungsprozesse)
+* Kontrolle (Absicherung gegenüber externen Datenverarbeitern und Mitarbeitern)
+* Meldepflicht (Melden von Datenpannen)
 <br/><br/>
 
 **Rechtmäßigkeit:**<br/>
