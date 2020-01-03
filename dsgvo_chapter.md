@@ -1,4 +1,4 @@
-# Datenschutz
+# DSGVO
 **Dieses Kapitel ist für kleine Vereine und Organisationen anwendbar, in denen sich weniger als 10 Personen regelmäßig mit dem Umgang mit personenbezogenen Daten beschäftigen und keine besonders brisanten Daten (wie Gesundheitsdaten) verarbeitet werden.**
 
 **Risikoliste**
