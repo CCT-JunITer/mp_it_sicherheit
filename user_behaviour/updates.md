@@ -1,15 +1,15 @@
 # Updates
 **Risikoanalyse**
 
-* Wissen Sie nicht ob Ihr Windows 10 Betriebssystem auf dem aktuellen Stand ist?
+* Wissen Sie **nicht** ob Ihr Windows 10 Betriebssystem auf dem aktuellen Stand ist?
   * Gehen Sie zu den PC-Einstellung und von da aus zu Update und Sicherheit. Unter dem Reiter Updates finden Sie alle nötigen Informationen.
   * Wenn ein Update aussteht, machen Sie eine Systemabbildsicherung Ihres Computers vor der Durchführung des Updates. Lesen Sie dazu unser [Unterkapitel Backup](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup.md).
-* Wissen Sie nicht welche Programme Ihres Systems aktuell sind? 
+* Wissen Sie **nicht** welche Programme Ihres Systems aktuell sind? 
   * Verschaffen Sie sich einen Überblick über die Aktualität Ihrer Programme mit der Software Sumo. Lesen Sie dazu [Anleitung Updates tracken mit Sumo](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/updates_instructions.md).
   * Machen Sie auch hier ein Systemabbild von Ihrem System bevor Sie Updates von wichtigen Programmen einspielen.
   * Aktualisieren Sie Ihre Programme. Viele Programme müssen nur einmal geöffnet werden und bieten von dort einen einfachen Installationsprozess an. Manchmal muss man aber auch zu der Interseite des Softwareherstellers gehen und die neue Version dort herunterladen.
   * Machen Sie sich einen wiederkehrenden Termin im Kalender, an dem Sie kontrollieren, ob Programme aktualisiert werden können.
-* Funktioniert Ihr System nicht oder fehlt eine Funktion die sie brauchen nach einem Update?
+* Funktioniert Ihr System **nicht** oder fehlt eine Funktion die sie brauchen nach einem Update?
   * Kehren Sie zurück zu dem Systemabbild, dass Sie sich vor dem Update erstellt haben. Alle Daten, die sich seit dem Systemabbild verändert haben oder neu dazugekommen sind, sind verloren, falls Sie diese nicht zusätzlich abspeichern. Lesen Sie dazu [Anleitung Systemabbild wiederherstellen](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup_instructions.md).
   * Sie sollten nun in Erfahrung bringen, ob das fehlende Update die Sicherheit Ihres Systems gefährdet. Sie finden die Update-Eigenschaften meist auf der Internetseite des Herstellers heraus oder Sie kontaktieren Ihn direkt.
   * Informieren Sie sich auch, ob es Alternativprogramme gibt, die sie nutzen können. 
