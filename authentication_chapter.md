@@ -10,11 +10,8 @@ Deswegen wird es umso wichtiger ein langes und kryptisches Passwort zu wählen, 
 **Technischer/Rechtlicher/Datenschutz Background**
 Bei der Wahl der Passwörter tun sich viele Internetnutzer schwer, was viel zu häufig dafür sorgt, dass schlechte Passwörter, wie „1234“ oder „qwerty“ gewählt werden.
 Passwörter sind dazu da, Ihre vertrauliche Daten und somit Ihr Leben im Internet zu schützen. IT-Sicherheitsexperten empfehlen stets lange, kryptische und unterschiedliche Passwörter zu benutzen.
-
 Der meist gewählte Weg von Hackern in ein Account einzudringen, ist durch die sogenannte Brute-Force Attacke. Dabei werden automatisiert verschidenen Zeichenkombinationen als Passwort "ausprobiert", solange, bis durch Zufall das richtige Passwort erraten wurde. Ein besonders langes Passwort sorgt dafür, dass es um so länger dauert, auf die richtige Kombination zu kommen und erhöht damit die Sicherheit Ihres Accounts.
-
-Eine anderes, häufiges Angriffsszenario ist der Wörterbuchangriff. Hierbei werden nicht alle Zeichenkombinationen sondern verschiedene Wortkombinationen automatisiert als Passwort ausprobiert. Ist Ihr Passwort zwar lang, enthält aber nur eine Reihung von Worten, so kann es bei einem Wörterbuchangriff schnell erraten werden. Verwenden Sie in Ihrem passwort also Sonderzeichen um auch diesen einen solchen Angriff zu erschweren.
-
+Eine anderes, häufiges Angriffsszenario ist der Wörterbuchangriff. Hierbei werden nicht alle Zeichenkombinationen sondern verschiedene Wortkombinationen automatisiert als Passwort ausprobiert. Ist Ihr Passwort zwar lang, enthält aber nur eine Reihung von Worten, so kann es bei einem Wörterbuchangriff schnell erraten werden. Verwenden Sie in Ihrem passwort also Sonderzeichen um auch einen solchen Angriff zu erschweren.
 Achten Sie auch darauf, insbesondere bei Ihren E-Mail-Konten, niemals das selbe Passwort bei für verschiedene Online-Diensten zu verwenden. Kommt ein Hacker in Besitz Ihres Passwortes, hat er sonst vollen zugriff auf Ihre digitale Existenz.
 
 <Trick erklären, wie man ein sicheres Passwort erstellt>
