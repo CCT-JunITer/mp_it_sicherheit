@@ -2,12 +2,14 @@
 **Praxistipps:**
 
 * Überprüfen Sie, ob Ihr Windows 10 Betriebssystem auf dem aktuellen Stand ist:
-  * Gehen Sie zu den PC-Einstellung und von da aus zu Update und Sicherheit. Unter dem Reiter Updates finden Sie alle nötigen Informationen.
-  * Wenn ein Update ansteht, machen Sie eine Systemabbildsicherung Ihres Computers vor der Durchführung des Updates. Lesen Sie dazu unser [Unterkapitel Backup](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup.md).
+  * Öffnen Sie die PC-Einstellung und wählen Sie "Update und Sicherheit" aus. Unter dem Reiter Updates finden Sie alle nötigen Informationen.
+* Wenn ein wichtiges Update ansteht:
+  * machen Sie eine Systemabbildsicherung Ihres Computers vor der Durchführung des Updates. Lesen Sie dazu unser [Unterkapitel Backup](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup.md).
 * Wenn Sie erfahren möchten, welche Programme Ihres Systems aktuell sind:
   * Verschaffen Sie sich einen Überblick über die Aktualität Ihrer Programme mithilfe der Software Sumo. Lesen Sie dazu [Anleitung Updates tracken mit Sumo](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/updates_instructions.md).
-  * Machen Sie auch hier ein Systemabbild von Ihrem System bevor Sie Updates von wichtigen Programmen einspielen.
-  * Aktualisieren Sie Ihre Programme. Viele Programme müssen nur einmal geöffnet werden und bieten von dort einen einfachen Installationsprozess an. Alternativ finden Sie häfig das Update auf der Webseite des Herstellers.
+* Aktualisieren Sie Ihre Programme regelmäßig:
+  * Viele Programme müssen nur einmal geöffnet werden und bieten von dort einen einfachen Installationsprozess an.
+  * Alternativ finden Sie häfig das Update auf der Webseite des Herstellers.
   * Machen Sie sich einen wiederkehrenden Termin im Kalender, an dem Sie kontrollieren, ob Programme aktualisiert werden können.
 *Wenn Ihr System nicht funktioniert, oder  eine Funktion die sie brauchen nach einem Update fehlt:
   * Kehren Sie zu dem Systemabbild zurück, dass Sie vor dem Update erstellt haben. Alle Daten, die sich seit dem Systemabbild verändert haben oder neu dazugekommen sind, sind verloren, falls Sie diese nicht zusätzlich abspeichern. Lesen Sie dazu [Anleitung Systemabbild wiederherstellen](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup_instructions.md).
