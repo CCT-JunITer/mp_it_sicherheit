@@ -26,12 +26,22 @@ Mit dem Inkrafttreten der DSGVO (Datenschutz-Grundverordnung) auf europäischer 
 Durch die DSGVO sind umfangreiche Verbraucherrechte, wie Einsichtnahme oder Löschung von personenbezogenen Daten, und eine genaue Dokumentation der Verwendung dieser Daten vorgeschrieben.<br/>
 Personenbezogene Daten sind dabei alle Daten, die sich einer identifizierten oder identifizierbaren natürliche Person zuordnen lassen. Identifizierbar ist eine Person beispielsweise durch ihren Namen oder Anschrift, aber auch durch Standort-Daten oder schon eine IP-Adresse. Die DSGVO schreibt vor, wie mit eben diesen Daten umgegangen werden muss und in welchem Rahmen die Daten verwendet werden dürfen.
 
-ÜBERSICHT
+Um personenbezogene Daten verarbeiten zu dürfe müssen folgende Grundsätze erfüllt werden:
+* Rechtmäßigkeit (Die Verarbeitung basiert auf einer rechtlichen Grundlage oder Einwilligung)
+* Zweckbindung/Datenminimierung (nur die nötigsten Daten würfen gespeichert werden)
+* Transparenz 
+* 
 
+Rechtmäßigkeit:
 Zuerst einmal muss jede Verarbeitung personenbezogener Daten für die Erfüllung eines Vertrages (z. B. der Mitgliedschaft in einem Verein) als notwendig begründbar sein. Andernfalls ist eine explizite Einwilligung der betroffenen Personen erforderlich, die aber jederzeit wiederrufen werden kann. <br/>
 In einem Vertragsverhältnis als notwendig begründen lassen sich beispielsweise Tätigkeiten zur Mitgliederverwaltung oder Kontaktaufnahme, nicht aber die Veröffentlichung von Namen im Internet, oder das Zusenden eines Newsletters.<br/>
+
+Zweckbindung/Datenminimierung:
+Entfällt die Rechtsgrundlage zur Verarbeitung personenbezogener Daten, so müssen diese gelöscht werden. Dies ist zum Beispiel der Fall, wenn der zugrunde liegende Vertrag gekündigt, oder die gesonderte Einwilligung widerrufen wurde. Hierbei müssen unter Umständen gewisse Fristen beachtet werden. So kann es sinnvoll sein, bestimmte Daten (mit Einwilligung der betroffenen Person) eine gewisse Zeit aufzubewahren, um sich ggf. im Falle einer rechtlichen Auseinandersetzung rechtfertigen zu können.<br/>
+
+Transparenz:
 Alle notwendigen Datenverarbeitungsabläufe müssen dabei konkret beschrieben und den Betroffenen von Beginn an offengelegt werden. Dafür bietet es sich an, eine gesonderte Datenschutzordnung zu erstellen, die von allen Mitgliedern zur Kenntnis genommen werden muss ([Datenschutzordung](https://lfd.niedersachsen.de/download/139476)). Für nicht notwendige Datenverarbeitungsabläufe ist eine explizite Einwilligung der Personen notwendig.<br/>
-Entfällt die Rechtsgrundlage zur Verarbeitung personenbezogener Daten, so müssen diese gelöscht werden. Dies ist zum Beispiel der Fall, wenn der zugrunde liegende Vertrag gekündigt, oder die gesonderte Einwilligung widerrufen wurde. Hierbei müssen unter Umständen gewisse Fristen beachtet werden. So kann es sinnvoll sein, bestimmte Daten (mit Einwilligung der betroffenen Person) eine gewisse Zeit aufzubewahren, um sich ggf. im Falle einer rechtlichen Auseinandersetzung rechtfertigen zu können.
+
 
 Die Personen, deren personenbezogene Daten bei Ihnen verarbeitet werden, haben ein Auskunftsrecht (Art. 15 DSGVO). Sie müssen hierbei Auskunft zu folgenden Sachen geben, falls dies gewünscht wird: Verarbeitungszwecke, Datenkategorien, Datenempfänger oder Kategorien von Empfängern, Dauer der Datenspeicherung oder Kriterien der Dauer (z. B. im Falle von Bewerberdaten bis eine Stellenbesetzung erfolgt ist), Herkunft der Daten, die nicht bei Betroffenen erhoben wurden, Profiling (Erstellen von Nutzerprofilen, um z. B. die Arbeitsleistung oder persönlichen Vorlieben einer Person zu bewerten; hierbei ist die Person auch auf Ihre Rechte hinzuweisen).<br/>
 Es existiert neben dem Auskunftsrecht auch das Recht auf Berichtigung (Art. 16 DSGVO). Hierbei können Personen die Korrektur unrichtiger Daten und die Vervollständigung unvollständiger Daten verlangen.<br/>
