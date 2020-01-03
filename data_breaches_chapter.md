@@ -1,4 +1,4 @@
-# Datenschutzpannen vermeiden
+# Praxistipps: Datenschutzpannen vermeiden
 **Technischer/Rechtlicher/Datenschutz Background**
 Seit dem Inkrafttreten der DSGVO werden Datenschutzpannen vermehrt gemeldet. Wie das Staatsministerium Baden-Württemberg erklärt, habe sich die Zahl solcher Meldungen seit Mai 2018 verzehnfacht.<br/>
 Eine sehr häufig gemeldete Datenschutzverletzung ist der Fehlversand einer E-Mail. Hier wurde der Empfänger falsch angegeben und hat dementsprechend personenbezogene Daten erhalten, die ihm nicht gehören. Die Bußgeldstrafe kann hier bis in einer Höhe von 200.000 Euro gehen. Sie sollten immer besonders aufmerksam auf den Empfänger der E-Mail achten, um solche naiven Datenschutzverletzungen zu verhindern.<br/>
