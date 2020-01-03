@@ -1,4 +1,5 @@
 # Datenschutz
+**Dieses Kapitel ist für kleine Vereine und Organisationen anwendbar, in denen sich weniger als 10 Personen regelmäßig mit dem Umgang mit personenbezogenen Daten beschäftigen und keine besonders brisanten Daten (wie Gesundheitsdaten) verarbeitet werden.**
 
 **Risikoliste**
 
@@ -18,16 +19,14 @@
   * Machen Sie ein entsprechendes Dokument für alle (bspw. auf Ihrer Webseite) zugänglich.
 * Sind nicht alle Datenverarbeitungsabläufe für die Vertragserfüllung notwendig?
   * Stellen Sie sicher, dass von jedem Mitglied eine Einwilligungserklärung vorliegt.
-
-
-**Dieses Kapitel ist für kleine Vereine und Organisationen anwendbar, in denen sich weniger als 10 Personen regelmäßig mit dem Umgang mit personenbezogenen Daten beschäftigen und keine besonders brisanten Daten (wie Gesundheitsdaten) verarbeitet werden.**
-
+  
+**Technischer/Rechtlicher/Datenschutz Background**
 Mit dem Inkrafttreten der DSGVO (Datenschutz-Grundverordnung) auf europäischer Ebene im Jahr 2018, ist vor allem die Verunsicherung rund um das Thema Datenschutz gestiegen. Bei Pflichtverletzungen haftet der Vorstand möglicherweise mit seinem Privatvermögen und hat dadurch ein großes Interesse daran, die internen Prozesse möglichst datenschutzkonform zu gestalten.
 
 Durch die DSGVO sind umfangreiche Verbraucherrechte, wie Einsichtnahme oder Löschung von personenbezogenen Daten, und eine genaue Dokumentation der Verwendung dieser Daten vorgeschrieben.<br/>
 Personenbezogene Daten sind dabei alle Daten, die sich einer identifizierten oder identifizierbaren natürliche Person zuordnen lassen. Identifizierbar ist eine Person beispielsweise durch ihren Namen oder Anschrift, aber auch durch Standort-Daten oder schon eine IP-Adresse. Die DSGVO schreibt vor, wie mit eben diesen Daten umgegangen werden muss und in welchem Rahmen die Daten verwendet werden dürfen.
 
-**Technischer/Rechtlicher/Datenschutz Background**
+ÜBERSICHT
 
 Zuerst einmal muss jede Verarbeitung personenbezogener Daten für die Erfüllung eines Vertrages (z. B. der Mitgliedschaft in einem Verein) als notwendig begründbar sein. Andernfalls ist eine explizite Einwilligung der betroffenen Personen erforderlich, die aber jederzeit wiederrufen werden kann. <br/>
 In einem Vertragsverhältnis als notwendig begründen lassen sich beispielsweise Tätigkeiten zur Mitgliederverwaltung oder Kontaktaufnahme, nicht aber die Veröffentlichung von Namen im Internet, oder das Zusenden eines Newsletters.<br/>
