@@ -29,7 +29,7 @@ Personenbezogene Daten sind dabei alle Daten, die sich einer identifizierten ode
 Um personenbezogene Daten verarbeiten zu dürfe müssen folgende Grundsätze erfüllt werden:
 * **Rechtmäßigkeit (Die Verarbeitung basiert auf einer rechtlichen Grundlage oder Einwilligung)**
 * **Zweckbindung/Datenminimierung/Speicherbegrenzung (nur die nötigsten Daten würfen gespeichert werden)**
-* **Transparenz/Richtigkeit **
+* **Transparenz/Richtigkeit**
 * **Rechenschaftspflicht**
 * **Kontrolle**
 * **Meldepflicht**
@@ -40,11 +40,11 @@ Um personenbezogene Daten verarbeiten zu dürfe müssen folgende Grundsätze erf
 Zuerst einmal muss jede Verarbeitung personenbezogener Daten für die Erfüllung eines Vertrages (z. B. der Mitgliedschaft in einem Verein) als notwendig begründbar sein. Andernfalls ist eine explizite Einwilligung der betroffenen Personen erforderlich, die aber jederzeit wiederrufen werden kann. <br/>
 In einem Vertragsverhältnis als notwendig begründen lassen sich beispielsweise Tätigkeiten zur Mitgliederverwaltung oder Kontaktaufnahme, nicht aber die Veröffentlichung von Namen im Internet, oder das Zusenden eines Newsletters.<br/>
 
-**Zweckbindung/Datenminimierung/Speicherbegrenzung:**<br/>
+**Zweckbindung/Datenminimierung/Speicherbegrenzung:**
 
 Entfällt die Rechtsgrundlage zur Verarbeitung personenbezogener Daten, so müssen diese gelöscht werden. Dies ist zum Beispiel der Fall, wenn der zugrunde liegende Vertrag gekündigt, oder die gesonderte Einwilligung widerrufen wurde. Hierbei müssen unter Umständen gewisse Fristen beachtet werden. So kann es sinnvoll sein, bestimmte Daten (mit Einwilligung der betroffenen Person) eine gewisse Zeit aufzubewahren, um sich ggf. im Falle einer rechtlichen Auseinandersetzung rechtfertigen zu können.<br/>
 
-**Transparenz/Richtigkeit:**<br/>
+**Transparenz/Richtigkeit:**
 
 Alle notwendigen Datenverarbeitungsabläufe müssen dabei konkret beschrieben und den Betroffenen von Beginn an offengelegt werden. Dafür bietet es sich an, eine gesonderte Datenschutzordnung zu erstellen, die von allen Mitgliedern zur Kenntnis genommen werden muss ([Datenschutzordung](https://lfd.niedersachsen.de/download/139476)). Für nicht notwendige Datenverarbeitungsabläufe ist eine explizite Einwilligung der Personen notwendig.<br/>
 Die Personen, deren personenbezogene Daten bei Ihnen verarbeitet werden, haben ein Auskunftsrecht (Art. 15 DSGVO). Sie müssen hierbei Auskunft zu folgenden Sachen geben, falls dies gewünscht wird: Verarbeitungszwecke, Datenkategorien, Datenempfänger oder Kategorien von Empfängern, Dauer der Datenspeicherung oder Kriterien der Dauer (z. B. im Falle von Bewerberdaten bis eine Stellenbesetzung erfolgt ist), Herkunft der Daten, die nicht bei Betroffenen erhoben wurden, Profiling (Erstellen von Nutzerprofilen, um z. B. die Arbeitsleistung oder persönlichen Vorlieben einer Person zu bewerten; hierbei ist die Person auch auf Ihre Rechte hinzuweisen).<br/>
@@ -54,15 +54,15 @@ Außerdem haben die Personen auch das Recht auf Löschung (Art. 17 DSGVO). Hier 
 Des Weiteren kann die Person auch Einschränkung der Datenverarbeitung verlangen, wenn z. B. die Verarbeitung unrechtmäßig und die Richtigkeit der Daten bestreitbar ist (Recht auf eine Einschränkung Art. 18 DSGVO).<br/>
 Es existiert auch ein Widerspruchsrecht (Art. 21 DSGVO) und das Beschwerderecht (Art. 77 DSGVO).<br/>
 
-**Rechenschaftspflicht:**<br/>
+**Rechenschaftspflicht:**
 
 Zusätzlich zur Transparenz nach innen müssen alle Verarbeitungsprozesse personenbezogener Daten in einem „Verzeichnis von Verarbeitungstätigkeiten“ dokumentiert werden, welches zwecks Kontrolle der zuständigen Behörde auf Nachfrage ausgehändigt werden muss ([Vorlage](https://www.ldi.nrw.de/mainmenu_Datenschutz/submenu_Verzeichnis-Verarbeitungstaetigkeiten/Inhalt/Verarbeitungstaetigkeiten/Muster-Verarbeitungsverzeichnis-Verantwortlicher.pdf)). Erfolgt die Verarbeitung nur „gelegentlich“ (nicht in bestimmten Abständen), so kann in bestimmten Fällen auf die Erstellung des Verzeichnisses verzichtet werden ([siehe Abschnitt 5](https://lfd.niedersachsen.de/download/127457/Hinweise_zum_Verzeichnis_von_Verarbeitungstaetigkeiten.pdf.pdf)). In der Regel erfordert aber schon eine regelmäßige Lohnabrechnung die Führung dieses Verzeichnisses.
 
-**Kontrolle:**<br/>
+**Kontrolle:**
 
 Sobald personenbezogene Daten an dritte weitergegeben werden, oder dritte im Zuge einer Dienstleistung Zugriff auf solche Daten erhalten könnten, schreibt die DSGVO einen Vertrag zur „Auftragsverarbeitung“ vor. Darin wird genau festgelegt, wie mit den Daten umgegangen werden muss ([Link zu Muster](https://www.lda.bayern.de/media/muster_adv.pdf)). <br/>
 Der Vorstand ist weiterhin verpflichtet, sich auch nach innen gegenüber seinen Mitarbeitern/Mitgliedern abzusichern. Dazu empfiehlt es sich eine schriftliche Datenschutz-Verpflichtung unterschreiben zu lassen. 
 
-**Meldepflicht:**<br/>
+**Meldepflicht:**
 
 Sollte es entgegen aller Vorkehrungen doch zu einer Datenschutzverletzung, wie Diebstahl oder Fehlversand von Daten kommen, ist die zuständige Aufsichtsbehörde zu informieren. Betroffene Personen müssen nur bei hohem Risiko informiert werden. In manchen Bundesländern ist das Melden einer Datenpanne über ein Online-Formular möglich.
