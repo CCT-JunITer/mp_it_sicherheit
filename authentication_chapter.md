@@ -1,20 +1,29 @@
 # Authentifizierung
 **Einleitung**
 
-Bei der Wahl der Passwörter tun sich viele Internetnutzer schwer. Wen wundert es da, dass schlechte Passwörter, wie „1234“ oder „qwerty“ sehr häufig gewählt werden?
 
-Die größte Empfehlung von IT-Sicherheitsexperten ist immer wieder vielfältige und kryptische Passwörter zu wählen. Doch trotzdem berücksichtigen diese Empfehlung die wenigsten, weil die meisten die einfachen Tricks nicht kennen, um kryptische und einzigartige Passwörter zu erstellen.
 
-Ein langes und kryptisches Passwort sorgt dafür, dass Ihre sensiblen Daten oder die Daten des Kunden geschützt sind. Der meist gewählte Weg eines Hackers in ein Account einzudringen ist durch die sogenannte Brute-Force Attacke (der Hacker lässt hier eine Software laufen, die verschiedene Passwortkombinationen ausprobiert).
+(der Hacker lässt hier eine Software laufen, die verschiedene Passwortkombinationen ausprobiert).
 
 Deswegen wird es umso wichtiger ein langes und kryptisches Passwort zu wählen, um das eigene digitale Leben gut zu schützen.
 
 **Technischer/Rechtlicher/Datenschutz Background**
+Bei der Wahl der Passwörter tun sich viele Internetnutzer schwer, was viel zu häufig dafür sorgt, dass schlechte Passwörter, wie „1234“ oder „qwerty“ gewählt werden.
+Passwörter sind dazu da, Ihre vertrauliche Daten und somit Ihr Leben im Internet zu schützen. IT-Sicherheitsexperten empfehlen stets lange, kryptische und unterschiedliche Passwörter zu benutzen.
 
-Wichtig zu beachten ist, dass Passwörter dazu da sind, um vertrauliche Daten und somit Ihr Leben im Internet zu schützen.
-Wir empfehlen stets lange, kryptische und unterschiedliche Passwörter zu benutzen. Außerdem ist es sehr wichtig, dass Sie, falls Sie sich online anmelden, auf eine vorhandene HTTPs-Verbindung achten. Andernfalls könnte Ihr Passwort unverschlüsselt übertragen werden und dementsprechend könnten Sie angreifbar werden (Sie sehen in den meisten Browsern ein Schloss neben der URL, falls eine HTTPs-Verbindung besteht).
+Der meist gewählte Weg von Hackern in ein Account einzudringen, ist durch die sogenannte Brute-Force Attacke. Dabei werden automatisiert verschidenen Zeichenkombinationen als Passwort "ausprobiert", solange, bis durch Zufall das richtige Passwort erraten wurde. Ein besonders langes Passwort sorgt dafür, dass es um so länger dauert, auf die richtige Kombination zu kommen und erhöht damit die Sicherheit Ihres Accounts.
+
+Eine anderes, häufiges Angriffsszenario ist der Wörterbuchangriff. Hierbei werden nicht alle Zeichenkombinationen sondern verschiedene Wortkombinationen automatisiert als Passwort ausprobiert. Ist Ihr Passwort zwar lang, enthält aber nur eine Reihung von Worten, so kann es bei einem Wörterbuchangriff schnell erraten werden. Verwenden Sie in Ihrem passwort also Sonderzeichen um auch diesen einen solchen Angriff zu erschweren.
+
+Achten Sie auch darauf, insbesondere bei Ihren E-Mail-Konten, niemals das selbe Passwort bei für verschiedene Online-Diensten zu verwenden. Kommt ein Hacker in Besitz Ihres Passwortes, hat er sonst vollen zugriff auf Ihre digitale Existenz.
+
+<Trick erklären, wie man ein sicheres Passwort erstellt>
+
+Außerdem ist es sehr wichtig, dass Sie, falls Sie sich online anmelden, auf eine vorhandene HTTPs-Verbindung achten. Andernfalls könnte Ihr Passwort unverschlüsselt übertragen werden und dementsprechend könnten Sie angreifbar werden (Sie sehen in den meisten Browsern ein Schloss neben der URL, falls eine HTTPs-Verbindung besteht).
 
 Falls Sie Passwörter selber in einer Datenbank abspeichern, müssen Sie diese Passwörter von einem Algorithmus verschlüsseln lassen (wir empfehlen die AES-Verschlüsselung). Falls Sie dies nicht tun, droht Ihnen nach Art. 32 Abs. 1 lit a DSGVO, eine hohe Geldstrafe.
+
+<!!! AES-Verschlüsselung ist was anderes !!!>
 
 **Risikoanalyse**
 
