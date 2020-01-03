@@ -28,7 +28,8 @@ Dieses Dokument führt sie durch die wichtigsten Themen aus den Bereichen Datens
 
 Die folgende Agenda dient zur Orientierung in diesem Dokument.
 
-1. [Intro](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/intro.md)
+0. [Intro](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/intro.md)
+1. [Datenschutz](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/dsgvo_chapter.md)
 2. [Cloud](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/cloud_chapter.md)
 3. [Authentifizierung](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/authentication_chapter.md)
 4. [Arbeiten auf privatem/dienstlichen Rechner](#private-work-section)
