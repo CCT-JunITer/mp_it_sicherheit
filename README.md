@@ -36,8 +36,7 @@ Die folgende Agenda dient zur Orientierung in diesem Dokument.
 3. [Authentifizierung](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/authentication_chapter.md)
 4. [Arbeiten auf privatem/dienstlichen Rechner](#private-work-section)
 5. [Social Media](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/social_media_chapter.md)
-6. [Dokumente/sensible Daten](#data-section)
-7. [Nutzerverhalten](#user-section)
+6. [Nutzerverhalten](#user-section)
     1. [Backup](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup.md)
     2. [Updates](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/updates.md)
     
