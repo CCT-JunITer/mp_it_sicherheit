@@ -5,7 +5,7 @@
   * Überlegen Sie sich wie häufig Sie Ihre Daten sichern wollen. Wir empfehlen mindestens einmal im Monat. Machen Sie sich am besten eine Notiz im Kalender.
   * Überlegen Sie sich, wieviele Gigabyte an Nutzdaten Sie sichern möchten und ob sie eine Festplatte oder Cloudlösung bevorzugen
 * Haben Sie noch kein Backup Ihrer Daten?
-  * Machen Sie eine Sicherung Ihrer Daten mithilfe des Dateiversionsverlaufs auf einem Speichermedium.
+  * Machen Sie umgehend eine Sicherung Ihrer Daten mithilfe des Dateiversionsverlaufs auf einem Speichermedium.
 * Steht eine große Änderung Ihres Systems an?
   * Erstellen Sie ein Systemabbild auf einer externen Festplatte. Lesen Sie vorher die Anleitung zu [Systemabbild erstellen](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup_instructions.md).
 * Lagern Sie die Sicherung im Selben Gebäude wie das Gerät, von dem sie die Sicherung gemacht haben?
