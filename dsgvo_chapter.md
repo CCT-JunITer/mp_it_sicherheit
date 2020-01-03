@@ -20,7 +20,7 @@
 * Sind nicht alle Datenverarbeitungsabläufe für die Vertragserfüllung notwendig?
   * Stellen Sie sicher, dass von jedem Mitglied eine Einwilligungserklärung vorliegt.
   
-**Technischer/Rechtlicher/Datenschutz Background**
+**Technischer/Rechtlicher/Datenschutz Background** <br/>
 Mit dem Inkrafttreten der DSGVO (Datenschutz-Grundverordnung) auf europäischer Ebene im Jahr 2018, ist vor allem die Verunsicherung rund um das Thema Datenschutz gestiegen. Bei Pflichtverletzungen haftet der Vorstand möglicherweise mit seinem Privatvermögen und hat dadurch ein großes Interesse daran, die internen Prozesse möglichst datenschutzkonform zu gestalten.
 
 Durch die DSGVO sind umfangreiche Verbraucherrechte, wie Einsichtnahme oder Löschung von personenbezogenen Daten, und eine genaue Dokumentation der Verwendung dieser Daten vorgeschrieben.<br/>
