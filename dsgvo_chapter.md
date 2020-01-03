@@ -43,6 +43,7 @@ In einem Vertragsverhältnis als notwendig begründen lassen sich beispielsweise
 **Zweckbindung/Datenminimierung/Speicherbegrenzung:** nur die nötigsten Daten würfen gespeichert werden
 
 Entfällt die Rechtsgrundlage zur Verarbeitung personenbezogener Daten, so müssen diese gelöscht werden. Dies ist zum Beispiel der Fall, wenn der zugrunde liegende Vertrag gekündigt, oder die gesonderte Einwilligung widerrufen wurde. Hierbei müssen unter Umständen gewisse Fristen beachtet werden. So kann es sinnvoll sein, bestimmte Daten (mit Einwilligung der betroffenen Person) eine gewisse Zeit aufzubewahren, um sich ggf. im Falle einer rechtlichen Auseinandersetzung rechtfertigen zu können.<br/>
+Eine Übersicht der Aufbewahrungsfristen nach DSGVO finden Sie [hier | DSGVO.tools](https://www.dsgvo.tools/aufbewahrungsfristen/)<br/>
 
 **Transparenz/Richtigkeit:** Offenlegung der Verarbeitung und Daten gegenüber den Betroffenen
 
