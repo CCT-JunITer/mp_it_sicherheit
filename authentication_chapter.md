@@ -1,12 +1,6 @@
 # Authentifizierung
 **Einleitung**
 
-
-
-(der Hacker lässt hier eine Software laufen, die verschiedene Passwortkombinationen ausprobiert).
-
-Deswegen wird es umso wichtiger ein langes und kryptisches Passwort zu wählen, um das eigene digitale Leben gut zu schützen.
-
 **Technischer/Rechtlicher/Datenschutz Background**
 Bei der Wahl der Passwörter tun sich viele Internetnutzer schwer, was viel zu häufig dafür sorgt, dass schlechte Passwörter, wie „1234“ oder „qwerty“ gewählt werden.<br/>
 Passwörter sind dazu da, Ihre vertrauliche Daten und somit Ihr Leben im Internet zu schützen. IT-Sicherheitsexperten empfehlen stets lange, kryptische und unterschiedliche Passwörter zu benutzen.<br/>
