@@ -18,6 +18,7 @@ Dies sind die Kontakten von den Projektmanagern: <br />
 _+49 160 7864577_
 
 <br>
+
 ## Aufbau des Dokuments
 Dieses Dokument führt sie durch die wichtigsten Themen aus den Bereichen Datenschutz und IT-Sicherheit, und gibt ihnen dabei Wissen und Werkszeuge an die Hand, mit deren Hilfe sie sich vor Pannen und Angriffen schützen können.
 
