@@ -49,7 +49,8 @@ Fragen die sie mit „Nein“ beantworten können, sind für Sie nicht weiter re
 Antwort auf eine Frage:<br>
 **Nein** (Thema bereits abgedeckt) ->   X<br>
 **Ja** (hier besteht Handlungsbedarf) -> √<br><br>
-Die Vorgeschlagenen Maßnahmen (die Sie am Ende mit √ markiert haben) verweisen z.t. auf Leitfäden am Ende des Dokuments oder externe Webseiten.
+Die Vorgeschlagenen Maßnahmen (die Sie am Ende mit √ markiert haben) verweisen z.t. auf Leitfäden am Ende des Dokuments oder externe Webseiten.<br>
+(Alternativ zu einer Checkliste mit Fragen, kann es auch eine Sammlung von Praxistipps geben)
 #### Background:
 Die Umsetzung der vorgeschlagenen Maßnahmen bedeutet häufig zusätzlichen Aufwand und Aufmerksamkeit bei der Verrichtung der Arbeit. Schon aus Gründen der Nutzerakzeptanz ist es daher sinnvoll, den Hintergrund der durchzuführenden Maßnahmen zu verstehen.
 Im Teil „Technischer/Rechtlicher/Datenschutz Background“ wird daher genauer erklärt, wieso sich der zusätzliche Aufwand rechtfertigt, es werden Begriffe erklärt und zusätzliche Informationen vermittelt.
