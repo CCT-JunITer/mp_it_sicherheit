@@ -43,10 +43,10 @@ Die folgende Agenda dient zur Orientierung in diesem Dokument.
 
 #### Checkliste:
 Zu Beginn jedes Kapitels finden Sie eine Checkliste mit Fragen. Diese sind so formuliert, dass, wenn sie mit „ja“ beantwortet werden u.u Handlungsbedarf besteht, und die darunter stehende Frage/ Maßnahme relevant wird.
-Fragen die sie mit „Nein“ beantworten können, sind für Sie nicht weiter relevant und sie können dieses wegstreichen (X).<br>
+Fragen die sie mit „Nein“ beantworten können, sind für Sie nicht weiter relevant und sie können dieses wegstreichen (X).<br><br>
 Antwort auf eine Frage:<br>
 Nein (Thema bereits abgedeckt) ->   X<br>
-Ja (hier besteht Handlungsbedarf) -> √<br>
+Ja (hier besteht Handlungsbedarf) -> √<br><br>
 Die Vorgeschlagenen Maßnahmen (die Sie am Ende mit √ markiert haben) verweisen z.t. auf Leitfäden am Ende des Dokuments oder externe Webseiten.
 #### Background:
 Die Umsetzung der vorgeschlagenen Maßnahmen bedeutet häufig zusätzlichen Aufwand und Aufmerksamkeit bei der Verrichtung der Arbeit. Schon aus Gründen der Nutzerakzeptanz ist es daher sinnvoll, den Hintergrund der durchzuführenden Maßnahmen zu verstehen.
