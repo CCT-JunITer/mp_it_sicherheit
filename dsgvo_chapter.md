@@ -26,7 +26,7 @@ Mit dem Inkrafttreten der DSGVO (Datenschutz-Grundverordnung) auf europäischer 
 Durch die DSGVO sind umfangreiche Verbraucherrechte, wie Einsichtnahme oder Löschung von personenbezogenen Daten, und eine genaue Dokumentation der Verwendung dieser Daten vorgeschrieben.<br/>
 Personenbezogene Daten sind dabei alle Daten, die sich einer identifizierten oder identifizierbaren natürliche Person zuordnen lassen. Identifizierbar ist eine Person beispielsweise durch ihren Namen oder Anschrift, aber auch durch Standort-Daten oder schon eine IP-Adresse. Die DSGVO schreibt vor, wie mit eben diesen Daten umgegangen werden muss und in welchem Rahmen die Daten verwendet werden dürfen.
 
-Um personenbezogene Daten verarbeiten zu dürfe müssen folgende Grundsätze erfüllt werden:
+**Um personenbezogene Daten verarbeiten zu dürfe müssen folgende Grundsätze erfüllt werden:**
 * **Rechtmäßigkeit (Die Verarbeitung basiert auf einer rechtlichen Grundlage oder Einwilligung)**
 * **Zweckbindung/Datenminimierung/Speicherbegrenzung (nur die nötigsten Daten würfen gespeichert werden)**
 * **Transparenz/Richtigkeit**
