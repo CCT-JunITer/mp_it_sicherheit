@@ -33,8 +33,11 @@ Außerdem dürfen Sie keine personenbezogenen Daten weitergeben, ohne die Einwil
 * Wenn Sie E-Mail Marketing betreiben oder Werbung per E-Mail an Ihre Kunden verschicken:
 	* Achten Sie darauf, dass der Kunde diese Werbung zugestimmt hat. 
 	* E-Mail-Werbung ohne explizite Einwilligung ist nur zulässig, wenn Produkte erworben wurden, die dem ursprünglich vom Kunden gekauften ähnlich sind und vor der Speicherung der Mail-Adresse der Kunde auf die beabsichtigte Werbung hingewiesen wurde.
-* Bewahren Sie physische Dokumente mit personenbezogenen Daten aicher auf:
+* Bewahren Sie physische Dokumente mit personenbezogenen Daten sicher auf:
 	* Sensible Dokumente **müssen**, egal wo und wann, in verschlossenen Schränken aufbewahrt werden und der Zugang ist auf eine begrenzte Anzahl von Mitarbeitern zu beschränken.
+* Wenn Sie Dokumente mit sensiblen Daten entsorgen möchten:
+	* Informieren Sie sich über mögliche [Aufbewahrungsfristen](https://www.dsgvo.tools/aufbewahrungsfristen/).
+	* Nutzen Sie einen Schredder die Informationen zu vernichten.
 * Wenn Sie ein Dokument mit personenbezogenen Daten drucken möchten:
 	* Fragen Sie sich immer, ob dieses Dokument in falsche Hände geraten könnte.
 	* Drucken über das Internet ist immer ein Sicherheitsrisiko für mögliche Angriffe und somit raten wir von der Nutzung ab.
@@ -43,7 +46,3 @@ wollen Sie eine Einwilligung sicher stellen?
 	* Einwilligungen, die in Papierform gemacht werden müssen besonders aufgehoben werden (hier kann es möglicherweise zu Nachweisen kommen!).
 * Wissen Sie nicht, wie Sie eine Nachweispflicht aufzeichnen können?
 	* Eine Nachweispflicht muss immer aufgezeichnet werden (mündlich = Tondokument, schriftlich = Papier, elektronisch = Logfile oder Bestätigungsnachweis).
-* Wollen Sie physische Dokumente entsorgen?
-	* Nutzen Sie einen Schredder und stellen Sie sicher, dass niemand Zugriff auf diese Dokumente im Nachhinein hat.
-* Wissen Sie nicht, was wie lange aufgehoben werden muss?
-	* Hier finden Sie eine empfohlene Übersicht für Aufbewahrungsfristen: [Aufbewahrungsfristen im Datenschutz | DSGVO.tools](https://www.dsgvo.tools/aufbewahrungsfristen/).
