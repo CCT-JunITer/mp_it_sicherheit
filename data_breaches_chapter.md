@@ -27,17 +27,17 @@ Außerdem dürfen Sie keine personenbezogenen Daten weitergeben, ohne die Einwil
 * Wenn Sie E-mails mit personenbezogenen Daten verschicken:
 	* Achten Sie darauf, dass die Daten verschlüsselt übertragen werden
 	* Die meisten E-Mail Provider besitzen bereits eine etablierte und gängige Verschlüsselung. Informieren Sie sich dementsprechend darüber, wie Sie diese aktivieren können und nutzen Sie diese auch.
-		* Achten Sie hierbei auf eine sofortige Löschung nach der Versendung einer E-Mail mit personenbezogenen Daten.
+	* Löschen Sie die E-Mail aus Ihrem Postausgang und Papierkorb, sobald sie versendet wurde.
 	* *Wir empfehlen aber:* Versenden Sie **keine** personenbezogenen Daten per E-Mail, sondern nutzen Sie hier, wenn möglich, eine Cloud-Lösung für den Austausch von personenbezogenen Informationen ([Mehr dazu im Kapitel Cloud](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/cloud_chapter.md)).
 	* Nutzen Sie auch ein starkes Passwort für Ihr E-Mail Konto, um Datendiebstahl oder schlimmeres zu vermeiden ([Mehr dazu im Kapitel Authentifizierung](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/authentication_chapter.md)).
 * Wenn Sie E-Mail Marketing betreiben oder Werbung per E-Mail an Ihre Kunden verschicken:
-	* Achten Sie darauf, dass der Kunde diese Werbung zugestimmt hat. E-Mail-Werbung ohne explizite Einwilligung ist nur zulässig, wenn:
-		* Produkte erworben wurden, die dem ursprünglich vom Kunden gekauften ähnlich sind und vor der Speicherung der Mail-Adresse der Kunde auf die beabsichtigte Werbung hingewiesen wurde.
-* Bewahren Sie physische Dokumente mit personenbezogenen Daten unverschlossen auf?
+	* Achten Sie darauf, dass der Kunde diese Werbung zugestimmt hat. 
+	* E-Mail-Werbung ohne explizite Einwilligung ist nur zulässig, wenn Produkte erworben wurden, die dem ursprünglich vom Kunden gekauften ähnlich sind und vor der Speicherung der Mail-Adresse der Kunde auf die beabsichtigte Werbung hingewiesen wurde.
+* Bewahren Sie physische Dokumente mit personenbezogenen Daten aicher auf:
 	* Sensible Dokumente **müssen**, egal wo und wann, in verschlossenen Schränken aufbewahrt werden und der Zugang ist auf eine begrenzte Anzahl von Mitarbeitern zu beschränken.
-* Wollen Sie ein Dokument mit personenbezogenen Daten drucken?
+* Wenn Sie ein Dokument mit personenbezogenen Daten drucken möchten:
 	* Fragen Sie sich immer, ob dieses Dokument in falsche Hände geraten könnte.
-	* Drucken über das Internet ist immer ein Sicherheitsrisiko für mögliche Angriffe und somit empfehlen wir dies nur beschränkt zu benutzen.
+	* Drucken über das Internet ist immer ein Sicherheitsrisiko für mögliche Angriffe und somit raten wir von der Nutzung ab.
 * Haben Sie eine Einwilligung unterschreiben lassen ODER
 wollen Sie eine Einwilligung sicher stellen?
 	* Einwilligungen, die in Papierform gemacht werden müssen besonders aufgehoben werden (hier kann es möglicherweise zu Nachweisen kommen!).
