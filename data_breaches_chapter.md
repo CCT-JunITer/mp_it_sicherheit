@@ -1,5 +1,5 @@
 # Praxistipps: Datenschutzpannen vermeiden
-**Technischer/Rechtlicher/Datenschutz Background**
+**Technischer/Rechtlicher/Datenschutz Background**<br/>
 Seit dem Inkrafttreten der DSGVO werden Datenschutzpannen vermehrt gemeldet. Wie das Staatsministerium Baden-Württemberg erklärt, habe sich die Zahl solcher Meldungen seit Mai 2018 verzehnfacht.<br/>
 Eine sehr häufig gemeldete Datenschutzverletzung ist der Fehlversand einer E-Mail. Hier wurde der Empfänger falsch angegeben und hat dementsprechend personenbezogene Daten erhalten, die ihm nicht gehören. Die Bußgeldstrafe kann hier bis in einer Höhe von 200.000 Euro gehen. Sie sollten immer besonders aufmerksam auf den Empfänger der E-Mail achten, um solche naiven Datenschutzverletzungen zu verhindern.<br/>
 Falls Sie E-Mail Verkehr in „cc" betreiben, kann dies erhebliche Konsequenzen haben. Häufig werden im Büroalltag E-Mails schlicht an einem großen Empfängerkreis mittels „cc“ (Carbon Copy = Kopie) weitergeleitet. Der Empfänger erfährt dadurch den Inhalt und die Emailbeteiligten der vorhergehende Nachricht. Hier können personenbezogene E-Mail Adressen weitergeleitet werden ohne irgendeine Einwilligung von den Beteiligten. E-Mail Adressen können personenbezogene Daten darstellen, sobald diese E-Mail Adresse einer Person eindeutig zugeordnet werden kann. Wir empfehlen hier mit „bcc“ (blind carbon copy) zu arbeiten. Sie können dadurch vermeiden, dass die anderen Empfänger sehen, wer beispielsweise den Newsletter bezieht.<br/>
@@ -8,18 +8,16 @@ Eine weitere Datenschutzverletzung ist der Verlust eines Datenträgers. Hier wer
 Außerdem dürfen Sie keine personenbezogenen Daten weitergeben, ohne die Einwilligung dieser Person. Hierzu brauchen Sie eine Nachweispflicht, die Sie aufnehmen müssen (schriftlich, auditiv oder elektronisch). Erklären Sie der Person, dass Sie diese Daten verarbeiten dürfen, und seien Sie der Personen stets ehrlich und offen. Schriftliche Einwilligungen sowie jegliche schriftliche personenbezogene Daten, müssen stets verschlossen in einem Schrank aufbewahrt werden. <br/>
 
 **Praxistipps**
-* Wollen Sie ein Dokument mit personenbezogenen Daten versenden ODER
-wollen Sie ein Dokument schwärzen und personenbezogene Daten entfernen ODER
-wissen Sie nicht, was und wie geschwärzt werden muss?
-	* Schwärzen Sie die personenbezogenen Daten in diesem Dokument
-		* Geschwärzt müssen alle sensible Daten. Das heißt, alle Daten, die einer Person eindeutig zugeordnet werden können.
-	* Ungeeignet ist ein schwarzer Hintergrund hinter schwarzer Textfarbe oder Grafikmarkierungen über den Text, weil man diese „Schwärzung“ leicht umgehen kann.
+* Wenn Sie ein Dokument mit Personenbezogenen Daten versenden/ weiergeben möchten:
+	* Prüfen Sie, ob die Weitergabe der Daten rechtmäßig ist ([Mehr dazu im Kapitel DSGVO](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/dsgvo_chapter.md)
+	* Schwärzen Sie ggf. **alle** personenbezogenen Daten in diesem Dokument
+	* Ungeeignet dafür ist ein schwarzer Hintergrund hinter schwarzer Textfarbe oder Grafikmarkierungen über den Text, weil man diese „Schwärzung“ leicht umgehen kann.
 	* Richtig schwärzen:
 		* Word Dokument: personenbezogene Daten mit einem „x“ ersetzen.
 		**Wichtig:** Word-Metadaten haben u.U. eine Änderungshistorie, hier auf keinen Fall das Original versenden, sondern stattdessen als neue PDF oder neues Dokument!
 		* PDF-Dokument: Acrobat Reader: nur in der professionellen Version erhältlich (Werkzeuge/Schutz/Zum Schwärzen markieren).
 		* Andere PDF-Tools: es gibt kostenlose, aber auch kostenpflichtige Tools. Wichtig hierbei ist darauf zu achten, dass auch wirklich geschwärzt wird.
-		* Bilder: Nachbearbeitung mit Bildbearbeitungstools (Gimp, Photoshop). Hierbei das Bild in ein BMP-Format exportieren, um alle Metadaten (wie Änderungshistorie des Bildes) auszuradieren.
+		* Bilder: Nachbearbeitung mit Bildbearbeitungstools (Gimp, Photoshop). Hierbei das Bild in ein BMP-Format exportieren, um alle Metadaten (wie Änderungshistorie des Bildes) zu löschen.
 * Verlangt ein Partner personenbezogene Daten von einem Kunden?
 	* Sie dürfen personenbezogene Daten nur **nach** Einwilligung der Person, für diesen spezifischen Zweck, weitergeben.
 * Verlangt ein Kunde Einsichtnahme seiner Daten?
