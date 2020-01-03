@@ -1,14 +1,4 @@
 # Updates
-**Einleitung**
-
-Die immer schnellere IT-Entwicklung stellt viele Organisationen vor die Aufgabe, Ihre Software zeitnah zu aktualisieren. In der Praxis zeigt sich, dass Sicherheitslücken oder Betriebsstörungen häufig auf fehlerhafte oder nicht erfolgte Patches und Änderungen zurückzuführen sind. Ein vernachlässigtes Patch-Management kann also dazu führen, dass Ihre Daten gestohlen werden oder Sie hohe Kosten für die Reparatur Ihrer IT-Systeme zahlen müssen.
-
-**Technischer/Rechtlicher/Datenschutz Background**
-
-Um grobe Sicherheitslücken zu verhindern, sollten Programme grundsätzlich aktualisiert werden. Viele Software-Produkte bieten an, die Software automatisch aktualisieren zu lassen. Windows beispielsweise verwirklicht die automatischen Sicherheitsupdates in der Standardkonfiguration.  Zu beachten ist jedoch stets, dass eine neue Programmversion unter Umständen Kompatibilitätsprobleme verursachen oder Funktionen verlieren kann. Als für den Geschäftsbetrieb besonders wichtige bewertete Softwareprodukte sollten daher von vollautomatischen Updates ausgenommen werden. Wenn Sie sich dann dazu entschließen Ihre Programme zu aktualisieren, empfehlen wir vor dem Update eine Systemabbildsicherung erstellen zu lassen. Was das ist und wie das geht erfahren Sie im [Unterkapitel Backup](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup.md).
-
-Aber nicht nur das Betriebssystem auch die einzelnen Programme müssen auf einem aktuellen Stand gehalten werden. Damit Sie nicht bei jedem Programm einzeln nachschauen müssen, ob es neue Updates gibt, gibt es Hilfsprogramme. Diese finden die Programme Ihres Systems  und teilen Ihnen mit, welche Software aktualisiert werden muss. Wir empfehlen die kostenlose Software Sumo. Diese findet auch für exotischere Programme, die aktuellste Version. Lesen Sie dafür die Anleitung Updates tracken mit Sumo. Wollen Sie mehr zu dem Thema Updates wissen können Sie hier mehr erfahren https://www.allianz-fuer-cybersicherheit.de/ACS/DE/_/downloads/BSI-CS/BSI-CS_093.pdf?__blob=publicationFile&v=3.
-
 **Risikoanalyse**
 
 * Wissen Sie nicht ob Ihr Windows 10 Betriebssystem auf dem aktuellen Stand ist?
@@ -25,3 +15,15 @@ Aber nicht nur das Betriebssystem auch die einzelnen Programme müssen auf einem
   * Informieren Sie sich auch, ob es Alternativprogramme gibt, die sie nutzen können. 
   * Nun müssen Sie die Entscheidung treffen, ob Sie das Programm behalten und ein Risiko eingehen oder das Programm deinstallieren werden.
   * Sollten Sie sich entscheiden es zu behalten wäre es gut eine Liste aller Programme zu führen bei denen es Probleme gab nach einem Update. Dann können spätere Updates schnell auf die alten Fehler getestet werden und falls keine neueren Updates mehr herauskommen die alten Versionen unberührt bleiben.
+
+
+**Einleitung**
+
+Die immer schnellere IT-Entwicklung stellt viele Organisationen vor die Aufgabe, Ihre Software zeitnah zu aktualisieren. In der Praxis zeigt sich, dass Sicherheitslücken oder Betriebsstörungen häufig auf fehlerhafte oder nicht erfolgte Patches und Änderungen zurückzuführen sind. Ein vernachlässigtes Patch-Management kann also dazu führen, dass Ihre Daten gestohlen werden oder Sie hohe Kosten für die Reparatur Ihrer IT-Systeme zahlen müssen.
+
+**Technischer/Rechtlicher/Datenschutz Background**
+
+Um grobe Sicherheitslücken zu verhindern, sollten Programme grundsätzlich aktualisiert werden. Viele Software-Produkte bieten an, die Software automatisch aktualisieren zu lassen. Windows beispielsweise verwirklicht die automatischen Sicherheitsupdates in der Standardkonfiguration.  Zu beachten ist jedoch stets, dass eine neue Programmversion unter Umständen Kompatibilitätsprobleme verursachen oder Funktionen verlieren kann. Als für den Geschäftsbetrieb besonders wichtige bewertete Softwareprodukte sollten daher von vollautomatischen Updates ausgenommen werden. Wenn Sie sich dann dazu entschließen Ihre Programme zu aktualisieren, empfehlen wir vor dem Update eine Systemabbildsicherung erstellen zu lassen. Was das ist und wie das geht erfahren Sie im [Unterkapitel Backup](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup.md).
+
+Aber nicht nur das Betriebssystem auch die einzelnen Programme müssen auf einem aktuellen Stand gehalten werden. Damit Sie nicht bei jedem Programm einzeln nachschauen müssen, ob es neue Updates gibt, gibt es Hilfsprogramme. Diese finden die Programme Ihres Systems  und teilen Ihnen mit, welche Software aktualisiert werden muss. Wir empfehlen die kostenlose Software Sumo. Diese findet auch für exotischere Programme, die aktuellste Version. Lesen Sie dafür die Anleitung Updates tracken mit Sumo. Wollen Sie mehr zu dem Thema Updates wissen können Sie hier mehr erfahren https://www.allianz-fuer-cybersicherheit.de/ACS/DE/_/downloads/BSI-CS/BSI-CS_093.pdf?__blob=publicationFile&v=3.
+
