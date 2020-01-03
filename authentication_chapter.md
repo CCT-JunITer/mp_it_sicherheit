@@ -1,20 +1,5 @@
 # Authentifizierung
-**Einleitung**
 
-**Technischer/Rechtlicher/Datenschutz Background**
-Bei der Wahl der Passwörter tun sich viele Internetnutzer schwer, was viel zu häufig dafür sorgt, dass schlechte Passwörter, wie „1234“ oder „qwerty“ gewählt werden.<br/>
-Passwörter sind dazu da, Ihre vertrauliche Daten und somit Ihr Leben im Internet zu schützen. IT-Sicherheitsexperten empfehlen stets lange, kryptische und unterschiedliche Passwörter zu benutzen.<br/>
-Der meist gewählte Weg von Hackern in ein Account einzudringen, ist durch die sogenannte Brute-Force Attacke. Dabei werden automatisiert verschidenen Zeichenkombinationen als Passwort "ausprobiert", solange, bis durch Zufall das richtige Passwort erraten wurde. Ein besonders langes Passwort sorgt dafür, dass es um so länger dauert, auf die richtige Kombination zu kommen und erhöht damit die Sicherheit Ihres Accounts.<br/>
-Eine anderes, häufiges Angriffsszenario ist der Wörterbuchangriff. Hierbei werden nicht alle Zeichenkombinationen sondern verschiedene Wortkombinationen automatisiert als Passwort ausprobiert. Ist Ihr Passwort zwar lang, enthält aber nur eine Reihung von Worten, so kann es bei einem Wörterbuchangriff schnell erraten werden. Verwenden Sie in Ihrem passwort also Sonderzeichen um auch einen solchen Angriff zu erschweren.<br/>
-Achten Sie auch darauf, insbesondere bei Ihren E-Mail-Konten, niemals das selbe Passwort bei für verschiedene Online-Diensten zu verwenden. Kommt ein Hacker in Besitz Ihres Passwortes, hat er sonst vollen zugriff auf Ihre digitale Existenz.
-
-<Trick erklären, wie man ein sicheres Passwort erstellt>
-
-Außerdem ist es sehr wichtig, dass Sie, falls Sie sich online anmelden, auf eine vorhandene HTTPs-Verbindung achten. Andernfalls könnte Ihr Passwort unverschlüsselt übertragen werden und dementsprechend könnten Sie angreifbar werden (Sie sehen in den meisten Browsern ein Schloss neben der URL, falls eine HTTPs-Verbindung besteht).
-
-Falls Sie Passwörter selber in einer Datenbank abspeichern, müssen Sie diese Passwörter von einem Algorithmus verschlüsseln lassen (wir empfehlen die AES-Verschlüsselung). Falls Sie dies nicht tun, droht Ihnen nach Art. 32 Abs. 1 lit a DSGVO, eine hohe Geldstrafe.
-
-<!!! AES-Verschlüsselung ist was anderes !!!>
 
 **Risikoanalyse**
 
@@ -59,3 +44,21 @@ Falls Sie Passwörter selber in einer Datenbank abspeichern, müssen Sie diese P
 * Verwenden Sie das gleich Passwort über mehrere Plattformen?
 	* Nutzen Sie für jede einzelne Plattform ein anderes einzigartiges Passwort (so erschweren Sie Angreifer weiteren Zugriff zu bekommen).
 	* **Nutzen Sie für Ihr E-Mail Konto auf jeden Fall kryptisches, langes und einzigartiges Passwort!**
+
+
+**Einleitung**
+
+**Technischer/Rechtlicher/Datenschutz Background**
+Bei der Wahl der Passwörter tun sich viele Internetnutzer schwer, was viel zu häufig dafür sorgt, dass schlechte Passwörter, wie „1234“ oder „qwerty“ gewählt werden.<br/>
+Passwörter sind dazu da, Ihre vertrauliche Daten und somit Ihr Leben im Internet zu schützen. IT-Sicherheitsexperten empfehlen stets lange, kryptische und unterschiedliche Passwörter zu benutzen.<br/>
+Der meist gewählte Weg von Hackern in ein Account einzudringen, ist durch die sogenannte Brute-Force Attacke. Dabei werden automatisiert verschidenen Zeichenkombinationen als Passwort "ausprobiert", solange, bis durch Zufall das richtige Passwort erraten wurde. Ein besonders langes Passwort sorgt dafür, dass es um so länger dauert, auf die richtige Kombination zu kommen und erhöht damit die Sicherheit Ihres Accounts.<br/>
+Eine anderes, häufiges Angriffsszenario ist der Wörterbuchangriff. Hierbei werden nicht alle Zeichenkombinationen sondern verschiedene Wortkombinationen automatisiert als Passwort ausprobiert. Ist Ihr Passwort zwar lang, enthält aber nur eine Reihung von Worten, so kann es bei einem Wörterbuchangriff schnell erraten werden. Verwenden Sie in Ihrem passwort also Sonderzeichen um auch einen solchen Angriff zu erschweren.<br/>
+Achten Sie auch darauf, insbesondere bei Ihren E-Mail-Konten, niemals das selbe Passwort bei für verschiedene Online-Diensten zu verwenden. Kommt ein Hacker in Besitz Ihres Passwortes, hat er sonst vollen zugriff auf Ihre digitale Existenz.
+
+<Trick erklären, wie man ein sicheres Passwort erstellt>
+
+Außerdem ist es sehr wichtig, dass Sie, falls Sie sich online anmelden, auf eine vorhandene HTTPs-Verbindung achten. Andernfalls könnte Ihr Passwort unverschlüsselt übertragen werden und dementsprechend könnten Sie angreifbar werden (Sie sehen in den meisten Browsern ein Schloss neben der URL, falls eine HTTPs-Verbindung besteht).
+
+Falls Sie Passwörter selber in einer Datenbank abspeichern, müssen Sie diese Passwörter von einem Algorithmus verschlüsseln lassen (wir empfehlen die AES-Verschlüsselung). Falls Sie dies nicht tun, droht Ihnen nach Art. 32 Abs. 1 lit a DSGVO, eine hohe Geldstrafe.
+
+<!!! AES-Verschlüsselung ist was anderes !!!>
