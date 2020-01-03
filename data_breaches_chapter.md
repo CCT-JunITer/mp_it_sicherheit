@@ -7,7 +7,7 @@ Des Weiteren empfehlen wir stets, nach dem Senden einer personenbezogenen E-Mail
 Eine weitere Datenschutzverletzung ist der Verlust eines Datenträgers. Hier werden sensible Daten verloren und dies kann zu einer sehr hohen Bußgeldstrafe führen. Wir empfehlen, keine eigenen Datenträger für sensible Daten zu benutzen, sondern stets eine sichere Cloud-Lösung ([siehe Cloud Kapitel](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/cloud_chapter.md)).<br/>
 Außerdem dürfen Sie keine personenbezogenen Daten weitergeben, ohne die Einwilligung dieser Person. Hierzu brauchen Sie eine Nachweispflicht, die Sie aufnehmen müssen (schriftlich, auditiv oder elektronisch). Erklären Sie der Person, dass Sie diese Daten verarbeiten dürfen, und seien Sie der Personen stets ehrlich und offen. Schriftliche Einwilligungen sowie jegliche schriftliche personenbezogene Daten, müssen stets verschlossen in einem Schrank aufbewahrt werden. <br/>
 
-**Risikoanalyse**
+**Praxistipps**
 * Wollen Sie ein Dokument mit personenbezogenen Daten versenden ODER
 wollen Sie ein Dokument schwärzen und personenbezogene Daten entfernen ODER
 wissen Sie nicht, was und wie geschwärzt werden muss?
