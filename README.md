@@ -31,7 +31,7 @@ Die folgende Agenda dient zur Orientierung in diesem Dokument.
 0. [Intro](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/intro.md)
 1. [Datenschutz]
     1. [DSGVO](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/dsgvo_chapter.md)
-    2. [Datenschutzpannen vermeiden](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/data_breaches_chapter.md)
+    2. [Praxistipps: Datenschutzpannen vermeiden](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/data_breaches_chapter.md)
 2. [Cloud](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/cloud_chapter.md)
 3. [Authentifizierung](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/authentication_chapter.md)
 4. [Arbeiten auf privatem/dienstlichen Rechner](#private-work-section)
