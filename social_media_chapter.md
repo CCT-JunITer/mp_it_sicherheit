@@ -3,31 +3,29 @@
 **Risikoanalyse**
 
 * Können Nutzer personenbezogene Daten eintragen oder übertragen?
-  * Stellen Sie sicher, dass Ihre Webseite die Daten verschlüsselt überträgt (HTTPs).
+  	* Stellen Sie sicher, dass Ihre Webseite die Daten verschlüsselt überträgt (HTTPs).
 * Nutzt Ihre Webseite Cookies?
-  * Stellen Sie sicher, dass die Nutzer darüber und über ihr Widerspruchsrecht informiert werden.
+  	* Stellen Sie sicher, dass die Nutzer darüber und über ihr Widerspruchsrecht informiert werden.
 * Nutzen Sie fremde Inhalte (z. B. Bilder oder Videos)?
-	* Für Texte, Bilder, Musik oder Videos sollte auf jeden Fall eine Einwilligung vom Rechteinhaber und eine Quellenangabe vorhanden sein.
-	* Falls Abbildungen von Personen auf Fotos zu sehen sind, achten Sie auf jeden Fall darauf, dass diese Personen eine Einwilligung unterschrieben haben [siehe Einwilligungsmuster].
+	* Für Texte, Bilder, Musik oder Videos muss eine Einwilligung vom Rechteinhaber und eine Quellenangabe vorhanden sein.
+	* Falls Abbildungen von Personen auf Fotos zu sehen sind, müssen diese zu sehenden Personen eine Einwilligung unterschrieben haben [siehe Einwilligungsmuster].
 * Haben Sie Preisangaben auf Ihrer Website (z. B. Online Shop)?
-	* Achten Sie darauf, dass am Ende eines Einkaufsprozess immer der Brutto-Endpreis steht.
-	* Weisen Sie den Nutzer auf jeden Fall daraufhin, dass hier die Mehrwertsteuer enthalten ist.
+	* Der Brutto-Endpreis muss am Ende des Einkaufsprozess stehen.
+	* Weisen Sie den Nutzer daraufhin, dass hier die Mehrwertsteuer enthalten ist.
 	* Falls etwaige Versandkosten anstehen, müssen Sie den Nutzer darauf hinweisen.
-* Existiert kein Impressum auf Ihrer Website ODER
-Sind Sie nicht sicher, was alles in das Impressum rein muss?
-	* Erstellen Sie ein Impressum, falls diese Webseite einen geschäftlichen Sinn hat.
-	* Ein Impressum sollte folgende Dinge beinhalten:
-		* Das Impressum sollte als eigene Unterseite als wiederkehrender Link mit Bezeichnung „Impressum“ erscheinen.
+* Existiert kein Impressum auf Ihrer Website ODER sind Sie nicht sicher, was alles in das Impressum rein muss?
+	* Erstellen Sie ein Impressum, falls diese Webseite einen geschäftlichen Zweck verfolgt.
+	* Ein Impressum muss folgende Dinge beinhalten:
+		* Das Impressum muss als eigene Unterseite als wiederkehrender Link mit Bezeichnung „Impressum“ erscheinen.
 		* Pflichtangaben gemäß § 5 Telemediengesetz sind:
-			* Name (Person, Firma, Unternehmensname)- Rechtsform (z.B.: GbR, GmbH)
-			* Vertretungsberechtigte Person(en) mit Vor- und Nachname (bei Kapitalgesellschaft z.B. Vorstand)
+			* Name (Person, Firma, Unternehmensname)- Rechtsform (z. B.: GbR, GmbH)
+			* Vertretungsberechtigte Person(en) mit Vor- und Nachname (bei Kapitalgesellschaft z. B. Vorstand)
 			* Ladungsfähige Anschrift (kein Postfach!)
 			* Kontaktdaten (Telefon, E-Mail)
-			* Angaben zum Register (Amtsgericht und Nummer, z.B. Handelsregister, Vereinsregister)
+			* Angaben zum Register (Amtsgericht und Nummer, z. B. Handelsregister, Vereinsregister)
 			* Umsatzsteuer-Identifikation-Nummer - nur sofern vorhanden
 			* Berufsaufsichtsbehörde mit Adresse (bei Gewerbe mit behördlicher Genehmigung)
-* Haben Sie keine Datenschutzerklärung ODER
-Sind Sie nicht sicher, was alles in die Datenschutzerklärung rein muss?
+* Haben Sie keine Datenschutzerklärung ODER sind Sie nicht sicher, was alles in die Datenschutzerklärung rein muss?
 	* Datenschutzerklärung kann als eigene Unterseite definiert werden.
 	* Der Nutzer muss zu Beginn eines Nutzungsvorgangs nach DSGVO u. a. über Art, Umfang und Zweck der Erhebung und Verwendung seiner Daten unterrichtet werden.
 	* Diese Informationen sollten in der Datenschutzerklärung enthalten sein:
@@ -38,7 +36,7 @@ Sind Sie nicht sicher, was alles in die Datenschutzerklärung rein muss?
 		* Verwendung von Cookies, Analyse- bzw. Tracking-Tools (z. B. Google Analytics)
 		* Nutzung von Social Media Buttons oder Plugins (Das Einbetten von Social Media Buttons erhebt auch Nutzungsdaten von dem User)
 		* Speicherung von IP-Adressen oder Server Logs
-		* Werbenetzwerke (z.B. Google AdSense)
+		* Werbenetzwerke (z. B. Google AdSense)
 		* Hinweis auf ein Recht zu Widerspruch, Sperrung und Löschung der Daten bzw. des Kontos
 	* Falls Sie keine finanziellen Mittel für eine spezielle Datenschutzerklärung haben können Sie auch vorerst einen kostenlosen Generator nutzen.
 		* Wir empfehlen folgende Seite: [Datenschutzerklärung erstellen nach DSGVO](https://www.e-recht24.de/muster-datenschutzerklaerung.html).
@@ -49,13 +47,12 @@ Sind Sie nicht sicher, was alles in die Datenschutzerklärung rein muss?
 			* Vorhandener Code für die Shariff Methode: [GitHub Shariff Code](https://github.com/heiseonline/shariff).
 			* Mehr Informationen dazu: [Shariff: Social-Media-Buttons mit Datenschutz](https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html).
 * Betreiben Sie einen Newsletter auf Ihrer Website?
-	* Es sollte ein Einwilligungs-Feld zum Anklicken neben dem Eingabefeld für die E-Mailadresse angezeigt werden (z. B. „Ja, ich möchte den Newsletter per E-Mail erhalten“).
-	* Double-Opt-In: der Kunde sollte hier eine E-Mail erhalten mit einer Nachricht der Datenschutzhinweise und einen Bestätigungslink, der er als finale Zustimmung anklicken muss.
+	* Stellen Sie sicher, dass ein Einwilligungs-Feld zum Anklicken neben dem Eingabefeld für die E-Mailadresse angezeigt werden (z. B. „Ja, ich möchte den Newsletter per E-Mail erhalten“).
+	* Double-Opt-In: der Kunde muss hier eine E-Mail erhalten mit einer Nachricht der Datenschutzhinweise und einen Bestätigungslink, der er als finale Zustimmung anklicken muss.
 * Existieren Hyperlinks (z. B. Link zur Weiterführung zu einer anderen Website)?
-	* Für kommerzielle Seitenbetreiber: prüfen Sie stets, ob die verlinkten Inhalte mit Erlaubnis des Urhebers ins Netz gestellt wurden.
-* Posten Sie keine eigenproduzierten Inhalte ODER
-Nutzen Sie fremde Inhalte?
-	* Achten Sie unbedingt auf eine Einwilligung der Produzenten der Inhalte.
+	* Für kommerzielle Seitenbetreiber: stellen Sie sicher, dass die verlinkten Inhalte mit Erlaubnis des Urhebers ins Netz gestellt wurden.
+* Posten Sie keine eigenproduzierten Inhalte ODER nutzen Sie fremde Inhalte?
+	* Stellen Sie sicher, dass Sie eine Einwilligung der Produzenten der Inhalte besitzen.
 		* Die Einwilligung muss ausdrücklich oder konkludent erfolgen.
 		* *konkludent: eine stillschweigende Willenserklärung*
 		* Rechteinhaber kann durch Lizenzen zustimmen.
@@ -73,14 +70,13 @@ Nutzen Sie fremde Inhalte?
 	* Wenn dies redaktioneller Content ist, dann fällt das Kennzeichen auf die Werbung weg.
 	* Bei einem Blogeintrag muss dies als „Werbung“ gekennzeichnet werden.
 * Können Nutzer Ihnen Nachrichten schreiben (z. B. über Instagram oder Facebook)?
-	* Achten Sie darauf, dass Sie keine Werbung über private Nachrichten schicken, es sei denn der Nutzer ist einverstanden.
+	* Stellen Sie sicher, dass Sie keine Werbung über private Nachrichten schicken, es sei denn der Nutzer ist einverstanden.
 	* Sie dürfen trotzdem Fragen zum Produkt beantworten und das jeweilige Produkt darf auch mitgesendet werden.
 * Nutzen Sie WhatsApp für direkten Kundenkontakt?
 	* Ändern Sie dies und weichen Sie auf E-Mail aus.
 	* *Erklärung*: der Messenger liest Adressbücher der Mitarbeiter inklusive E-Mail-Kontakte und Telefonnummern von Kollegen, Kunden und Partnern.
 * Nutzen Sie eine private E-Mail für den direkten Kundenkontakt?
 	* Nutzen Sie eine Business E-Mail (eine E-Mail, die auf Ihr Unternehmen verweist).
-	* Achten Sie hierbei auf Phishing [TODO: INSERT KAPITEL].
 
 *Unsere Empfehlungen für Messenger*:
 * Slack ist sicher und DSGVO-Konform ([Slack DSGVO](https://slack.com/intl/de-de/gdpr))
