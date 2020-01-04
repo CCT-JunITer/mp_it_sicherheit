@@ -3,16 +3,16 @@
 **Risikoanalyse**
 
 * Wird Ihre Cloud möglicherweise im Ausland gehostet?
-	* Achten Sie auf Zertifikate (Trusted Cloud Zertifikat) und lesen Sie sich unbedingt die Datenschutzbedingungen durch.
-* Haben Sie die Möglichkeit, regelmäßige lokale Backups der ausgelagerten Daten anzulegen?
-	* Legen Sie lokale Backups an und verstauen Sie diese so sicher wie möglich.
-* Existieren in der Cloud Rollenzuweisungen, wo nur bestimmte Mitarbeiter Zugriff auf bestimmte Dateien/Daten haben ODER
-verlassen Mitarbeiter Ihr Unternehmen?
-	* Legen Sie Rollenzuweisungen für alle Cloud-Nutzer an und achten Sie darauf, dass diese Rollenzuweisungen manipulationssicher sind.
-	* Achten Sie darauf, dass Mitarbeiter nur auf die freigegebenen Dateien Zugriff haben.
+	* Der Cloudanbieter benötigt diese Zertifikate (Trusted Cloud Zertifikat), ansonsten empfehlen wir den Anbieter zu wechseln.
+* Garantiert der Cloudanbieter kein ausreichendes Level an Datensicherheit ODER ist der Cloudanbieter ökonomisch gefährdet?
+	* Sichern Sie Ihre Daten selbst ab ODER wechseln Sie den Cloudanbieter.
+* Haben Personen unbefugten Zugriff auf Daten in der Cloud, die sie nicht zugewiesen sind ODER nicht bearbeiten dürfen?  
+	* Legen Sie Rollenzuweisungen für alle Cloud-Nutzer an und achten Sie darauf, dass diese Rollenzuweisungen manipulationssicher und aktuell sind.
 	* Entfernen Sie die ehemaligen Mitarbeiter von der Cloud, die das Unternehmen verlassen haben.
-* Ist Ihre Cloud kostenfrei?
-	* Hinterfragen Sie diese Angebote kritisch und wechseln Sie ggf. zu einem kostenpflichtigen Cloud-Anbieter.
+	* Wenn Ihre Cloud keine Rollenzuweisungen bietet, wechseln Sie den Anbieter.
+* Ist das Angebot Ihres Cloudanbieters nicht seriös ODER sind die Leistungsinhalte des Cloud-Anbieters nicht detailliert beschrieben ODER weist der Cloud-Anbieter keine solide wirtschaftliche Basis auf?
+	* Hinterfragen Sie kostenfreie Angebote oder Angebote von nicht etablierten Anbietern.
+	* Wechseln Sie ggf. zu einem kostenpflichtigen Cloud-Anbieter.
 * Werden sehr sensible Daten (wie z. B. Rechnungen) in die Cloud hochgeladen?
 	* Stellen Sie die Verschlüsselung der sensiblen Daten vor dem Hochladen in die Cloud sicher.
 		* Achten Sie hierbei immer auf eine HTTPs-Verbindung. Dies können Sie überprüfen, indem oben in der URL ein Schloß neben dem Link existiert (hierbei wird die Verbindung sichergestellt).
@@ -31,15 +31,13 @@ Hat der Cloud-Anbieter keine etablierte Marktposition oder besteht eine Gefahr e
 		* Nutzen Sie immer Multi-Factor Authentication (Erklärung: der Cloud-Service sollte erlauben, dass mehrere Möglichkeiten geboten werden, um sich zu authentifizieren) [siehe Kapitel Authentifizierung für weitere Details](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/authentication_chapter.md).
 		* Nutzt der Cloud-Anbieter HTTPs.
 		2. Frühere Performance
-		* Es sollten keine früheren Zwischenfälle existieren, wo Daten veröffentlicht, gestohlen wurden oder sogar Schadsoftware auf der Cloud installiert wurde.
-			* Schauen Sie sich hierzu am besten Rezessionen oder Artikel über den Cloud-Anbieter an.
+		* Gab es in der Vergangenheit vermehrt Abstürze der Cloudserver oder gab es sogar Datenverlust? 
+			* Schauen Sie sich hierzu Rezessionen oder Artikel über den Cloud-Anbieter an.
 		3. Auf das Single Sign On (SSO) Prinzip achten
 		* *SSO Prinzip erklärt*: Hierbei muss sich der Cloud-Anwender einmal authentifizieren lassen und kann dann Zugang auf eine Vielzahl an Services erhalten ohne sich jedes mal an- und abmelden zu müssen.
 		* Falls der Cloud-Anbieter das SSO Prinzip nicht hat, achten Sie auf starke Passwörter [siehe Kapitel Authentifizierung](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/authentication_chapter.md).
 		4. Achten Sie auf Zertifizierungen
 		* Beispielsweise: SSAE16, ISO 27001, SOC2, PCI, HIPAA.
-* Sind die Leistungsinhalte des Cloud-Anbieters nicht detailliert beschrieben ODER weist der Cloud-Anbieter keine solide wirtschaftliche Basis auf?
-	* Denken Sie über einen Wechsel des Anbieters nach, um die Chance auf Datenverlust zu verringern.
 
 *Unsere Empfehlungen für Cloud-Anbieter:* Google Cloud, Dropbox, Microsoft Azure, AWS, IBM Cloud.
 
@@ -59,7 +57,7 @@ Cloud-basierte Dienstleistungen sind datenschutzrechtlich sehr kritisch, denn h�
 
 Beim Cloud-Computing bleibt der Cloud Anwender (also Sie) nach dem Bundesdatenschutzgesetz (§ 3 Abs. 7 BDSG) verantwortlicher für die Daten. Das heißt, dass der Cloud-Anwender sicherstellen muss, dass die Daten stets diebstahlsicher sind und regelmäßige Backups gemacht werden.
 
-Außerdem ist es wichtig, dass der Cloud-Anwender mit dem Cloud-Anbieter einen Vertrag zur Auftragsdatenverarbeitung nach § 11 BDSG schließt. Damit sicher er sich rechtlich gegenüber dem Cloudanbieter ab, dass dieser alle Datenschutzbestimmungen einhält. Falls der Cloud-Anbieter Subunternehmen mit der Verarbeitung der Daten beauftragt, müssen diese im Vertrag ebenfalls aufgeführt werden. Hinsichtlich der Beauftragung der Subunternehmen muss sich der Anwender ein Widerspruchsrecht einräumen lassen. Er muss die Möglichkeit haben, sich in diesen Fällen vom Vertrag zu lösen. Falls kein Widerspruchsrecht existiert und Subunternehmen beteiligt sind, bestünde die Gefahr vom Verlust der Kontrolle über die eigenen Daten. Außerdem sollte in diesem Vertrag auch die Möglichkeit eines Anbieterwechsels und Datenportabilität, aber auch die Frage nach dem Eigentum an den Daten und die sofortige Löschung der Daten nach Vertragsbeendigung festgelegt werden.
+Außerdem ist es wichtig, dass der Cloud-Anwender mit dem Cloud-Anbieter einen Vertrag zur Auftragsdatenverarbeitung nach § 11 BDSG schließt. Damit sichert sich der Anwender rechtlich gegenüber dem Cloudanbieter ab, dass dieser alle Datenschutzbestimmungen einhält. Falls der Cloud-Anbieter Subunternehmen mit der Verarbeitung der Daten beauftragt, müssen diese im Vertrag ebenfalls aufgeführt werden und der Cloud-Anwender muss schriftlich oder elektronisch zustimmen und informiert werden. Der Cloud-Anwender kann dem Einsatz der Subunternehmen widersprechen. Können sich die Vertragspartner nicht einigen, führt dies unmittelbar zur Beendigung des Vertrags. Außerdem sollte in diesem Vertrag auch die Möglichkeit eines Anbieterwechsels und Datenportabilität, aber auch die Frage nach dem Eigentum an den Daten und die sofortige Löschung der Daten nach Vertragsbeendigung festgelegt werden.
 
 Ein Großteil der Cloud-Anbieter speichert Daten außerhalb des EU/EWR Raumes und deswegen müssen sich Cloud-Anbieter im Ausland nach dem Privacy Shield zertifizieren lassen oder EU-Standardvertragsklauseln abschließen.
 Da dementsprechend Vor-Ort Kontrollen meistens nicht möglich sind, ist es wichtig, stets die Einhaltung bestimmter Anforderungen durch Zertifikate sicherzustellen.
