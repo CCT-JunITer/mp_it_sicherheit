@@ -7,7 +7,7 @@
 	* Beseitigen Sie dies sofort und prägen Sie sich das Passwort ein oder nutzen Sie einen Passwortmanager [siehe Passwortmanager Checkliste].
 * Müssen Sie Ihr Passwort mit jemanden teilen?
 	* Nutzen Sie unterschiedliche Weisen, um Ihr Passwort demjenigen zu senden.
-	Beispielsweise: Senden Sie ein Teil Ihres Passworts über SMS und den anderen Teil über E-Mail.
+		* Beispielsweise: Senden Sie ein Teil Ihres Passworts über SMS und den anderen Teil über E-Mail.
 * Nutzen Sie Sicherheitsfragen?
 	* *Erklärung*: Sicherheitsfragen schützen Ihren Account besser. Hier müssen Sie persönliche Fragen beantworten.
 	* Bei den Sicherheitsfragen empfehlen wir, möglichst komplexe Antworten zu wählen (wenn Sie sich nicht sicher sind, ob diese Frage gut genug ist, nutzen Sie lieber eine andere Sicherheitsfrage mit einer komplexeren Antwort).
