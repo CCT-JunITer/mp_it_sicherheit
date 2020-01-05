@@ -2,18 +2,57 @@
 
 **Risikoanalyse**
 
-* Können Nutzer personenbezogene Daten eintragen oder übertragen?
+* Können Nutzer auf Ihrer Webseite personenbezogene Daten eintragen oder einsehen?
   	* Stellen Sie sicher, dass Ihre Webseite die Daten verschlüsselt überträgt (HTTPs).
 * Nutzt Ihre Webseite Cookies?
   	* Stellen Sie sicher, dass die Nutzer darüber und über ihr Widerspruchsrecht informiert werden.
 * Nutzen Sie fremde Inhalte (z. B. Bilder oder Videos)?
 	* Für Texte, Bilder, Musik oder Videos muss eine Einwilligung vom Rechteinhaber und eine Quellenangabe vorhanden sein.
-	* Falls Abbildungen von Personen auf Fotos zu sehen sind, müssen diese zu sehenden Personen eine Einwilligung unterschrieben haben [siehe Einwilligungsmuster].
+	* Falls Personen auf Fotos zu sehen sind, müssen diese eine entsprechende Einwilligung unterschrieben haben [siehe Einwilligungsmuster].
 * Haben Sie Preisangaben auf Ihrer Website (z. B. Online Shop)?
-	* Der Brutto-Endpreis muss am Ende des Einkaufsprozess stehen.
-	* Weisen Sie den Nutzer daraufhin, dass hier die Mehrwertsteuer enthalten ist.
-	* Falls etwaige Versandkosten anstehen, müssen Sie den Nutzer darauf hinweisen.
-* Existiert kein Impressum auf Ihrer Website ODER sind Sie nicht sicher, was alles in das Impressum rein muss?
+	* Der  am Ende des Einkaufsprozess muss der Brutto-Endpreis anzegzeit werden.
+	* Weisen Sie den Nutzer außerdem daraufhin, dass hierbei die Mehrwertsteuer enthalten ist.
+	* Falls etwaige Versandkosten erhoben werden, müssen Sie den Nutzer darauf hinweisen.
+
+* Betreiben Sie einen Newsletter auf Ihrer Website?
+	* Stellen Sie sicher, dass ein Einwilligungs-Feld zum Anklicken neben dem Eingabefeld für die E-Mailadresse angezeigt werden (z. B. „Ja, ich möchte den Newsletter per E-Mail erhalten“).
+	* Double-Opt-In: der Kunde muss hier eine E-Mail erhalten mit einer Nachricht der Datenschutzhinweise und einen Bestätigungslink, der er als finale Zustimmung anklicken muss.
+* Existieren Hyperlinks (z. B. Link zur Weiterführung zu einer anderen Website)?
+	* Für kommerzielle Seitenbetreiber: stellen Sie sicher, dass die verlinkten Inhalte mit Erlaubnis des Urhebers ins Netz gestellt wurden.
+* Posten Sie Fremdproduzierte Inhalte?
+	* Stellen Sie sicher, dass Sie eine Einwilligung der Produzenten der Inhalte besitzen.
+		* Die Einwilligung muss ausdrücklich oder konkludent erfolgen.
+		*konkludent: eine stillschweigende Willenserklärung*
+		* Rechteinhaber kann durch Lizenzen zustimmen.
+			* Eine Überschreitung der Lizenz ist eine Verletzung des Urheberrechts.
+			* Beachten Sie dafür folgende Punkte:
+				* Wie dürfen Sie das Werk nutzen?
+				* Wo und wie oft darf es veröffentlicht werden?
+				* Darf das Werk in der ursprünglichen Form genutzt oder umgestaltet werden?
+* Benutzen Sie Stockfotos auf Ihrem Social Media Account oder Website?
+	* Es existieren lizenzfreie (RF - Royality Free) und auch lizenzpflichtige (RM - Rights managed) Fotos.
+		* Bei freien Bildern ist der Preis abhängig von der Bildgröße.
+		* Bei Lizenzbildern ist der Preis abhängig von der Nutzungsart, der Auflage und dem Verbreitungsraum.
+		* Laut §13 UrhG hat Urheber das Recht auf Anerkennung durch einen Vermerk.
+* Beziehen Sie Schleichwerbung durch Produktposts auf Social Media oder auf Ihrer Website?
+	* Wenn dies redaktioneller Content ist, dann fällt das Kennzeichen auf die Werbung weg.
+	* Bei einem Blogeintrag muss dies als „Werbung“ gekennzeichnet werden.
+* Können Nutzer Ihnen Nachrichten schreiben (z. B. über Instagram oder Facebook)?
+	* Stellen Sie sicher, dass Sie keine Werbung über private Nachrichten schicken, es sei denn der Nutzer ist damit explizit einverstanden.
+	* Sie dürfen trotzdem Fragen zum Produkt beantworten und das jeweilige Produkt darf auch mitgesendet werden.
+* Nutzen Sie WhatsApp für direkten Kundenkontakt?
+	* Ändern Sie dies und weichen Sie auf E-Mail aus.
+	*Erklärung*: der Messenger liest Adressbücher der Mitarbeiter inklusive E-Mail-Kontakte und Telefonnummern von Kollegen, Kunden und Partnern.
+* Nutzen Sie eine private E-Mail für den direkten Kundenkontakt?
+	* Nutzen Sie eine geschäftliche E-Mail-Adresse
+	* Richten Sie sich eine Email-Signatur ein.
+* Nutzen Sie Social Media Plugins/Buttons?
+	* Nutzen Sie unbedingt die "Shariff“ Methode, um Social Plugins einzubinden.
+	*Erklärung*: der Kontakt zwischen Nutzer und jeweiligen sozialen Netzwerk erst dann hergestellt, wenn Nutzer auf den Share-Button klickt.
+	* Für die Verwendung der Shariff Methode wird ein Wordpress Plugin benötigt oder Sie programmieren diese Methode selber.
+		* Vorhandener Code für die Shariff Methode: [GitHub Shariff Code](https://github.com/heiseonline/shariff).
+		* Mehr Informationen dazu: [Shariff: Social-Media-Buttons mit Datenschutz](https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html).	
+* Existiert kein Impressum auf Ihrer Website ODER Sie sind nicht sicher, was Ihr Impressum enthlten muss?
 	* Erstellen Sie ein Impressum, falls diese Webseite einen geschäftlichen Zweck verfolgt.
 	* Ein Impressum muss folgende Dinge beinhalten:
 		* Das Impressum muss als eigene Unterseite als wiederkehrender Link mit Bezeichnung „Impressum“ erscheinen.
@@ -40,43 +79,6 @@
 		* Hinweis auf ein Recht zu Widerspruch, Sperrung und Löschung der Daten bzw. des Kontos
 	* Falls Sie keine finanziellen Mittel für eine spezielle Datenschutzerklärung haben können Sie auch vorerst einen kostenlosen Generator nutzen.
 		* Wir empfehlen folgende Seite: [Datenschutzerklärung erstellen nach DSGVO](https://www.e-recht24.de/muster-datenschutzerklaerung.html).
-* Nutzen Sie Social Media Plugins/Buttons?
-	* Nutzen Sie unbedingt die "Shariff“ Methode, um Social Plugins einzubinden.
-		* *Erklärung*: der Kontakt zwischen Nutzer und jeweiligen sozialen Netzwerk erst dann hergestellt, wenn Nutzer auf den Share-Button klickt.
-		* Für die Verwendung der Shariff Methode wird ein Wordpress Plugin benötigt oder Sie programmieren diese Methode selber.
-			* Vorhandener Code für die Shariff Methode: [GitHub Shariff Code](https://github.com/heiseonline/shariff).
-			* Mehr Informationen dazu: [Shariff: Social-Media-Buttons mit Datenschutz](https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html).
-* Betreiben Sie einen Newsletter auf Ihrer Website?
-	* Stellen Sie sicher, dass ein Einwilligungs-Feld zum Anklicken neben dem Eingabefeld für die E-Mailadresse angezeigt werden (z. B. „Ja, ich möchte den Newsletter per E-Mail erhalten“).
-	* Double-Opt-In: der Kunde muss hier eine E-Mail erhalten mit einer Nachricht der Datenschutzhinweise und einen Bestätigungslink, der er als finale Zustimmung anklicken muss.
-* Existieren Hyperlinks (z. B. Link zur Weiterführung zu einer anderen Website)?
-	* Für kommerzielle Seitenbetreiber: stellen Sie sicher, dass die verlinkten Inhalte mit Erlaubnis des Urhebers ins Netz gestellt wurden.
-* Posten Sie keine eigenproduzierten Inhalte ODER nutzen Sie fremde Inhalte?
-	* Stellen Sie sicher, dass Sie eine Einwilligung der Produzenten der Inhalte besitzen.
-		* Die Einwilligung muss ausdrücklich oder konkludent erfolgen.
-		* *konkludent: eine stillschweigende Willenserklärung*
-		* Rechteinhaber kann durch Lizenzen zustimmen.
-			* Eine Überschreitung der Lizenz ist eine Verletzung des Urheberrechts.
-			* Achten Sie hier auf folgende Punkte:
-				* Was möchte ich mit dem fremden Werk machen?
-				* Wo und wie oft soll es veröffentlicht werden?
-				* Soll das Werk in der ursprünglichen Form genutzt oder umgestaltet werden?
-* Benutzen Sie Stockfotos auf Ihrem Social Media Account oder Website?
-	* Es existieren lizenzfreie (RF - Royality Free) und auch lizenzpflichtige (RM - Rights managed) Fotos.
-		* Bei freien Bildern ist der Preis abhängig von der Bildgröße.
-		* Bei Lizenzbildern ist der Preis abhängig von der Nutzungsart, der Auflage und dem Verbreitungsraum.
-		* Laut §13 UrhG hat Urheber das Recht auf Anerkennung durch einen Vermerk.
-* Beziehen Sie Schleichwerbung durch Produktposts auf Social Media oder auf Ihrer Website?
-	* Wenn dies redaktioneller Content ist, dann fällt das Kennzeichen auf die Werbung weg.
-	* Bei einem Blogeintrag muss dies als „Werbung“ gekennzeichnet werden.
-* Können Nutzer Ihnen Nachrichten schreiben (z. B. über Instagram oder Facebook)?
-	* Stellen Sie sicher, dass Sie keine Werbung über private Nachrichten schicken, es sei denn der Nutzer ist einverstanden.
-	* Sie dürfen trotzdem Fragen zum Produkt beantworten und das jeweilige Produkt darf auch mitgesendet werden.
-* Nutzen Sie WhatsApp für direkten Kundenkontakt?
-	* Ändern Sie dies und weichen Sie auf E-Mail aus.
-	* *Erklärung*: der Messenger liest Adressbücher der Mitarbeiter inklusive E-Mail-Kontakte und Telefonnummern von Kollegen, Kunden und Partnern.
-* Nutzen Sie eine private E-Mail für den direkten Kundenkontakt?
-	* Nutzen Sie eine Business E-Mail (eine E-Mail, die auf Ihr Unternehmen verweist).
 
 *Unsere Empfehlungen für Messenger*:
 * Slack ist sicher und DSGVO-Konform ([Slack DSGVO](https://slack.com/intl/de-de/gdpr))
