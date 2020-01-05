@@ -22,32 +22,31 @@
 * Wenn Sie physische Dokumente mit personenbezogenen Daten aufbewahren:
 	* Sensible Dokumente **müssen**, egal wo und wann, in verschlossenen Schränken aufbewahrt werden und der Zugang ist auf eine
 	begrenzte Anzahl von Mitarbeitern zu beschränken.
-	* Einwilligungen, die in Papierform vorliegen, müssen griffbereit gelagert werden (hier kann es möglicherweise zu Nachweisen kommen!).
+	* Einwilligungen, die in Papierform vorliegen, müssen griffbereit gelagert werden (hier kann es möglicherweise zur Nachweispflicht kommen!).
 * Wenn Sie Dokumente mit sensiblen Daten entsorgen möchten:
 	* Informieren Sie sich über mögliche [Aufbewahrungsfristen](https://www.dsgvo.tools/aufbewahrungsfristen/).
-	* Nutzen Sie einen Schredder die Informationen zu vernichten.
+	* Nutzen Sie einen Schredder, um die Informationen zu vernichten.
 * Wenn Sie ein Dokument mit personenbezogenen Daten drucken möchten:
 	* Fragen Sie sich immer, ob dieses Dokument in falsche Hände geraten könnte.
-	* Drucken über das Internet ist immer ein Sicherheitsrisiko für mögliche Angriffe und somit raten wir von der Nutzung ab.
+	* Drucken über das Internet ist grundsätzlich ein Sicherheitsrisiko für mögliche Angriffe und somit raten wir von der Nutzung ab.
 * Wenn Sie eine E-Mail verschicken:
 	* Achten Sie penibel darauf, den richtigen Empfänger auszuwählen
 	* Achten Sie auf den Unterscheid zwischen CC und BCC
-	* Löschen Sie emails mit Personenbezogenen Daten nach dem Versenden aus ihrem Postausgang
-	* Nutzen Sie auch ein starkes Passwort für Ihr E-Mail Konto, um Datendiebstahl oder schlimmeres zu vermeiden ([Mehr dazu im Kapitel Authentifizierung](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/authentication_chapter.md)).
-* Wenn Sie E-mails mit personenbezogenen Daten verschicken:
+	* Nutzen Sie ein starkes Passwort für Ihr E-Mail Konto, um Datendiebstahl oder Missbrauch zu vermeiden ([Mehr dazu im Kapitel Authentifizierung](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/authentication_chapter.md)).
+* Falls Sie E-mails mit personenbezogenen Daten verschicken:
 	* Achten Sie darauf, dass die Daten verschlüsselt übertragen werden
 	* Die meisten E-Mail Provider besitzen bereits eine etablierte und gängige Verschlüsselung. Informieren Sie sich dementsprechend darüber, wie Sie diese aktivieren können und nutzen Sie diese auch.
-	* Löschen Sie die E-Mail aus Ihrem Postausgang und Papierkorb, sobald sie versendet wurde.
+	* Löschen Sie die E-Mail aus Ihrem Postausgang und Papierkorb, sobald diese versendet wurde.
 	* *Wir empfehlen aber:* Versenden Sie **keine** personenbezogenen Daten per E-Mail, sondern nutzen Sie hier, wenn möglich, eine Cloud-Lösung für den Austausch von personenbezogenen Informationen ([Mehr dazu im Kapitel Cloud](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/cloud_chapter.md)).	
-* Eine Einwilligungserklärung muss immer nachweisbar aufgezeichnet werden. Dies kann geschehen:
+* Eine Einwilligungserklärung muss immer in nachweisbarer Form vorliegen. Dies kann geschehen:
 	* mündlich = Tondokument
 	* schriftlich = Papier
 	* elektronisch = Logfile oder Bestätigungsnachweis).
 
 **Technischer/Rechtlicher/Datenschutz Background**<br/>
 Seit dem Inkrafttreten der DSGVO werden Datenschutzpannen vermehrt gemeldet. Wie das Staatsministerium Baden-Württemberg erklärt, habe sich die Zahl solcher Meldungen seit Mai 2018 verzehnfacht.<br/>
-Eine sehr häufig gemeldete Datenschutzverletzung ist der Fehlversand einer E-Mail. Hier wurde der Empfänger falsch angegeben und hat dementsprechend personenbezogene Daten erhalten, die ihm nicht gehören. Die Bußgeldstrafe kann hier bis in einer Höhe von 200.000 Euro gehen. Sie sollten immer besonders aufmerksam auf den Empfänger der E-Mail achten, um solche naiven Datenschutzverletzungen zu verhindern.<br/>
-Falls Sie E-Mail Verkehr in „cc" betreiben, kann dies erhebliche Konsequenzen haben. Häufig werden im Büroalltag E-Mails schlicht an einem großen Empfängerkreis mittels „cc“ (Carbon Copy = Kopie) weitergeleitet. Der Empfänger erfährt dadurch den Inhalt und die Emailbeteiligten der vorhergehende Nachricht. Hier können personenbezogene E-Mail Adressen weitergeleitet werden ohne irgendeine Einwilligung von den Beteiligten. E-Mail Adressen können personenbezogene Daten darstellen, sobald diese E-Mail Adresse einer Person eindeutig zugeordnet werden kann. Wir empfehlen hier mit „bcc“ (blind carbon copy) zu arbeiten. Sie können dadurch vermeiden, dass die anderen Empfänger sehen, wer beispielsweise den Newsletter bezieht.<br/>
-Des Weiteren empfehlen wir stets, nach dem Senden einer personenbezogenen E-Mail stets diese E-Mail aus dem Postfach zu löschen. Diese Sicherheitsmaßnahme verhindert, dass durch beispielsweise Phishingangriffe (eine Beschaffung personenbezogener Daten mit gefälschten E-Mails oder Websites), keine personenbezogenen Daten in falsche Hände geraten.<br/>
-Eine weitere Datenschutzverletzung ist der Verlust eines Datenträgers. Hier werden sensible Daten verloren und dies kann zu einer sehr hohen Bußgeldstrafe führen. Wir empfehlen, keine eigenen Datenträger für sensible Daten zu benutzen, sondern stets eine sichere Cloud-Lösung ([siehe Cloud Kapitel](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/cloud_chapter.md)).<br/>
-Außerdem dürfen Sie keine personenbezogenen Daten weitergeben, ohne die Einwilligung dieser Person. Hierzu brauchen Sie eine Nachweispflicht, die Sie aufnehmen müssen (schriftlich, auditiv oder elektronisch). Erklären Sie der Person, dass Sie diese Daten verarbeiten dürfen, und seien Sie der Personen stets ehrlich und offen. Schriftliche Einwilligungen sowie jegliche schriftliche personenbezogene Daten, müssen stets verschlossen in einem Schrank aufbewahrt werden. <br/>
+Eine sehr häufig gemeldete Datenschutzverletzung ist der Fehlversand von E-Mails. Hierbei wird der falsche Empfänger angegeben und hat dementsprechend ungewollt personenbezogene Daten erhalten, auf die er keinen Zugriff haben dürfte. Schon wegen eines solchen Vorfalls können Bußgelder ihv. von 200.000 Euro verhängt werden. Sie sollten also immer besonders aufmerksam auf den Empfänger der E-Mail achten, um solch eine vermeidbare Datenschutzverletzungen zu umgehen.<br/>
+Doch es lauter auch noch eine weitere Gefahr, bei der Auswahl des E-Mail Empfängers. Häufig werden im Büroalltag E-Mails an einem großen Empfängerkreis mittels „cc“ (Carbon Copy = Kopie) weitergeleitet. Der Empfänger erfährt dadurch, neben dem Inhalt der Mail, auch die E-Mail adressen der Beteiligten der vorhergehenden Nachricht. Hierdurch können versehentlich personenbezogene Daten in Form von E-Mail Adressen weitergeleitet werden ohne dass irgendeine Form der Einwilligung von den Beteiligten vorliegt. E-Mail Adressen können als personenbezogen betrachtet werden, sobald sie einer Person eindeutig zugeordnet werden können. Wir empfehlen grundsätzlich  „bcc“ (blind carbon copy) zu verwenden. Sie können dadurch vermeiden, dass die anderen Empfänger sehen können, wer noch beispielsweise den Newsletter bezieht.<br/>
+Des Weiteren empfehlen wir stets, nach dem Senden einer E-Mail mit personenbezogenen Daten, diese E-Mail aus dem Postfach wieder zu löschen. Diese Sicherheitsmaßnahme verhindert, dass durch beispielsweise Phishingangriffe (einer Angriffsstrategie zum Klau von Passwörtern mit gefälschten E-Mails oder Websites), keine personenbezogenen Daten in falsche Hände geraten können.<br/>
+Eine weitere Datenschutzverletzung kann der Verlust eines Datenträgers darstellen. Werden hierbei sensible Daten verloren, kann dies  zu einer sehr hohen Bußgeldstrafe führen. Wir empfehlen daher, keine private/kleine Datenträger für die Speicherung sensibler Daten zu benutzen, sondern stets auf eine sichere Cloud-Lösung zu setzen ([siehe Cloud Kapitel](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/cloud_chapter.md)).<br/>
+Beachten Sie, dass Sie keine personenbezogenen Daten, ohne die Einwilligung der betreffenden Person, weitergeben dürfen. Dabei sind Sie in der Nchweispflicht, die Einwilligung im Zeifel bewisen zu können (schriftlich, auditiv oder elektronisch). Erklären Sie beim Einholen der Einwilligung bei der betreffenden Person, dass Sie diese Daten verarbeiten möchten, und seien Sie der Personen gegenüber ehrlich und offen. Schriftliche Einwilligungen sowie jegliche schriftliche personenbezogene Daten, müssen stets verschlossen in einem Schrank aufbewahrt werden. <br/>
