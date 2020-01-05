@@ -6,23 +6,24 @@
 	* Der Cloudanbieter benötigt diese Zertifikate (Trusted Cloud Zertifikat), ansonsten empfehlen wir den Anbieter zu wechseln.
 * Garantiert der Cloudanbieter kein ausreichendes Level an Datensicherheit ODER ist der Cloudanbieter ökonomisch gefährdet?
 	* Sichern Sie Ihre Daten selbst ab ODER wechseln Sie den Cloudanbieter.
+	* Im Kapitel Backup erfahren Sie, wie sie Ihre Daten zusätzlich [sichern können].(https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup.md).
 * Haben Personen unbefugten Zugriff auf Daten in der Cloud, die sie nicht zugewiesen sind ODER nicht bearbeiten dürfen?  
 	* Legen Sie Rollenzuweisungen für alle Cloud-Nutzer an und achten Sie darauf, dass diese Rollenzuweisungen manipulationssicher und aktuell sind.
-	* Entfernen Sie die ehemaligen Mitarbeiter von der Cloud, die das Unternehmen verlassen haben.
+	* Entfernen Sie ehemalige Mitarbeiter aus der Cloud.
 	* Wenn Ihre Cloud keine Rollenzuweisungen bietet, wechseln Sie den Anbieter.
 * Ist das Angebot Ihres Cloudanbieters nicht seriös ODER sind die Leistungsinhalte des Cloud-Anbieters nicht detailliert beschrieben ODER weist der Cloud-Anbieter keine solide wirtschaftliche Basis auf?
 	* Hinterfragen Sie kostenfreie Angebote oder Angebote von nicht etablierten Anbietern.
 	* Wechseln Sie ggf. zu einem kostenpflichtigen Cloud-Anbieter.
-* Werden sehr sensible Daten (wie z. B. Rechnungen) in die Cloud hochgeladen?
-	* Stellen Sie die Verschlüsselung der sensiblen Daten vor dem Hochladen in die Cloud sicher.
-		* Achten Sie hierbei immer auf eine HTTPs-Verbindung. Dies können Sie überprüfen, indem oben in der URL ein Schloß neben dem Link existiert (hierbei wird die Verbindung sichergestellt).
-		* Für Verschlüsselung empfehlen wir die Software „Encrypto“ ([Encrypto: Securely encrypt your files before sending them to friends or coworkers.](https://macpaw.com/encrypto)).
-			* Diese Software kann Ihnen dabei helfen, Ihre Dateien mit einem sehr guten Algorithmus zu verschlüsseln.
+* Werden sehr sensible Daten (wie z. B. Rechnungen) in der Cloud gespeichert?
+	* Stellen Sie eine verschlüsselte Übertragung der sensiblen Daten beim  Hochladen in die Cloud sicher.
+		* Achten Sie hierfür immer auf eine HTTPs-Verbindung. Dies können Sie überprüfen, indem oben in der URL ein Schloß neben dem Link existiert (hierbei wird die Verbindung sichergestellt).
+	* Für die Verschlüsselung der Daten selbst empfehlen wir die Software „Encrypto“ ([Encrypto: Securely encrypt your files before sending them to friends or coworkers.](https://macpaw.com/encrypto)).
+		* Diese Software hilft Ihnen, Dateien mit einem sehr guten Algorithmus zu verschlüsseln.
 * Fällt Ihre Cloud möglicherweise häufig aus oder gibt es Systemabstürze ODER
 Existieren Subunternehmen bei diesem Cloud-Anbieter ODER
 Hat der Cloud-Anbieter keine etablierte Marktposition oder besteht eine Gefahr einer Übernahme durch Wettbewerber?
 	* Denken Sie darüber nach den Cloud-Anbieter zu wechseln und achten Sie darauf, dass Sie die volle Datenkontrolle haben.
-* Besitzen Sie auf Ihren Endgeräten, wo Sie Daten in die Cloud hochladen wollen, einen ausreichenden Basisschutz (Firewall, Virenschutz)?
+* Besitzen Sie auf Ihren Endgeräten, mit denen Sie Daten in die Cloud hochladen, **keinen** ausreichenden Basisschutz (Firewall, Virenschutz)?
 	* Installieren Sie verifizierte Software zum Schutz Ihrer Systeme [siehe Kapitel “Arbeiten auf Ihrem privaten/dienstlichen Rechner”].
 	* Achten Sie auf ein ausreichendes, sicheres Passwort und aktivieren Sie ggf. die 2 Faktor Authentifizierung [siehe Kapitel “Authentifizierung”].
 * Wird die Netzwerksicherheit vom Cloud-Anbieter gewährleistet?
@@ -45,7 +46,7 @@ Hat der Cloud-Anbieter keine etablierte Marktposition oder besteht eine Gefahr e
 
 **Einleitung**
 
-Die Cloud bildet einen wichtigen Grundpfeiler in der digitalen Transformation und ist auch eine essenzielle Grundlage für die Verbindung der digitalen mit der physikalischen Welt (Internet of Things). Die Cloud Anbieter werden, aufgrund der steigenden Nachfrage und Skaleneffekte, immer schneller und kostengünstiger, wodurch es sich für Organisationen oft lohnt, eine Cloud zu nutzen.
+Die Cloud bildet einen wichtigen Grundpfeiler in der digitalen Transformation und ist auch eine essenzielle Grundlage für die Verbindung der digitalen mit der physikalischen Welt (Internet of Things). Cloudanbieter werden, aufgrund der steigenden Nachfrage und Skaleneffekte, immer schneller und kostengünstiger, wodurch es sich für viele Anwendungsfälle lohnt, eine Cloud zu nutzen.
 
 Große Cloud Anbieter, wie Google, Amazon, SAP oder IBM bieten breit gefächerte Geschäftslösungen an, wie online Backups, Web Anwendungen oder IT-Management-Systeme. Die Folge hiervon ist, dass immer mehr kritische und sensitive Informationen gesammelt und in der Cloud gespeichert werden.
 
