@@ -86,7 +86,7 @@
 
 **Einleitung**
 
-Social Media Plattformen wie Facebook, Twitter oder Instagram werden täglich von Millionen Nutzern aus aller Welt aufgesucht. Die Bedeutung und der Einfluss dieser Plattformen für Unternehmen sind mittlerweile so groß, dass sich Unternehmen damit auseinandersetzen müssen.
+Social Media Plattformen wie Facebook, Twitter oder Instagram werden täglich von Millionen Nutzern aus aller Welt besucht. Die Bedeutung und der Einfluss dieser Plattformen für Unternehmen sind mittlerweile so groß, dass sich Unternehmen damit auseinandersetzen müssen.
 Die Nutzung bringt aber diverse Herausforderungen mit sich, unter anderem sollte eine angemessene Datenschutzerklärung vorliegen.
 
 Außerdem betreiben viele Unternehmen Webseiten, wo sie ihre Produkte oder ihre Brand vermarkten. Hierbei gibt es jedoch auch sehr viele und wichtige Richtlinien, an denen das Unternehmen sich halten muss, wie zum Beispiel ein rechtsgemäßes Impressum oder die Einbindung von Social Media Plattformen auf der Webseite.
@@ -97,5 +97,5 @@ Falls Sie eine Domain registrieren wollen, reicht hier die Überprüfung der Ver
 Außerdem ist es sehr wichtig, dass das Unternehmen die Haftung verantwortet. Das heißt, wer eine Website betreibt, ist dementsprechend auch für den Inhalt verantwortlich. Die Organisation trägt hier volle Haftung!
 Fremde Inhalte dürfen auch hier nicht zu eigen gemacht werden.
 
-Falls Sie Portale, Blogs oder Foren betreiben ist es sinnvoll, einen Haftungsausschluss mit einzubetten. Dieser Haftungsausschluss sollte vorkommen, wenn User eigenen Content auf der Seite erstellen. Hierbei ist wichtig zu markieren, dass der Seitenbetreiber keinerlei Einfluss auf die fremden Inhalte hat und daher die einzelnen Nutzer selbst verantwortlich sind. Schlussendlich ist der Seitenbetreiber verpflichtet tätig zu werden, wenn ein Rechtsstoß vorliegt.
+Falls Sie Portale, Blogs oder Foren betreiben ist es sinnvoll, einen Haftungsausschluss mit einzubetten. Dieser Haftungsausschluss sollte vorkommen, wenn User eigenen Content auf der Seite erstellen. Hierbei ist wichtig zu vermerken, dass der Seitenbetreiber keinerlei Einfluss auf die fremden Inhalte hat und daher die einzelnen Nutzer selbst verantwortlich sind. Schlussendlich ist der Seitenbetreiber verpflichtet tätig zu werden, wenn ein Rechtsstoß vorliegt.
 
