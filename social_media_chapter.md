@@ -34,9 +34,9 @@
 		* Bei freien Bildern ist der Preis abhängig von der Bildgröße.
 		* Bei Lizenzbildern ist der Preis abhängig von der Nutzungsart, der Auflage und dem Verbreitungsraum.
 		* Laut §13 UrhG hat Urheber das Recht auf Anerkennung durch einen Vermerk.
-* Beziehen Sie Schleichwerbung durch Produktposts auf Social Media oder auf Ihrer Website?
-	* Wenn dies redaktioneller Content ist, dann fällt das Kennzeichen auf die Werbung weg.
+* Zeigen Sie Schleichwerbung in Form von Produktposts auf Social Media Kanälen oder Ihrer Website?
 	* Bei einem Blogeintrag muss dies als „Werbung“ gekennzeichnet werden.
+	* Wenn es sich um redaktionellern Content handelt, entfällt die Kennzeichnungspflicht.
 * Können Nutzer Ihnen Nachrichten schreiben (z. B. über Instagram oder Facebook)?
 	* Stellen Sie sicher, dass Sie keine Werbung über private Nachrichten schicken, es sei denn der Nutzer ist damit explizit einverstanden.
 	* Sie dürfen trotzdem Fragen zum Produkt beantworten und das jeweilige Produkt darf auch mitgesendet werden.
