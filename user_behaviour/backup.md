@@ -6,8 +6,8 @@
   * Überlegen Sie sich, wieviele Gigabyte an Nutzdaten Sie sichern möchten und ob sie eine Festplatte oder Cloudlösung bevorzugen
 * Haben Sie noch kein Backup Ihrer Daten?
   * Machen Sie umgehend eine Sicherung Ihrer Daten mithilfe des Dateiversionsverlaufs auf einem Speichermedium.
-* Steht eine große Änderung Ihres Systems an?
-  * Erstellen Sie ein Systemabbild auf einer externen Festplatte. Lesen Sie vorher die Anleitung zu [Systemabbild erstellen](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup_instructions.md).
+* Erstellen Sie ein Systemabbild, bevor größere Änderungen Ihres Systems durchgeführt werden?
+  * Erstellen Sie stets ein Systemabbild auf einer externen Festplatte. Lesen Sie vorher die Anleitung zu [Systemabbild erstellen](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup_instructions.md).
 * Lagern Sie die Sicherung im Selben Gebäude wie das Gerät, von dem sie die Sicherung gemacht haben?
   * Um im Falle einer Havarie nicht Original und kopie gleichermaßen zu verlieren, sollten sie diese getrennt lagern. 
 * Speichern Sie zeitkritische Daten, die für den Geschäftsbetrieb wichtig sind ODER greifen mehrere Personen auf die selben Daten zu?
