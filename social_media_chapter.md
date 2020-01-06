@@ -84,14 +84,11 @@
 * Slack ist sicher und DSGVO-Konform ([Slack DSGVO](https://slack.com/intl/de-de/gdpr))
 * Microsoft Teams sicher DSGVO-Konform ([Microsoft Teams DSGVO](https://support.office.com/de-de/article/datenschutzgrundverordnung-dsgv-und-teams-free-bdf2e378-da6b-48d9-a13d-44917c6ee90a))
 
-**Einleitung**
-
-Social Media Plattformen wie Facebook, Twitter oder Instagram werden täglich von Millionen Nutzern aus aller Welt besucht. Die Bedeutung und der Einfluss dieser Plattformen für Unternehmen sind mittlerweile so groß, dass sich Unternehmen damit auseinandersetzen müssen.
-Die Nutzung bringt aber diverse Herausforderungen mit sich, unter anderem sollte eine angemessene Datenschutzerklärung vorliegen.
-
-Außerdem betreiben viele Unternehmen Webseiten, wo sie ihre Produkte oder ihre Brand vermarkten. Hierbei gibt es jedoch auch sehr viele und wichtige Richtlinien, an denen das Unternehmen sich halten muss, wie zum Beispiel ein rechtsgemäßes Impressum oder die Einbindung von Social Media Plattformen auf der Webseite.
 
 **Technischer/Rechtlicher/Datenschutz Background**
+
+Social Media Plattformen wie Facebook, Twitter oder Instagram werden täglich von Millionen Nutzern aus aller Welt besucht. Entsprechend attraktiv ist es für Unternehemn, sich auf Ihnen zu präsentieren.
+Aber das Internet ist "kein rechtsfreier Raum", denn auch hier gelten streneg Regelen, wie das Telemediengesetz, die DSGVO und das Urheberrecht.
 
 Falls Sie eine Domain registrieren wollen, reicht die Überprüfung der Verfügbarkeit nicht aus. Es muss sichergestellt werden, dass keine älteren Namen oder Marken verletzt werden (Dies können Sie hier überprüfen: www.dpma.de).
 Außerdem ist es sehr wichtig zu wissen, dass der Betreiber einer Webseite auch für ihren Inhalt verantwortlich ist und ggf. dafür haftet. Dies ist insbesondere der Fall, wenn unerlaubter Weise Fremde Inhalte genutzt werden. 
