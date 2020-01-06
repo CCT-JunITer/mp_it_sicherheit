@@ -1,49 +1,41 @@
 # Authentifizierung
 
 
-**Risikoanalyse**
+**Praxistipps **
 
-* Haben Sie Ihr Passwort digital oder analog niedergeschrieben?
-	* Beseitigen Sie dies sofort und prägen Sie sich das Passwort ein oder nutzen Sie einen Passwortmanager [siehe Passwortmanager Checkliste].
-* Müssen Sie Ihr Passwort mit jemanden teilen?
-	* Nutzen Sie unterschiedliche Weisen, um Ihr Passwort demjenigen zu senden.
-		* Beispielsweise: Senden Sie ein Teil Ihres Passworts über SMS und den anderen Teil über E-Mail.
-* Nutzen Sie Sicherheitsfragen?
+* Schreiben Sie Ihr Passwort nicht digital oder analog auf:
+	* Prägen Sie sich Ihre Passwörter ein oder nutzen Sie einen Passwortmanager [siehe Passwortmanager Checkliste].
+* Wenn Sie Ihr Passwort mit jemanden teilen müssen:
+	* Nutzen Sie unterschiedliche Weisen, um Ihr Passwort zu versenden.
+		* Beispielsweise: Senden Sie einen Teil Ihres Passworts per SMS und den anderen Teil über E-Mail.
+* Nutzen Sie Sicherheitsfragen:
 	* *Erklärung*: Sicherheitsfragen schützen Ihren Account besser. Hier müssen Sie persönliche Fragen beantworten.
-	* Bei den Sicherheitsfragen empfehlen wir, möglichst komplexe Antworten zu wählen (wenn Sie sich nicht sicher sind, ob diese Frage gut genug ist, nutzen Sie lieber eine andere Sicherheitsfrage mit einer komplexeren Antwort).
-* Existiert keine vorhandene HTTPs-Verbindung, wenn Sie sich auf einer Plattform einloggen wollen?
-	* Dies können Sie herausfinden, indem Sie auf das Schloss oben neben der URL achten.
-	* Nutzen Sie lieber diese Plattform nicht.
-* Nutzen Sie mindestens eine 2-Faktor-Authentifizierung?
-	* *Erklärung*: bei der 2-Faktor-Authentifizierung werden zwei unterschiedliche Komponenten (z. B.: Handy und E-Mail) als Authentifizierung betrachtet. Das heißt, wenn Sie sich mit Ihrem Passwort einloggen wollen, müssen Sie nach erfolgreicher Eingabe noch einen gesendeten Code verwenden.
-	* Bei den meisten Plattformen gibt es eine 2-Faktor-Authentifizierung, nutzen Sie diese (Sie finden die 2-Faktor-Authentifizierung meistens bei den Einstellungen Ihres Passworts).
-* Wird keine 2-Faktor-Authentifizierung auf der Plattform angeboten?
-	* Stellen Sie sicher, dass Sie ein sehr kryptisches, langes und einzigartiges Passwort [siehe Passwort Checkliste].
+	* Bei den Sicherheitsfragen empfehlen wir, möglichst komplexe Antworten zu wählen (wenn Sie sich einmal nicht sicher sind, ob diese Frage ausreichend gut ist, nutzen Sie lieber eine andere Sicherheitsfrage mit einer komplexeren Antwort).
+* Achten Sie neim Online-Login immer auf eine verschlüsselte Verbindung und auf die richtige URL.
+	* Den Status der Verschlüsselung können Sie herausfinden, indem Sie auf das Schloss oben neben der URL achten.
+* Nutzen Sie mindestens eine 2-Faktor-Authentifizierung:
+	* *Erklärung*: Bei der 2-Faktor-Authentifizierung werden zwei unterschiedliche Komponenten (z. B.: Handy und E-Mail) zur Authentifizierung verwendet. Das heißt, wenn Sie sich mit Ihrem Passwort einloggen wollen, müssen Sie nach erfolgreicher Eingabe Ihres Passworts noch einen gesendeten Bestätigungscode verwenden.
+	* Bei den meisten Plattformen gibt es eine 2-Faktor-Authentifizierung, nutzen Sie diese (Sie finden die 2-Faktor-Authentifizierung meistens bei den Einstellungen Ihres Kontos).
 	* Sie können auch einen sogenannten „Passwordkey“ benutzen.
-* Nutzen Sie einen „Passwordkey“?
-	* *Erklärung*: Ein Passwordkey ist eine starke Alternative zu der 2-Faktor-Authentifizierung und erlaubt es Ihnen einen Stick als 2-Faktor-Authentifizierung zu nutzen.
-	* Ein Passwordkey ist kein Muss und dementsprechend empfehlen wir einen Passwordkey nur zu benutzen, wenn Sie sich bei der Authentifizierung absolut sicher gehen wollen.
+	* *Erklärung*: Ein Passwordkey ist eine besonders sichere Variante zu der 2-Faktor-Authentifizierung und erlaubt es Ihnen, einen USB-Stick als zweiten Faktor bei der Anmeldung zu nutzen.
 		* Der YubiKey ([Yubico | YubiKey Strong Two Factor Authentication](https://www.yubico.com/)) wird von vielen Unternehmen, wie Facebook oder Google, genutzt.
+* Wird keine 2-Faktor-Authentifizierung auf der Plattform angeboten:
+	* Stellen Sie sicher, dass Sie ein sehr kryptisches, langes und einzigartiges Passwort [siehe Passwort Checkliste].
 *Checkliste für den Passwortmanager:*
 * Haben Sie mehrere starke Passwörter ODER
 	können Sie sich Passwörter schlecht merken ODER
 	können Sie Ihr Passwort nicht selber verschlüsseln ODER
-	nutzen Sie oft Anmeldeformulare (Passwörter können über Formulare gestohlen werden)?
+	nutzen Sie oft Anmeldeformulare (Passwörter können über Formulare gestohlen werden):
 	* Nutzen Sie einen Passwortmanager (wir empfehlen Ihnen LastPass).
-		* Stellen Sie sicher, dass für diesen Passwortmanager ebenfalls die 2-Faktor-Authentifizierung aktiviert ist.
-* Haben Sie bei Ihrem Passwortmanager AutoLogin aktiviert (diese Funktion finden Sie in den Einstellungen)?
-	* Deaktivieren Sie diese, weil falls jemand Zugriff auf Ihren Computer hat, hat der Angreifer gleichzeitig Zugriff auf alle Passwörter und somit auf all Ihre Daten.
+		* Stellen Sie sicher, dass für die NAmeldung bei diesem Passwortmanager, ebenfalls die 2-Faktor-Authentifizierung aktiviert ist.
+	* Deaktivieren Sie im Passwortmanager "AutoLogin", denn, falls jemand fremdes Zugriff auf Ihren Computer erhält, hat dieser dann nciht direkten Zugriff auf Ihre Passwörter und somit auf all Ihre Daten.
 *Checkliste, um die Sicherheit Ihres Passworts zu überprüfen:*
-* Nutzen Sie eine einfache Passwortkombination, wie „1234“ oder „qwerty“ ODER beinhaltet Ihr Passwort Ihr Namen, Geburtsdatum oder andere leicht identifizierbare Informationen zu Ihrem Passwort?
-	* Nutzen Sie Sonderzeichen und Zahlen, um ein kryptisches Passwort zu gewährleisten.
-	* Nutzen Sie keine persönlichen Informationen, wie Vor- und Nachname oder Geburtsdatum, als Passwort.
-	* Wir empfehlen Ihnen diese Seite zu benutzen, um ein einzigartiges und kryptisches Passwort generieren zu lassen [Passwortgenerator | LastPass](https://www.lastpass.com/de/password-generator).
-* Verwenden Sie das gleich Passwort über mehrere Plattformen?
-	* Stellen Sie sicher, dass Sie für jede einzelne Plattform ein anderes einzigartiges Passwort (so erschweren Sie Angreifer weiteren Zugriff zu bekommen).
+* Nutzen Sie keine einfachen Passwortkombination, wie „1234“ oder „qwerty“ UND verwenden Sie in Ihrem Passwort niemals Name, Geburtsdatum oder andere leicht identifizierbare Informationen zu Ihrer Person:
+	* Nutzen Sie Sonderzeichen und Zahlen, um ein kryptisches Passwort zu erstellen.
+	* Nutzen Sie keine persönlichen Informationen, wie Vor- und Nachname oder Geburtsdatum, als Passwort, da siese schnell erranten werden können. Auch leichte Abwandlungen wie "Mueller456" sicht nicht sicher gegenüber Angriffen.
+* Verwenden Sie niemals das gleich Passwort über mehrere Plattformen:
+	* Stellen Sie sicher, dass Sie für jede einzelne Plattform ein einzigartiges Passwort (so erschweren Sie Angreifer weiteren Zugriff zu bekommen).
 	* **Nutzen Sie für Ihr E-Mail Konto auf jeden Fall kryptisches, langes und einzigartiges Passwort!**
-
-
-**Einleitung**
 
 **Technischer/Rechtlicher/Datenschutz Background**
 Bei der Wahl der Passwörter tun sich viele Internetnutzer schwer, was viel zu häufig dafür sorgt, dass schlechte Passwörter, wie „1234“ oder „qwerty“ gewählt werden.<br/>
