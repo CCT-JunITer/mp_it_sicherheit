@@ -44,7 +44,11 @@ Der meist gewählte Weg von Hackern in ein Account einzudringen, ist durch die s
 Eine anderes, häufiges Angriffsszenario ist der Wörterbuchangriff. Hierbei werden nicht alle Zeichenkombinationen sondern verschiedene Wortkombinationen automatisiert als Passwort ausprobiert. Ist Ihr Passwort zwar lang, enthält aber nur eine Reihung von Worten, so kann es bei einem Wörterbuchangriff schnell erraten werden. Verwenden Sie in Ihrem passwort also Sonderzeichen um auch einen solchen Angriff zu erschweren.<br/>
 Achten Sie auch darauf, insbesondere bei Ihren E-Mail-Konten, niemals das selbe Passwort bei für verschiedene Online-Diensten zu verwenden. Kommt ein Hacker in Besitz Ihres Passwortes, hat er sonst vollen zugriff auf Ihre digitale Existenz.
 
-Ein sicheres Passwort ist eine zufällige Kombination aus Zahlen, Buchstaben und Sonderzeichen. Natürlich sind diese Passwörter schwer zu merken. Wenn es sich aber um wirklich wichtige Daten handelt, sollten Sie trotzdem ein rein zufällig generiertes Wort wie z. B. "We?y!mi89&" benutzen. Etwas sicherer sind zwar Passwörter kombiniert aus Buchstaben und und Zahlen, aber auch diese Kombinationen sind immer noch sehr leicht zu knacken! 
+Ein sicheres Passwort ist eine zufällige Kombination aus Zahlen, Buchstaben und Sonderzeichen. Natürlich sind diese Passwörter schwer zu merken.
+Darum empfehlen wir den folgenden Trick:
+Denken sie sich einen einprägsamen, aber unsinnigen Satz aus und nehmen Sie als Passwort beispielsweise immer den ersten Buchstaben eines jeden Wortes. Beziehen Sie nach Möglichekit Sonderzeichen und Zahlen mit ein.
+
+** "5 Affen schmecken besser als ein Pferd! Aber Peter sagt nein?" -> 5AsbaeP!APsn? **
 
 Außerdem ist es sehr wichtig, dass Sie, falls Sie sich online anmelden, auf eine vorhandene HTTPs-Verbindung achten. Andernfalls könnte Ihr Passwort unverschlüsselt übertragen werden und dementsprechend könnten Sie angreifbar werden (Sie sehen in den meisten Browsern ein Schloss neben der URL, falls eine HTTPs-Verbindung besteht).
 
