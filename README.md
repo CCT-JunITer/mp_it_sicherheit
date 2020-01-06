@@ -1,9 +1,9 @@
 # IT-Sicherheit Checkliste
 
-Dieses Dokument wurde von Beratern des CCT in Rahmen eines gemeinnützigen Projekts zur Unterstützung kleiner Vereine, NGOs und anderen Organisationen erstellt.<br/>
+Dieses Dokument wurde von Autoren eines studentischen Vereins in Rahmen eines gemeinnützigen Projekts zur Unterstützung insbesondere kleiner Vereine und Non-Profit Organisationen (NGOs), aber auch anderen Organisationen, erstellt.<br/>
 Es soll einen Leitfaden für IT-unerfahrene bieten, die Risiken aus der Verwendung von IT-Infrastruktur und der Datenschutz Grundverordnung zu minimieren.
 
-Ein unbedachter Umgang mit persönlichen Daten von Mitarbeitern oder Kunden kann neben den rechtlichen Konsequenzen für den Verantwortlichen, die bis hin zu Gefängnisstrafen reichen, auch ernst zu nehmende Folgen für die betroffenen Personen haben.
+Ein unbedachter Umgang mit persönlichen Daten von Mitarbeitern oder Kunden kann neben den rechtlichen Konsequenzen für den Verantwortlichen, die bis hin zu Gefängnisstrafen reichen, auch ernstzunehmende Folgen für die betroffenen Personen haben.
 
 Die Vertraulichkeit, Verfügbarkeit und Richtigkeit gespeicherter Daten, auch nach einem Angriff oder Nutzungsfehler, ist für einen reibungslosen Geschäftsablauf essenziell.
 
@@ -11,7 +11,7 @@ Mithilfe dieses Dokuments können Sie Ihre bestehende IT-Infrastruktur auf Lück
 
 **Aus rechtlichen Gründen übernehmen wir keine Verantwortung für Integrität und Vollständigkeit dieses Dokuments. Wir empfehlen im Zweifelsfall immer einen Experten zurate zu ziehen.**
 
-Bei darüber hinausgehenden Fragen kann Ihnen der CCT e.v. gerne einen persönlichen Berater vermitteln. Kontaktieren Sie dafür unverbindlich einen unserer Projektmanager.
+Bei darüber hinausgehenden Fragen kann Sie das Company Consulting Team e.v. gerne Unterstützen. Kontaktieren Sie dafür unverbindlich einen unserer Projektmanager.
 
 Dies sind die Kontakten von den Projektmanagern: <br />
 <a href="mailto:pm@cct-ev.de">pm@cct-ev.de</a> <br />
