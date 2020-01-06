@@ -48,7 +48,7 @@ Ein sicheres Passwort ist eine zufällige Kombination aus Zahlen, Buchstaben und
 Darum empfehlen wir den folgenden Trick:
 Denken sie sich einen einprägsamen, aber unsinnigen Satz aus und nehmen Sie als Passwort beispielsweise immer den ersten Buchstaben eines jeden Wortes. Beziehen Sie nach Möglichekit Sonderzeichen und Zahlen mit ein.
 
-** "5 Affen schmecken besser als ein Pferd! Aber Peter sagt nein?" -> 5AsbaeP!APsn? **
+"5 Affen schmecken besser als ein Pferd! Aber Peter sagt nein?" -> 5AsbaeP!APsn?
 
 Außerdem ist es sehr wichtig, dass Sie, falls Sie sich online anmelden, auf eine vorhandene HTTPs-Verbindung achten. Andernfalls könnte Ihr Passwort unverschlüsselt übertragen werden und dementsprechend könnten Sie angreifbar werden (Sie sehen in den meisten Browsern ein Schloss neben der URL, falls eine HTTPs-Verbindung besteht).
 
