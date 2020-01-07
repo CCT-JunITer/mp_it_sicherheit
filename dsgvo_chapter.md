@@ -23,10 +23,10 @@
 **Technischer/Rechtlicher/Datenschutz Background** <br/>
 Mit dem Inkrafttreten der DSGVO (Datenschutz-Grundverordnung) auf europäischer Ebene im Jahr 2018, ist vor allem die Verunsicherung rund um das Thema Datenschutz gestiegen. Bei Pflichtverletzungen haftet der Vorstand möglicherweise mit seinem Privatvermögen und hat dadurch ein großes Interesse daran, die internen Prozesse möglichst datenschutzkonform zu gestalten.
 
-Durch die DSGVO sind umfangreiche Verbraucherrechte, wie Einsichtnahme oder Löschung von personenbezogenen Daten und eine genaue Dokumentation der Verwendung dieser Daten vorgeschrieben.<br/>
+Durch die DSGVO sind umfangreiche Verbraucherrechte, wie Einsichtnahme oder Löschung von personenbezogenen Daten, und eine genaue Dokumentation der Verwendung dieser Daten vorgeschrieben.<br/>
 Personenbezogene Daten sind dabei alle Daten, die sich einer identifizierten oder identifizierbaren natürliche Person zuordnen lassen. Identifizierbar ist eine Person beispielsweise durch ihren Namen oder Anschrift, aber auch durch Standort-Daten oder schon eine IP-Adresse. Die DSGVO schreibt vor, wie mit eben diesen Daten umgegangen werden muss und in welchem Rahmen die Daten verwendet werden dürfen.
 
-**Um personenbezogene Daten verarbeiten zu dürfen, müssen folgende Grundsätze erfüllt werden:**
+**Um personenbezogene Daten verarbeiten zu dürfe müssen folgende Grundsätze erfüllt werden:**
 * Rechtmäßigkeit 
 * Zweckbindung/Datenminimierung/Speicherbegrenzung
 * Transparenz/Richtigkeit
@@ -37,10 +37,10 @@ Personenbezogene Daten sind dabei alle Daten, die sich einer identifizierten ode
 
 **Rechtmäßigkeit:**  Die Verarbeitung basiert auf einer rechtlichen Grundlage oder Einwilligung
 
-Zuerst einmal muss jede Verarbeitung personenbezogener Daten für die Erfüllung eines Vertrages (z. B. der Mitgliedschaft in einem Verein) als notwendig begründbar sein. Andernfalls ist eine explizite Einwilligung der betroffenen Personen erforderlich, die aber jederzeit widerrufen werden kann. <br/>
+Zuerst einmal muss jede Verarbeitung personenbezogener Daten für die Erfüllung eines Vertrages (z. B. der Mitgliedschaft in einem Verein) als notwendig begründbar sein. Andernfalls ist eine explizite Einwilligung der betroffenen Personen erforderlich, die aber jederzeit wiederrufen werden kann. <br/>
 In einem Vertragsverhältnis als notwendig begründen lassen sich beispielsweise Tätigkeiten zur Mitgliederverwaltung oder Kontaktaufnahme, nicht aber die Veröffentlichung von Namen im Internet, oder das Zusenden eines Newsletters.<br/>
 
-**Zweckbindung/Datenminimierung/Speicherbegrenzung:** Nur die nötigsten Daten würfen gespeichert werden
+**Zweckbindung/Datenminimierung/Speicherbegrenzung:** nur die nötigsten Daten würfen gespeichert werden
 
 Entfällt die Rechtsgrundlage zur Verarbeitung personenbezogener Daten, so müssen diese gelöscht werden. Dies ist zum Beispiel der Fall, wenn der zugrunde liegende Vertrag gekündigt, oder die gesonderte Einwilligung widerrufen wurde. Hierbei müssen unter Umständen gewisse Fristen beachtet werden. So kann es sinnvoll sein, bestimmte Daten (mit Einwilligung der betroffenen Person) eine gewisse Zeit aufzubewahren, um sich ggf. im Falle einer rechtlichen Auseinandersetzung rechtfertigen zu können.<br/>
 Eine Übersicht der Aufbewahrungsfristen nach DSGVO finden Sie [hier | DSGVO.tools](https://www.dsgvo.tools/aufbewahrungsfristen/)<br/>
@@ -61,7 +61,7 @@ Zusätzlich zur Transparenz nach innen müssen alle Verarbeitungsprozesse person
 
 **Kontrolle:** Absicherung gegenüber externen Datenverarbeitern und Mitarbeitern
 
-Sobald personenbezogene Daten an Dritte weitergegeben werden, oder Dritte im Zuge einer Dienstleistung Zugriff auf solche Daten erhalten könnten, schreibt die DSGVO einen Vertrag zur „Auftragsverarbeitung“ vor. Darin wird genau festgelegt, wie mit den Daten umgegangen werden muss ([Link zu Muster](https://www.lda.bayern.de/media/muster_adv.pdf)). <br/>
+Sobald personenbezogene Daten an dritte weitergegeben werden, oder dritte im Zuge einer Dienstleistung Zugriff auf solche Daten erhalten könnten, schreibt die DSGVO einen Vertrag zur „Auftragsverarbeitung“ vor. Darin wird genau festgelegt, wie mit den Daten umgegangen werden muss ([Link zu Muster](https://www.lda.bayern.de/media/muster_adv.pdf)). <br/>
 Der Vorstand ist weiterhin verpflichtet, sich auch nach innen gegenüber seinen Mitarbeitern/Mitgliedern abzusichern. Dazu empfiehlt es sich eine schriftliche Datenschutz-Verpflichtung unterschreiben zu lassen. 
 
 **Meldepflicht:** Melden von Datenpannen
