@@ -3,21 +3,21 @@
 
 **Risikoliste**
 
-* Haben Sie mehr als zehn Personen, die regelmäßigen mit dem Umgang mit personenbezogenen Daten beschäftigt sind ODER
+* [ ] Haben Sie mehr als zehn Personen, die regelmäßigen mit dem Umgang mit personenbezogenen Daten beschäftigt sind ODER
   verarbeiten Sie besonders brisanten Daten?
   * Möglicherweise benötigen Sie einen Datenschutzbeauftragten! Lassen Sie sich unbedingt gesondert beraten.
-* Haben Sie die Verarbeitung personenbezogener Daten an externe Dienstleister ausgelagert?
+* [ ] Haben Sie die Verarbeitung personenbezogener Daten an externe Dienstleister ausgelagert?
   * Stellen Sie sicher, dass zu jedem Dienstleister eine ausreichende Erklärung zur Auftragsverarbeitung vorliegt (viele Anbieter stellen eine solche Erklärung auf ihrer Webseite zur Verfügung).
-* Haben Sie kein vollständiges Verzeichnis von Verarbeitungstätigkeiten?
+* [ ] Haben Sie kein vollständiges Verzeichnis von Verarbeitungstätigkeiten?
   * Legen Sie dieses Verzeichnis an oder vervollständigen Sie es. Nutzen Sie dafür eine Vorlage (Link).
-* Ist Ihre IT-Infrastruktur nicht durch gängige Schutzmaßnahmen gegen Diebstahl von Daten gesichert ODER
+* [ ] Ist Ihre IT-Infrastruktur nicht durch gängige Schutzmaßnahmen gegen Diebstahl von Daten gesichert ODER
   können Sie diese Frage nicht beantworten?
   * Befolgen Sie die Anweisungen aus den weiterführenden Kapiteln dieses Dokuments.
-* Machen Sie Fotos von Mitgliedern oder Veröffentlichen Sie solche auf Ihrer Webseite?
+* [ ] Machen Sie Fotos von Mitgliedern oder Veröffentlichen Sie solche auf Ihrer Webseite?
   * Stellen Sie sicher, dass Sie von jeder Person eine Einwilligung für diesen Zweck haben. Diese kann durch eine Vereinssatzung, Datenschutzordnung oder separaten Einwilligung geschehen ([siehe mehr im Kapitel Social Media](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/social_media_chapter.md)).
-* Sind **nicht** alle Mitglieder im Rahmen der Informationspflichten über die Zwecke der Verarbeitung, Speicherdauer ihrer Daten und ihre Beschwerde-/Widerspruchsrechte (…) informiert?
+* [ ] Sind **nicht** alle Mitglieder im Rahmen der Informationspflichten über die Zwecke der Verarbeitung, Speicherdauer ihrer Daten und ihre Beschwerde-/Widerspruchsrechte (…) informiert?
   * Machen Sie ein entsprechendes Dokument für alle (bspw. auf Ihrer Webseite) zugänglich.
-* Sind nicht alle Datenverarbeitungsabläufe für die Vertragserfüllung notwendig?
+* [ ] Sind nicht alle Datenverarbeitungsabläufe für die Vertragserfüllung notwendig?
   * Stellen Sie sicher, dass von jedem Mitglied eine Einwilligungserklärung vorliegt.
   
 **Technischer/Rechtlicher/Datenschutz Background** <br/>
