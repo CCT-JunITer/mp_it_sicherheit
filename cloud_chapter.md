@@ -4,7 +4,12 @@
 
 * Wird Ihre Cloud möglicherweise im Ausland gehostet?
 	* Der Cloudanbieter benötigt diese Zertifikate (Trusted Cloud Zertifikat), ansonsten empfehlen wir den Anbieter zu wechseln.
-	* Weitere empfohlene Zertifizierungen: SSAE16, ISO 27001, SOC2, PCI, HIPAA.
+	* Weitere empfohlene Zertifizierungen: SSAE 16, ISO 27001, SOC 2, PCI DSS, HIPAA.
+		* SSAE 16: Bei dieser Zertifizierung wird von einem unparteiischen Dritten ein Bericht erstellt, der eine Reihe von Aussagen einer Organisation über ihre Kontrollen (Rechnungslegungsstandards) bestätigt.
+		* ISO 27001: Diese Zertifizierung besagt, dass ein Informationssicherheits-Managementsystem (ISMS) existiert. Dieses ISMS definiert den Prozess für die dauerhafte Verbesserung der IT-Sicherheit.
+		* SOC 2: Der Zweck der SOC 2 Zertifizierung besteht darin, die Informationssysteme eines Unternehmens hinsichtlich Sicherheit, Verfügbarkeit, Verarbeitungsintegrität sowie Vertraulichkeit und Datenschutz zu bewerten.
+		* PCI DSS: Die Zertifizierung besteht aus einer Reihe von Best-Practices-Richtlinien für Netzwerksicherheit und Geschäftsbetrieb, um einen "minimalen Sicherheitsstandard" zum Schutz der auf den Zahlungskarten der Kunden gespeicherten Informationen zu etablieren.
+		* HIPAA: Diese Zertifizierung schreibt Datenschutz und Sicherheitsanforderungen für "geschützte Gesundheitsdaten" vor.
 * Garantiert der Cloudanbieter kein ausreichendes Level an Datensicherheit ODER ist der Cloudanbieter ökonomisch gefährdet?
 	* Sichern Sie Ihre Daten selbst ab ODER wechseln Sie den Cloudanbieter.
 	* Im Kapitel Backup erfahren Sie, wie sie Ihre Daten zusätzlich [sichern können].(https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup.md).
