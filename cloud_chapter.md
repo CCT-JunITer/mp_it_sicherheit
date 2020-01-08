@@ -37,7 +37,7 @@ Hat der Cloud-Anbieter keine etablierte Marktposition oder besteht eine Gefahr e
 * Achten Sie in jedem Fall auf ein ausreichendes, sicheres Passwort und aktivieren Sie ggf. die 2 Faktor Authentifizierung [siehe Kapitel “Authentifizierung”].
 
 **Technischer/Rechtlicher/Datenschutz Background**
-Die Cloud bildet einen wichtigen Grundpfeiler in der digitalen Transformation und ist auch eine essenzielle Grundlage für die Verbindung der digitalen mit der physischen Welt (Internet of Things). Cloudanbieter werden, aufgrund der steigenden Nachfrage und Skaleneffekte, immer schneller und kostengünstiger, wodurch es sich für viele Anwendungsfälle lohnt, eine Cloud zu nutzen.
+Die Cloud bildet einen wichtigen Grundpfeiler in der digitalen Transformation und lohnt sich heutzutage mehr, als eigene Server zu besitzen. Cloudanbieter werden, aufgrund der steigenden Nachfrage und Skaleneffekte, immer schneller und kostengünstiger, wodurch es sich für viele Anwendungsfälle lohnt, eine Cloud zu nutzen.
 Große Cloud Anbieter, wie Google, Amazon, SAP oder IBM bieten breit gefächerte Geschäftslösungen an, wie online Backups, Web Anwendungen oder IT-Management-Systeme. Die Folge hiervon ist, dass immer mehr kritische und sensitive Informationen gesammelt und in der Cloud gespeichert werden.
 Cloud-basierte Dienstleistungen sind datenschutzrechtlich sehr kritisch, denn häufig werden hier personenbezogene Daten transferiert.
 
