@@ -3,7 +3,7 @@
 
 * Überprüfen Sie, ob Ihr Windows10 Betriebssystem auf dem aktuellen Stand ist:
   * Öffnen Sie die PC-Einstellung und wählen Sie "Update und Sicherheit" aus. Unter dem Reiter Updates finden Sie alle nötigen Informationen.
-  * **ACHTUNG**: Der Support für Windows 7 endet am 14.01.2020. Ein nicht mehr mit Updates versorgtes Betriebssystem bietet eine große Angriffsfläche, deshalb ist unsere dringende Empfehlung auf Windows10 aufzurüsten.
+  * **ACHTUNG**: Der Support für Windows7 endet am 14.01.2020. Ein nicht mehr mit Updates versorgtes Betriebssystem bietet eine große Angriffsfläche, deshalb ist unsere dringende Empfehlung auf Windows10 aufzurüsten. Dafür können auch Windows 7 Lizenzen verwendet werden.
 * Wenn ein wichtiges Update ansteht:
   * Machen Sie eine Systemabbildsicherung Ihres Computers vor der Durchführung des Updates. Lesen Sie dazu unser [Unterkapitel Backup](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup.md).
 * Wenn Sie erfahren möchten, welche Programme Ihres Systems aktuell sind:
