@@ -2,7 +2,7 @@
 
 **Risikoanalyse**
 
-* Wird Ihre Cloud möglicherweise im Ausland gehostet?
+* [ ] Wird Ihre Cloud möglicherweise im Ausland gehostet?
 	* Der Cloudanbieter benötigt diese Zertifikate (Trusted Cloud Zertifikat), ansonsten empfehlen wir den Anbieter zu wechseln.
 	* Weitere empfohlene Zertifizierungen: SSAE 16, ISO 27001, SOC 2, PCI DSS, HIPAA.
 		* SSAE 16: Bei dieser Zertifizierung wird von einem unparteiischen Dritten ein Bericht erstellt, der eine Reihe von Aussagen einer Organisation über ihre Kontrollen (Rechnungslegungsstandards) bestätigt.
@@ -10,26 +10,26 @@
 		* SOC 2: Der Zweck der SOC 2 Zertifizierung besteht darin, die Informationssysteme eines Unternehmens hinsichtlich Sicherheit, Verfügbarkeit, Verarbeitungsintegrität sowie Vertraulichkeit und Datenschutz zu bewerten.
 		* PCI DSS: Die Zertifizierung besteht aus einer Reihe von Best-Practices-Richtlinien für Netzwerksicherheit und Geschäftsbetrieb, um einen "minimalen Sicherheitsstandard" zum Schutz der auf den Zahlungskarten der Kunden gespeicherten Informationen zu etablieren.
 		* HIPAA: Diese Zertifizierung schreibt Datenschutz und Sicherheitsanforderungen für "geschützte Gesundheitsdaten" vor.
-* Garantiert der Cloudanbieter kein ausreichendes Level an Datensicherheit ODER ist der Cloudanbieter ökonomisch gefährdet?
+* [ ] Garantiert der Cloudanbieter kein ausreichendes Level an Datensicherheit ODER ist der Cloudanbieter ökonomisch gefährdet?
 	* Sichern Sie Ihre Daten selbst ab ODER wechseln Sie den Cloudanbieter.
 	* Im Kapitel Backup erfahren Sie, wie sie Ihre Daten zusätzlich [sichern können].(https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup.md).
-* Haben Personen unbefugten Zugriff auf Daten in der Cloud, die sie nicht zugewiesen sind ODER nicht bearbeiten dürfen?  
+* [ ] Haben Personen unbefugten Zugriff auf Daten in der Cloud, die sie nicht zugewiesen sind ODER nicht bearbeiten dürfen?  
 	* Legen Sie Rollenzuweisungen für alle Cloud-Nutzer an und achten Sie darauf, dass diese Rollenzuweisungen manipulationssicher und aktuell sind.
 	* Entfernen Sie ehemalige Mitarbeiter aus der Cloud.
 	* Wenn Ihre Cloud keine Rollenzuweisungen bietet, wechseln Sie den Anbieter.
-* Ist das Angebot Ihres Cloudanbieters nicht seriös ODER sind die Leistungsinhalte des Cloud-Anbieters nicht detailliert beschrieben ODER weist der Cloud-Anbieter keine solide wirtschaftliche Basis auf?
+* [ ] Ist das Angebot Ihres Cloudanbieters nicht seriös ODER sind die Leistungsinhalte des Cloud-Anbieters nicht detailliert beschrieben ODER weist der Cloud-Anbieter keine solide wirtschaftliche Basis auf?
 	* Hinterfragen Sie kostenfreie Angebote oder Angebote von nicht etablierten Anbietern.
 	* Wechseln Sie ggf. zu einem kostenpflichtigen Cloud-Anbieter.
-* Werden sehr sensible Daten (wie z. B. Rechnungen) in der Cloud gespeichert?
+* [ ] Werden sehr sensible Daten (wie z. B. Rechnungen) in der Cloud gespeichert?
 	* Stellen Sie eine verschlüsselte Übertragung der sensiblen Daten beim  Hochladen in die Cloud sicher.
 		* Achten Sie hierfür immer auf eine HTTPs-Verbindung. Dies können Sie überprüfen, indem oben in der URL ein Schloß neben dem Link existiert (hierbei wird die Verbindung sichergestellt).
 	* Für eine Verschlüsselung der Daten selbst empfehlen wir die Software „Encrypto“ ([Encrypto: Securely encrypt your files before sending them to friends or coworkers.](https://macpaw.com/encrypto)).
 		* Diese Software hilft Ihnen, Dateien mit einem sehr guten Algorithmus zu verschlüsseln.
-* Fällt Ihre Cloud möglicherweise häufig aus oder gibt es Systemabstürze ODER
+* [ ] Fällt Ihre Cloud möglicherweise häufig aus oder gibt es Systemabstürze ODER
 Existieren Subunternehmen bei diesem Cloud-Anbieter ODER
 Hat der Cloud-Anbieter keine etablierte Marktposition oder besteht eine Gefahr einer Übernahme durch Wettbewerber?
 	* Denken Sie darüber nach den Cloud-Anbieter zu wechseln.
-* Besitzen Sie auf Ihren Endgeräten, mit denen Sie Daten in die Cloud hochladen, **keinen** ausreichenden Basisschutz (Firewall, Virenschutz)?
+* [ ] Besitzen Sie auf Ihren Endgeräten, mit denen Sie Daten in die Cloud hochladen, **keinen** ausreichenden Basisschutz (Firewall, Virenschutz)?
 	* Installieren Sie verifizierte Software zum Schutz Ihrer Systeme [siehe Kapitel “Arbeiten auf Ihrem privaten/dienstlichen Rechner”].
 	
 
