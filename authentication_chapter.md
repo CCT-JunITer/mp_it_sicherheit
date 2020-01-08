@@ -22,7 +22,7 @@
 * Falls keine 2-Faktor-Authentifizierung auf der Plattform angeboten:
 	* Stellen Sie sicher, dass Sie ein sehr kryptisches, langes und einzigartiges Passwort [siehe Passwort Checkliste].
 *Checkliste für den Passwortmanager:*
-* Falls Sie mehrere starke Passwörter ODER
+* Falls Sie mehrere starke Passwörter benötigen ODER
 	wenn Sie sich Ihre Passwörter schlecht merken können ODER
 	wenn Sie Ihr Passwort nicht selber verschlüsseln können ODER
 	falls Sie oft Anmeldeformulare benutzen (Passwörter können über Formulare gestohlen werden):
