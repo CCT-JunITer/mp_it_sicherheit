@@ -1,16 +1,16 @@
 # Backup
 
 **Risikoanalyse**
-* Haben sie noch keine Backup-Strategie?
+* [ ] Haben sie noch keine Backup-Strategie?
   * Überlegen Sie sich, wie häufig Sie Ihre Daten sichern wollen. Wir empfehlen mindestens einmal im Monat. 
   * Überlegen Sie sich, wie viele Gigabyte an Nutzdaten Sie sichern möchten und ob sie eine Festplatte oder Cloudlösung bevorzugen.
-* Haben Sie noch kein Backup Ihrer Daten?
+* [ ] Haben Sie noch kein Backup Ihrer Daten?
   * Machen Sie umgehend eine Sicherung Ihrer Daten mithilfe des Dateiversionsverlaufs auf einem Speichermedium.
-* Erstellen Sie ein Systemabbild, bevor größere Änderungen Ihres Systems durchgeführt werden?
+* [ ] Erstellen Sie ein Systemabbild, bevor größere Änderungen Ihres Systems durchgeführt werden?
   * Erstellen Sie stets ein Systemabbild auf einer externen Festplatte. Lesen Sie vorher die Anleitung zu [Systemabbild erstellen](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup_instructions.md).
-* Lagern Sie Ihre Sicherungen im selben Gebäude wie das Gerät, von dem sie die Sicherungen gemacht haben?
+* [ ] Lagern Sie Ihre Sicherungen im selben Gebäude wie das Gerät, von dem sie die Sicherungen gemacht haben?
   * Um im Falle einer Havarie nicht Original und Kopie gleichermaßen zu verlieren, sollten sie ein Backup getrennt lagern.  
-* Sind Sie sich unsicher, ob der Aufbewahrungsort ihrer Backups vor fremdem Zugriff geschützt ist UND finden Sie keine sichere Alternative?
+* [ ] Sind Sie sich unsicher, ob der Aufbewahrungsort ihrer Backups vor fremdem Zugriff geschützt ist UND finden Sie keine sichere Alternative?
   * Verschlüsseln Sie den Datenträger, um ihn vor fremdem Zugriff zu schützen. Wie das geht, erfahren Sie hier: https://www.heise.de/tipps-tricks/Externe-Festplatte-sicher-verschluesseln-unter-Windows-so-geht-s-3926948.html
   * ODER: speichern Sie Ihre Backups bei einem seriösen Cloud-anbieter, um die Daten auch vor Verlust zu schützen. Lesen Sie dafür unser [Kapitel Cloud](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/cloud_chapter.md).
   
