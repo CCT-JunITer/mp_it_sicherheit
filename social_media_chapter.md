@@ -13,7 +13,6 @@
 	* Der  am Ende des Einkaufsprozess muss der Brutto-Endpreis anzegzeit werden.
 	* Weisen Sie den Nutzer außerdem daraufhin, dass hierbei die Mehrwertsteuer enthalten ist.
 	* Falls etwaige Versandkosten erhoben werden, müssen Sie den Nutzer darauf hinweisen.
-
 * [ ] Betreiben Sie einen Newsletter auf Ihrer Website?
 	* Stellen Sie sicher, dass ein Einwilligungs-Feld zum Anklicken neben dem Eingabefeld für die E-Mailadresse angezeigt werden (z. B. „Ja, ich möchte den Newsletter per E-Mail erhalten“).
 	* Double-Opt-In: der Kunde muss hier eine E-Mail erhalten mit einer Nachricht der Datenschutzhinweise und einen Bestätigungslink, der er als finale Zustimmung anklicken muss.
