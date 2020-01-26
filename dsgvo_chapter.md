@@ -40,7 +40,7 @@ Personenbezogene Daten sind dabei alle Daten, die sich einer identifizierten ode
 Zuerst einmal muss jede Verarbeitung personenbezogener Daten für die Erfüllung eines Vertrages (z. B. der Mitgliedschaft in einem Verein) als notwendig begründbar sein. Andernfalls ist eine explizite Einwilligung der betroffenen Personen erforderlich, die aber jederzeit wiederrufen werden kann. <br/>
 In einem Vertragsverhältnis als notwendig begründen lassen sich beispielsweise Tätigkeiten zur Mitgliederverwaltung oder Kontaktaufnahme, nicht aber die Veröffentlichung von Namen im Internet, oder das Zusenden eines Newsletters.<br/>
 
-**Zweckbindung/Datenminimierung/Speicherbegrenzung:** nur die nötigsten Daten würfen gespeichert werden
+**Zweckbindung/Datenminimierung/Speicherbegrenzung:** nur die nötigsten Daten dürfen gespeichert werden
 
 Entfällt die Gundlage zur Verarbeitung personenbezogener Daten, so müssen diese gelöscht werden. Dies ist zum Beispiel der Fall, wenn der zugrunde liegende Vertrag gekündigt, oder die gesonderte Einwilligung widerrufen wurde. Hierbei müssen unter Umständen gewisse Fristen beachtet werden. So kann es sinnvoll sein, bestimmte Daten (mit Einwilligung der betroffenen Person) eine gewisse Zeit aufzubewahren, um sich z.B. im Falle einer rechtlichen Auseinandersetzung rechtfertigen zu können.<br/>
 Eine Übersicht der Aufbewahrungsfristen nach DSGVO finden Sie [hier | DSGVO.tools](https://www.dsgvo.tools/aufbewahrungsfristen/)<br/>
