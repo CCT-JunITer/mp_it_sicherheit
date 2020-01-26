@@ -3,7 +3,7 @@
 
 **Praxistipps**
 
-* Schreiben Sie Ihr Passwort nicht digital oder analog auf:
+* Schreiben Sie Ihr Passwort nicht digital oder analog ungeschützt bzw. unverschlüsselt auf:
 	* Prägen Sie sich Ihre Passwörter ein oder nutzen Sie einen Passwortmanager [siehe Passwortmanager Checkliste].
 * Wenn Sie Ihr Passwort mit jemanden teilen müssen:
 	* Nutzen Sie unterschiedliche Weisen, um Ihr Passwort zu versenden.
@@ -34,16 +34,16 @@
 * Nutzen Sie keine einfachen Passwortkombination, wie „1234“ oder „qwerty“ UND verwenden Sie in Ihrem Passwort niemals Name, Geburtsdatum oder andere leicht identifizierbare Informationen zu Ihrer Person:
 	* Nutzen Sie Sonderzeichen und Zahlen, um ein kryptisches Passwort zu erstellen.
 	* Nutzen Sie keine persönlichen Informationen, wie Vor- und Nachname oder Geburtsdatum, als Passwort, da siese schnell erranten werden können. Auch leichte Abwandlungen wie "Mueller456" sicht nicht sicher gegenüber Angriffen.
-* Verwenden Sie niemals das gleich Passwort über mehrere Plattformen:
-	* Stellen Sie sicher, dass Sie für jede einzelne Plattform ein einzigartiges Passwort (so erschweren Sie Angreifer weiteren Zugriff zu bekommen).
-	* **Nutzen Sie für Ihr E-Mail Konto auf jeden Fall kryptisches, langes und einzigartiges Passwort!**
+* Verwenden Sie niemals das gleiche Passwort über mehrere Plattformen:
+	* Stellen Sie sicher, dass Sie für jede einzelne Plattform ein einzigartiges Passwort (so erschweren Sie Angreifern weiteren Zugriff zu bekommen).
+	* **Nutzen Sie für Ihr E-Mail Konto auf jeden Fall ein kryptisches, langes und einzigartiges Passwort!**
 
 **Technischer/Rechtlicher/Datenschutz Background**
 Bei der Wahl der Passwörter tun sich viele Internetnutzer schwer, was viel zu häufig dafür sorgt, dass schlechte Passwörter, wie „1234“ oder „qwerty“ gewählt werden.<br/>
 Passwörter sind dazu da, Ihre vertrauliche Daten und somit Ihr Leben im Internet zu schützen. IT-Sicherheitsexperten empfehlen stets lange, kryptische und unterschiedliche Passwörter zu benutzen.<br/>
-Der meist gewählte Weg von Hackern in ein Account einzudringen, ist durch die sogenannte Brute-Force Attacke. Dabei werden automatisiert verschidenen Zeichenkombinationen als Passwort "ausprobiert", solange, bis durch Zufall das richtige Passwort erraten wurde. Ein besonders langes Passwort sorgt dafür, dass es um so länger dauert, auf die richtige Kombination zu kommen und erhöht damit die Sicherheit Ihres Accounts.<br/>
+Der meist gewählte Weg von Hackern in ein Account einzudringen, ist durch die sogenannte Brute-Force Attacke. Dabei werden automatisiert verschidenen Zeichenkombinationen als Passwort "ausprobiert", solange, bis durch Zufall das richtige Passwort erraten wurde. Ein besonders **langes** Passwort sorgt dafür, dass es um so länger dauert, auf die richtige Kombination zu kommen und erhöht damit die Sicherheit Ihres Accounts.<br/>
 Eine anderes, häufiges Angriffsszenario ist der Wörterbuchangriff. Hierbei werden nicht alle Zeichenkombinationen sondern verschiedene Wortkombinationen automatisiert als Passwort ausprobiert. Ist Ihr Passwort zwar lang, enthält aber nur eine Reihung von Worten, so kann es bei einem Wörterbuchangriff schnell erraten werden. Verwenden Sie in Ihrem Passwort also Sonderzeichen um auch einen solchen Angriff zu erschweren.<br/>
-Achten Sie auch darauf, insbesondere bei Ihren E-Mail-Konten, niemals das selbe Passwort für verschiedene Online-Dienste zu verwenden. Kommt ein Hacker in Besitz Ihres Passwortes, hat er sonst vollen zugriff auf Ihre digitale Existenz.
+Achten Sie auch darauf, insbesondere bei Ihren E-Mail-Konten, niemals das selbe Passwort für verschiedene Online-Dienste zu verwenden. Kommt ein Hacker in Besitz Ihres Passwortes, hat er sonst vollen Zugriff auf Ihre digitale Existenz.
 
 Ein sicheres Passwort ist eine zufällige Kombination aus Zahlen, Buchstaben und Sonderzeichen. Natürlich sind diese Passwörter schwer zu merken.
 Darum empfehlen wir den folgenden Trick:
