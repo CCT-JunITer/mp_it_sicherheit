@@ -2,21 +2,22 @@
 
 **Risikoanalyse**
 
-* [ ] Können Nutzer auf Ihrer Webseite personenbezogene Daten eintragen oder einsehen?
+* [ ] Gibt es Formulare auf Ihrer Webseite ODER können Nutzer auf Ihrer Webseite personenbezogene Daten eintragen oder einsehen?
   	* Stellen Sie sicher, dass Ihre Webseite die Daten verschlüsselt überträgt (HTTPs).
-* [ ] Nutzt Ihre Webseite Cookies?
+* [ ] Nutzt Ihre Webseite Cookies, die technisch nicht notwendig sind?
   	* Stellen Sie sicher, dass die Nutzer darüber und über ihr Widerspruchsrecht informiert werden.
+	* Sie können [hier](https://www.cookieserve.com/) Ihre Cookies auf der Webseite überprüfen.
 * [ ] Nutzen Sie fremde Inhalte (z. B. Bilder oder Videos)?
 	* Für Texte, Bilder, Musik oder Videos muss eine Einwilligung vom Rechteinhaber und eine Quellenangabe vorhanden sein.
 	* Falls Personen auf Fotos zu sehen sind, müssen diese eine entsprechende Einwilligung unterschrieben haben [siehe Einwilligungsmuster].
-* [ ] Haben Sie Preisangaben auf Ihrer Website (z. B. Online Shop)?
-	* Der  am Ende des Einkaufsprozess muss der Brutto-Endpreis anzegzeit werden.
-	* Weisen Sie den Nutzer außerdem daraufhin, dass hierbei die Mehrwertsteuer enthalten ist.
+* [ ] Haben Sie Preisangaben auf Ihrer Webseite (z. B. Online Shop)?
+	* Der am Ende des Einkaufsprozess muss der Brutto-Endpreis angezeigt werden.
+	* Falls Sie einen Jahresumsatz von 18.000€ haben, müssen Sie eine Mehrwertsteuer zahlen. Weisen Sie den Nutzer daraufhin, dass beim Preis die Mehrwertsteuer enthalten ist.
 	* Falls etwaige Versandkosten erhoben werden, müssen Sie den Nutzer darauf hinweisen.
-* [ ] Betreiben Sie einen Newsletter auf Ihrer Website?
+* [ ] Betreiben Sie einen Newsletter auf Ihrer Webseite?
 	* Stellen Sie sicher, dass ein Einwilligungs-Feld zum Anklicken neben dem Eingabefeld für die E-Mailadresse angezeigt werden (z. B. „Ja, ich möchte den Newsletter per E-Mail erhalten“).
 	* Double-Opt-In: der Kunde muss hier eine E-Mail erhalten mit einer Nachricht der Datenschutzhinweise und einen Bestätigungslink, der er als finale Zustimmung anklicken muss.
-* [ ] Existieren Hyperlinks (z. B. Link zur Weiterführung zu einer anderen Website)?
+* [ ] Existieren Hyperlinks (z. B. Link zur Weiterführung zu einer anderen Webseite)?
 	* Für kommerzielle Seitenbetreiber: stellen Sie sicher, dass die verlinkten Inhalte mit Erlaubnis des Urhebers ins Netz gestellt wurden.
 * [ ] Posten Sie Fremdproduzierte Inhalte?
 	* Stellen Sie sicher, dass Sie eine Einwilligung der Produzenten der Inhalte besitzen.
@@ -28,12 +29,12 @@
 				* Wie dürfen Sie das Werk nutzen?
 				* Wo und wie oft darf es veröffentlicht werden?
 				* Darf das Werk in der ursprünglichen Form genutzt oder umgestaltet werden?
-* [ ] Benutzen Sie Stockfotos auf Ihrem Social Media Account oder Website?
+* [ ] Benutzen Sie Stockfotos auf Ihrem Social Media Account oder Webseite?
 	* Es existieren lizenzfreie (RF - Royality Free) und auch lizenzpflichtige (RM - Rights managed) Fotos.
 		* Bei freien Bildern ist der Preis abhängig von der Bildgröße.
 		* Bei Lizenzbildern ist der Preis abhängig von der Nutzungsart, der Auflage und dem Verbreitungsraum.
 		* Laut §13 UrhG hat Urheber das Recht auf Anerkennung durch einen Vermerk.
-* [ ] Zeigen Sie Schleichwerbung in Form von Produktposts auf Social Media Kanälen oder Ihrer Website?
+* [ ] Zeigen Sie Schleichwerbung in Form von Produktposts auf Social Media Kanälen oder Ihrer Webseite?
 	* Bei einem Blogeintrag muss dies als „Werbung“ gekennzeichnet werden.
 	* Wenn es sich um redaktionellern Content handelt, entfällt die Kennzeichnungspflicht.
 * [ ] Können Nutzer Ihnen Nachrichten schreiben (z. B. über Instagram oder Facebook)?
@@ -51,7 +52,7 @@
 	* Für die Verwendung der Shariff Methode wird ein Wordpress Plugin benötigt oder Sie programmieren diese Methode selber.
 		* Vorhandener Code für die Shariff Methode: [GitHub Shariff Code](https://github.com/heiseonline/shariff).
 		* Mehr Informationen dazu: [Shariff: Social-Media-Buttons mit Datenschutz](https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html).	
-* [ ] Existiert kein Impressum auf Ihrer Website ODER Sie sind nicht sicher, was Ihr Impressum enthlten muss?
+* [ ] Existiert kein Impressum auf Ihrer Webseite ODER Sie sind nicht sicher, was Ihr Impressum enthalten muss?
 	* Erstellen Sie ein Impressum, falls diese Webseite einen geschäftlichen Zweck verfolgt.
 	* Ein Impressum muss folgende Dinge beinhalten:
 		* Das Impressum muss als eigene Unterseite als wiederkehrender Link mit Bezeichnung „Impressum“ erscheinen.
@@ -77,7 +78,7 @@
 		* Werbenetzwerke (z. B. Google AdSense)
 		* Hinweis auf ein Recht zu Widerspruch, Sperrung und Löschung der Daten bzw. des Kontos
 	* Falls Sie keine finanziellen Mittel für eine spezielle Datenschutzerklärung haben können Sie auch vorerst einen kostenlosen Generator nutzen.
-		* Wir empfehlen folgende Seite: [Datenschutzerklärung erstellen nach DSGVO](https://www.e-recht24.de/muster-datenschutzerklaerung.html).
+		* Wir empfehlen folgende Seite: [Datenschutzerklärung erstellen nach DSGVO](https://www.mein-datenschutzbeauftragter.de/datenschutzerklaerung-konfigurator/).
 
 *Unsere Empfehlungen für Messenger*:
 * Slack ist sicher und DSGVO-Konform ([Slack DSGVO](https://slack.com/intl/de-de/gdpr))
