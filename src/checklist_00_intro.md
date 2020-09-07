@@ -1,21 +1,6 @@
 # Aufbau des Dokuments
 Dieses Dokument führt sie durch die wichtigsten Themen aus den Bereichen Datenschutz und IT-Sicherheit, und gibt ihnen dabei Wissen und Werkszeuge an die Hand, mit deren Hilfe sie sich vor Pannen und Angriffen schützen können.
 
-### Agenda
-
-Die folgende Agenda dient zur Orientierung in diesem Dokument.
-
-1. Datenschutz
-    1. [DSGVO](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/dsgvo_chapter.md)
-    2. [Praxistipps: Datenschutzpannen vermeiden](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/data_breaches_chapter.md)
-2. [Cloud](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/cloud_chapter.md)
-3. [Authentifizierung](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/authentication_chapter.md)
-4. [Arbeiten auf privatem/dienstlichen Rechner](#private-work-section)
-5. [Social Media](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/social_media_chapter.md)
-6. [Nutzerverhalten](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/intro.md)
-    1. [Backup](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/backup.md)
-    2. [Updates](https://github.com/FlorianWoelki/mp_it_sicherheit/blob/master/user_behaviour/updates.md)
-    
 ### Aufbau eines Kapitels:
 
 #### Checkliste:
