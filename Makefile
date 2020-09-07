@@ -1,3 +1,3 @@
 build:
-	pandoc --toc src/checklist_* -o checklist.html
-	pandoc --toc --pdf-engine=xelatex src/checklist_* -o checklist.pdf
+	pandoc --toc src/checklist.md -o checklist.html
+	pandoc --toc --pdf-engine=xelatex src/checklist.md -o checklist.pdf
