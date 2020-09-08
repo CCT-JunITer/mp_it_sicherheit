@@ -11,9 +11,9 @@ Die folgende Agenda dient zur Orientierung in diesem Dokument.
 4. [Authentifizierung](04_authentication)
 5. [Social Media](05_social_media)
 6. [Backup](06_backup)
-7. [Praxistipps: Backup erstellen](07_backup_instructions)
+7. [Praxistipps: Backups erstellen](07_backup_instructions)
 8. [Updates](08_updates)
-9. [Praxistipps](09_updates_instructions)
+9. [Praxistipps: Updates](09_updates_instructions)
 
 ### Aufbau eines Kapitels:
 
