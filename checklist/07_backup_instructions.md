@@ -7,18 +7,18 @@ Der Dateiversionsverlauf in Windows ermöglicht es Ihnen, Ihre Dateien inkrement
 3. Öffnen Sie die PC-Einstellung durch Drücken der Tastenkombination Windows + i
 4. Wählen Sie die Schaltfläche „Update und Sicherheit“ aus.
 
-![backup_image_0](images/backup_image0.png)
+![backup_image_0](../images/backup_image0.png)
 
 5. Unter dem Menüpunkt „Sicherung“ finden Sie rechts ein Plus-Zeichen neben „Laufwerk hinzufügen“. Klicken Sie darauf.
 
-![backup_image_1](images/backup_image1.png)
+![backup_image_1](../images/backup_image1.png)
 
 6. Windows10 zeigt nun alle Festplatten an, die sich für den Dateiversionsverlauf anbieten. Wählen Sie eine aus.
 7. Der Schalter bei „Meine Dateien automatisch sichern“ sollte auf Ein stehen.
 8. Klicken Sie darunter auf den Schriftzug „Weitere Optionen“.
 9. Scrollen Sie in den weiteren Optionen nach unten, um festzulegen, welche Ordner gesichert werden sollen. Unter „Diese Ordner sichern“ können Sie die Standard-Ordner von Windows anklicken und bei Bedarf entfernen. Außerdem können Sie auch eigene Ordner hinzufügen.
 
-![backup_image_2](images/backup_image2.png)
+![backup_image_2](../images/backup_image2.png)
 
 10. Ordner ausschließen können Sie weiter unten. Beachten Sie, dass dann auch alle Unterordner des Ordners ausgeschlossen sind.  
 11. Um den Zustand Ihrer Dateien sofort zu sichern, klicken Sie auf den Button „Jetzt sichern“. 
@@ -40,26 +40,26 @@ Ein Systemabbild speichert nicht nur die Nutzdaten, sondern das gesamte Dateisys
 7. Wenn Ihre Festplatte NTFS formatiert ist, öffnen Sie die PC-Einstellung durch Drücken der Tastenkombination Windows + i
 8. Wählen Sie die Schaltfläche „Update und Sicherheit“ aus.
 
-![backup_image_3](images/backup_image3.png)
+![backup_image_3](../images/backup_image3.png)
 
 9. Unter dem Menüpunkt „Sicherung“ finden Sie rechts einen Schriftzug „Weitere Optionen“. Klicken Sie darauf.
 10.	Scrollen Sie ganz nach unten und klicken Sie auf den link „siehe erweiterte Einstellungen“
 
-![backup_image_4](images/backup_image4.png)
+![backup_image_4](../images/backup_image4.png)
 
 11.	Ganz unten links ist ein Schriftzug mit „Systemabbildsicherung“. Klicken Sie darauf.
 
-![backup_image_5](images/backup_image5.png)
+![backup_image_5](../images/backup_image5.png)
 
 12.	Dann klicken Sie links auf „Systemabbild erstellen“.
 13.	Um Ihre Festplatte als Speichermedium auszuwählen. Klicken Sie auf den Kreis neben dem Schriftzug „Auf Festplatte“, wählen Sie Ihre Festplatte aus und klicken dann auf „Weiter“.
 
-![backup_image_6](images/backup_image6.png)
+![backup_image_6](../images/backup_image6.png)
 
 14.	Windows zeigt Ihnen jetzt welche Laufwerke alles gesichert werden. Die für den Betrieb von Windows benötigten Laufwerke werden automatisch in die Sicherung einbezogen.  Außer Sie wollen noch weitere Laufwerke sichern, lassen Sie alles wie es ist und klicken auf „Weiter“.
 15.	Nun zeigt Windows Ihre Sicherungs-Einstellungen. Vergewissern, Sie dass alles richtig ist und klicken Sie auf „Sicherung starten“. Der Prozess kann ein paar Minuten dauern.
 
-![backup_image_7](images/backup_image7.png)
+![backup_image_7](../images/backup_image7.png)
 
 16.	Sie werden vielleicht noch gefragt, ob Sie noch zusätzlich einen Systemreparaturdatenträger erstellen möchten. Das können Sie ignorieren.
 17.	Sie haben nun ein Systemabbild auf Ihrer externen Festplatte erstellt. Klicken Sie im File-Explorer auf dieser „Dieser PC“ und dann auf Ihre Festplatte. Sie sollten dort einen Ordner finden mit dem Namen „WindowsImageBackup“.
@@ -74,12 +74,12 @@ Wenn Windows nicht richtig funktioniert oder Sie aus anderen Gründen ein Image-
 4. Klicken Sie auf „Problembehandlung“ und dann auf „Erweiterte Optionen“.
 5. Sie befinden sich nun in den Erweiterten Start-Optionen. Wählen Sie „Systemimage-Wiederherstellung“ aus. Windows startet neu und zeigt erneut einen blauen Bildschirm. 
 
-![backup_image_8](images/backup_image8.png)
+![backup_image_8](../images/backup_image8.png)
 
 6. Wählen Sie das Konto aus, mit dem das Image erstellt wurde.
 7. Geben Sie danach das Passwort für das Konto ein und klickt auf den Button „Fortsetzen“. 
 
-![backup_image_9](images/backup_image9.png)
+![backup_image_9](../images/backup_image9.png)
 
 8. Windows wählt standardmäßig Ihr letztes Systemabbild aus. Wählen Sie alternativ ein anderes Image unter „Systemabbild auswählen“. Ansonsten klicken Sie auf „Weiter“.
 9. Das Fenster „Weitere Wiederherstellungsoptionen auswählen“ erscheint. Klicken Sie auf „Weiter“ und auf „Fertig stellen“.
