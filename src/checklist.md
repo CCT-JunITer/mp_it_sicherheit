@@ -269,11 +269,11 @@ Falls Sie Passwörter selber in einer Datenbank abspeichern, müssen Sie diese P
 		* Die Einwilligung muss ausdrücklich oder konkludent erfolgen.
 		*konkludent: eine stillschweigende Willenserklärung*
 		* Rechteinhaber kann durch Lizenzen zustimmen.
-		* Eine Überschreitung der Lizenz ist eine Verletzung des Urheberrechts.
-		* Beachten Sie dafür folgende Punkte:
-			* Wie dürfen Sie das Werk nutzen?
-			* Wo und wie oft darf es veröffentlicht werden?
-			* Darf das Werk in der ursprünglichen Form genutzt oder umgestaltet werden?
+			* Eine Überschreitung der Lizenz ist eine Verletzung des Urheberrechts.
+			* Beachten Sie dafür folgende Punkte:
+				* Wie dürfen Sie das Werk nutzen?
+				* Wo und wie oft darf es veröffentlicht werden?
+				* Darf das Werk in der ursprünglichen Form genutzt oder umgestaltet werden?
 * [ ] Benutzen Sie Stockfotos auf Ihrem Social Media Account oder Webseite?
 	* Es existieren lizenzfreie (RF - Royality Free) und auch lizenzpflichtige (RM - Rights managed) Fotos.
 		* Bei freien Bildern ist der Preis abhängig von der Bildgröße.
