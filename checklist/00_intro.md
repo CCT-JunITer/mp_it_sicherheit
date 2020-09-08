@@ -5,16 +5,15 @@ Dieses Dokument führt sie durch die wichtigsten Themen aus den Bereichen Datens
 
 Die folgende Agenda dient zur Orientierung in diesem Dokument.
 
-1. Datenschutz
-    1. [DSGVO](01_dsgvo)
-    2. [Praxistipps: Datenschutzpannen vermeiden](02_data_breaches.md)
-2. [Cloud](03_cloud)
-3. [Authentifizierung](04_authentication)
-4. [Arbeiten auf privatem/dienstlichen Rechner]()
+1. [DSGVO](01_dsgvo)
+2. [Praxistipps: Datenschutzpannen vermeiden](02_data_breaches.md)
+3. [Cloud](03_cloud)
+4. [Authentifizierung](04_authentication)
 5. [Social Media](05_social_media)
-6. [Nutzerverhalten](06_user_behavior)
-    1. [Backup](07_backup)
-    2. [Updates](08_updates)
+6. [Backup](06_backup)
+7. [Praxistipps: Backup erstellen](07_backup_instructions)
+8. [Updates](08_updates)
+9. [Praxistipps](09_updates_instructions)
 
 ### Aufbau eines Kapitels:
 
