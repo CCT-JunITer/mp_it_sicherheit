@@ -1,4 +1,4 @@
 ## Links
 
-[Liesmich](https://github.io/CCT-JunITer/mp_it_sicherheit/README.md)
-[Checkliste IT-Sicherheit](https://github.io/CCT-JunITer/mp_it_sicherheit/src/checklist.md)
+* [Liesmich](https://cct-juniter.github.io/mp_it_sicherheit/README)
+* [Checkliste IT-Sicherheit](https://cct-juniter.github.io/mp_it_sicherheit/src/checklist)
