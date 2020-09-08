@@ -1,6 +1,0 @@
-# Nutzerverhalten
-**Einleitung**
-
-Durch die voranschreitende Vernetzung unserer Welt und stetige Fortentwicklung unserer IT, öffnen sich regelmäßig neue Einfallstore für Cyberkriminelle. Der "Faktor Mensch" spielt beim Schutz Ihrer Infrastruktur, sowie der eigenen Daten eine besonders wichtige Rolle, da er sich gleichermaßen manipulieren lässt. Das Ausnutzen menschlicher Eigenschaften wie Hilfsbereitschaft, Vertrauen, Angst oder Respekt vor Autorität, ist ein weitverbreitetes Werkzeug von Kriminellen und wird als Social Enineering bezeichnet.<br/>
-Aber auch schon unbedachter Klick auf einen Email-Anhang kann schon dazu führen, dass ein ganzes Unternehmensnetzwerk von Schadsoftware befallen wird und Daten gestohlen, vernichtet oder verschlüsselt werden. Möglicherweise betrifft dies dann auch die Daten von Kunden, Geschäftspartnern und Mitarbeitern, für die Sie die Verantwortung tragen. Deshalb ist es sehr wichtig, dass sich früh über die Gefahren bei der Nutzung von IT Gedanken machen. Ein gesundes Misstrauen ist der erste Schritt, um Gefahren frühzeitig zu erkennen und vorzubeugen.<br/>
-Weitere Grundsätze möchten wir Ihnen in diesem Kapitel an die Hand geben, um Ihnen ein möglichst störfreies Arbeiten mit Ihren IT-Systemen zu ermöglichen.
